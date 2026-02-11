@@ -1,0 +1,371 @@
+{
+  "updatedAt": "2026-02-11T12:03:25.189Z",
+  "sources": [
+    "Los Tiempos",
+    "El Deber",
+    "Página Siete",
+    "Opinión"
+  ],
+  "news": [
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "P. T. Anderson y Jonny Greenwood exigen que ‘Melania’ retire la música de una de sus películas",
+      "snippet": "El cineasta Paul Thomas Anderson y el artista Jonny Greenwood, de Radiohead, han solicitado que se retire del documental Melania la música de la película El hilo invisible, que afirman que fue autorizada por Universal Pictures sin su permiso....",
+      "url": "https://www.opinion.com.bo/articulo/cultura/p-t-anderson-jonny-greenwood-exigen-que-melania-retire-musica-peliculas/20260211000025988452.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021022120358420.jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Villegas espera por un Martins en su 100% físico",
+      "snippet": "De acuerdo al entrenador nacional, el físico de Marcelo Martins será la clave para que el Matador pueda ser tomado en cuenta en el repechaje de marzo.",
+      "url": "https://www.opinion.com.bo/articulo/deportes/villegas-espera-martins-100-fisico/20260211000027988441.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021021224962475.jpg",
+      "category": "Deportes",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Los Iracundos regresan a Bolivia para festejar a los papás",
+      "snippet": "La afamada agrupación uruguaya Los Iracundos alista su regreso al país para una gira de conciertos por el Día del Padre. Son tres fechas confirmadas en La Paz, Cochabamba y Santa Cruz, informó La Razón, “Llegamos a Bolivia para celebrar a Papá...",
+      "url": "https://www.opinion.com.bo/articulo/cultura/iracundos-regresan-bolivia-festejar-papas/20260211000027988454.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021022184910475.jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Putin limita Telegram e insta a bancos a reforzar control contra fraude cibernético",
+      "snippet": "El presidente ruso, Vladimir Putin, impuso nuevas restricciones a la herramienta digital Telegram y marcha un paquete de medidas legislativas que refuerzan la vigilancia del Estado en los servicios digitales, conforme a lo reportado por el portal...",
+      "url": "https://www.opinion.com.bo/articulo/mundo/putin-limita-telegram-insta-bancos-reforzar-control-fraude-cibernetico/20260211000031988475.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021022504813078.jpg",
+      "category": "Mundo",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "El Tigre le dice adiós a la Copa Libertadores",
+      "snippet": "The Strongest tuvo la clasificación en sus manos, pero la dejó escapar y se quedó sin Gloria Eterna, eliminado por Deportivo Táchira de Venezuela por penales en una noche amarga en San Cristóbal. El cuadro atigrado había llegado con ventaja en...",
+      "url": "https://www.opinion.com.bo/articulo/deportes/tigre-dice-adios-copa-libertadores/20260211000036988481.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021023085821306.jpg",
+      "category": "Deportes",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Centros culturales y museos renuevan liderazgos con autoridades designadas",
+      "snippet": "Se trata de la Casa Nacional de Moneda, Museo Nacional de Etnografía y Folklore, Centro de la Cultura Plurinacional y Centro Cultural Museo Marina Núñez del Prado.",
+      "url": "https://www.opinion.com.bo/articulo/cultura/centros-culturales-museos-renuevan-liderazgos-nuevas-autoridades/20260211000047988450.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021022061828289.jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Lara afirma que el Gobierno compra petróleo con sobreprecio",
+      "snippet": "DTV denunció que la compra de petróleo mediante la empresa Trafigura tiene un costo mensual superior en $us 4 millones en comparación al que manejaba la subsidiaria Botrading.",
+      "url": "https://www.opinion.com.bo/articulo/pais/lara-afirma-que-gobierno-compra-petroleo-sobreprecio/20260211000049988463.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021022365212257.jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Italia compra por $ 14,9 millones famoso cuadro Ecce Homo",
+      "snippet": "El Estado italiano adquirió, por 14,9 millones de dólares, el famoso cuadro Ecce Homo, del pintor del siglo XV Antonello da Messina, y recuperó así una obra fundamental para el patrimonio cultural de la nación. El Ministerio de Cultura...",
+      "url": "https://www.opinion.com.bo/articulo/cultura/italia-compra-149-millones-famoso-cuadro-ecce-homo/20260211000052988456.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021022201956968.jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Cochabamba: 199 fiscales y auxiliares cumplirán turnos permanentes por Carnaval",
+      "snippet": "En el marco de las actividades por Carnaval, el fiscal departamental de Cochabamba, Osvaldo Tejerina, informó que, por instrucción de la Fiscalía General del Estado, se implementó un plan de contingencia con turnos permanentes antes, durante y...",
+      "url": "https://www.opinion.com.bo/articulo/policial/cochabamba-199-fiscales-auxiliares-cumpliran-turnos-permanentes-carnaval/20260211000054988461.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2023/02/18/2023021813015724664.jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "La Verde Sub-17 aplastó a Paraguay (0-5) en Torneo de Jóvenes Promesas",
+      "snippet": "¡Goleada con autoridad para un orgullo nacional! La selección boliviana Sub-17 mostró una versión aplanadora en su victoria sobre Paraguay por la segunda fecha del Torneo de Jóvenes Promesas que se desarrolla en Córdoba, Argentina (0-5). Desde...",
+      "url": "https://www.opinion.com.bo/articulo/deportes/verde-sub-17-aplasto-paraguay-5-torneo-jovenes-promesas/20260211000055988443.html",
+      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/10/2026021021282084185.jpg",
+      "category": "Deportes",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Comisión de la Verdad activó dos procesos judiciales por irregularidades en YPFB",
+      "snippet": "Comisión de la Verdad activó dos procesos judiciales por irregularidades en YPFB...",
+      "url": "https://eldeber.com.bo/pais/comision-verdad-activo-dos-procesos-judiciales-irregularidades-ypfb_1770777905",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770777440672.webp?cw=210&ch=118&extw=jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "La iglesia del pastor acusado de estupro lo separa temporalmente de sus funciones",
+      "snippet": "La iglesia del pastor acusado de estupro lo separa temporalmente de sus funciones...",
+      "url": "https://eldeber.com.bo/santa-cruz/iglesia-pastor-acusado-estupro-separa-temporalmente-funciones_1770760754",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770760675618.webp?cw=210&ch=118&extw=jpeg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Operadores de aseo exigen reajuste de precios y pago de deuda por Bs 219 millones",
+      "snippet": "Operadores de aseo exigen reajuste de precios y pago de deuda por Bs 219 millones...",
+      "url": "https://eldeber.com.bo/santa-cruz/operadores-aseo-exigen-reajuste-precios-pago-deuda-bs-219-millones_1770805199",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770805148900.webp?cw=210&ch=118&extw=jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Senado solicita a la Comisión de la Verdad indagar presunto sobreprecio en importación de combustibles",
+      "snippet": "Senado solicita a la Comisión de la Verdad indagar presunto sobreprecio en importación de combustibles...",
+      "url": "https://eldeber.com.bo/economia/senado-solicita-comision-verdad-indagar-presunto-sobreprecio-importacion-combustibles_1770769445",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770770480095/senadoravila-1-jpg..webp?cw=210&ch=118&extw=jpg",
+      "category": "Economía",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "La revolución 360° que redefine el periodismo",
+      "snippet": "La revolución 360° que redefine el periodismo...",
+      "url": "https://eldeber.com.bo/santa-cruz/revolucion-360-redefine-periodismo_1770774793",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770774439586.webp?cw=210&ch=118&extw=jpeg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Líderes destacan los 73 años de credibilidad de EL DEBER",
+      "snippet": "Líderes destacan los 73 años de credibilidad de EL DEBER...",
+      "url": "https://eldeber.com.bo/santa-cruz/lideres-destacan-73-anos-credibilidad-deber_1770774334",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770773777163.webp?cw=210&ch=118&extw=jpeg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "EL DEBER marcó la historia en Bolivia, Santa Cruz y el mundo",
+      "snippet": "EL DEBER marcó la historia en Bolivia, Santa Cruz y el mundo...",
+      "url": "https://eldeber.com.bo/santa-cruz/deber-marco-historia-bolivia-santa-cruz-mundo_1770773443",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770773349693.webp?cw=210&ch=118&extw=jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Tras más de dos meses de ‘contacto cero’, Paz saluda a Lara en efeméride de Oruro",
+      "snippet": "Tras más de dos meses de ‘contacto cero’, Paz saluda a Lara en efeméride de Oruro...",
+      "url": "https://eldeber.com.bo/pais/dos-meses-contacto-cero-paz-saluda-lara-efemeride-oruro_1770806614",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770806582994.webp?cw=210&ch=118&extw=jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Juez Zeballos desde la cárcel: “Fui aprehendido de forma ilegal, yo me presenté”",
+      "snippet": "Juez Zeballos desde la cárcel: “Fui aprehendido de forma ilegal, yo me presenté”...",
+      "url": "https://eldeber.com.bo/pais/juez-zeballos-carcel-fui-aprehendido-forma-ilegal-yo-me-presente_1770806952",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770806930377.webp?cw=210&ch=118&extw=jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Procesan a Achacollo por hechos que no se investigaron en 2016",
+      "snippet": "Procesan a Achacollo por hechos que no se investigaron en 2016...",
+      "url": "https://eldeber.com.bo/pais/procesan-achacollo-hechos-no-investigaron-2016_1770807390",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770807359297.webp?cw=350&ch=197&extw=jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Chikunguña: Seis pacientes están en terapia intensiva por cuadros de meningitis",
+      "snippet": "Chikunguña: Seis pacientes están en terapia intensiva por cuadros de meningitis...",
+      "url": "https://eldeber.com.bo/pais/chikunguna-seis-pacientes-estan-terapia-intensiva-cuadros-meningitis_1770806162",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770806145627.webp?cw=350&ch=197&extw=jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Caso 'maletas': Amplían la denuncia contra tres exfuncionarios de Aduanas",
+      "snippet": "El martes, cinco exfuncionarios de la Aduana Nacional que prestaban servicios en el aeropuerto internacional Viru Viru se presentaron a declarar ante el Departamento Especializado en Lucha Contra la Corrupción (Delcc), tres quedaron aprehendidos y dos se defenderán en libertad.",
+      "url": "https://eldeber.com.bo/santa-cruz/caso-maletas-amplian-denuncia-tres-exfuncionarios-aduanas_1770810529",
+      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770809979452.webp?cw=350&ch=197&extw=jpg",
+      "category": "País",
+      "date": "2026-02-11"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Feminicidio en Laja: hallan a una mujer apuñalada",
+      "snippet": "Feminicidio en Laja: hallan a una mujer apuñalada...",
+      "url": "https://www.lostiempos.com/actualidad/seguridad/20260210/feminicidio-laja-hallan-mujer-apunalada",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/10/feminicidio_idif_ed_va.jpg?itok=alIKwOkq",
+      "category": "País",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "\"Todo listo con el corazón del goleador\": Martins pasa pruebas físicas ¿antes de viajar a Bolivia?",
+      "snippet": "\"Todo listo con el corazón del goleador\": Martins pasa pruebas físicas ¿antes de viajar a Bolivia?...",
+      "url": "https://www.lostiempos.com/deportes/futbol/20260210/todo-listo-corazon-del-goleador-martins-pasa-pruebas-fisicas-antes-viajar",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_1/public/media_imagen/2026/2/10/martins.jpg?itok=uGM69j2j",
+      "category": "Deportes",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Gobierno y mototaxistas firman un acuerdo para activar seguro por la gasolina de mala calidad",
+      "snippet": "Gobierno y mototaxistas firman un acuerdo para activar seguro por la gasolina de mala calidad...",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260210/gobierno-mototaxistas-firman-acuerdo-activar-seguro-gasolina-mala",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/10/8_eco_1_abi.jpg?itok=qRwhAORz",
+      "category": "Economía",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Camín Cargo rechaza acusaciones y exige auditoría conjunta a YPFB",
+      "snippet": "Camín Cargo rechaza acusaciones y exige auditoría conjunta a YPFB...",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260210/camin-cargo-rechaza-acusaciones-exige-auditoria-conjunta-ypfb",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/ypfb_cisternas_avanza_ed_listo.jpg?itok=0nDrqXFY",
+      "category": "Economía",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Oruro conmemora 245 años de su gesta libertaria con la presencia de Lara",
+      "snippet": "Oruro conmemora 245 años de su gesta libertaria con la presencia de Lara...",
+      "url": "https://www.lostiempos.com/actualidad/pais/20260210/oruro-conmemora-245-anos-su-gesta-libertaria-presencia-lara",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/10/lara_en_oruro_ed_va.jpg?itok=4GbUqAF2",
+      "category": "País",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "FIFA y Conmebol: la FBF será suspendida si Wilstermann insiste en no descender por la vía ordinaria",
+      "snippet": "FIFA y Conmebol: la FBF será suspendida si Wilstermann insiste en no descender por la vía ordinaria...",
+      "url": "https://www.lostiempos.com/deportes/futbol/20260210/fifa-conmebol-fbf-sera-suspendida-si-wilstermann-insiste-no-descender",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/10/fbf_logo_ed_va.jpg?itok=fy0JY3BX",
+      "category": "Deportes",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Paz y Lara coinciden en el aniversario de Oruro y se dan un apretón de manos",
+      "snippet": "Paz y Lara coinciden en el aniversario de Oruro y se dan un apretón de manos...",
+      "url": "https://www.lostiempos.com/actualidad/pais/20260210/paz-lara-coinciden-aniversario-oruro-se-dan-apreton-manos",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/10/paz_y_lara_manos_va.jpg?itok=PFt0tJ7f",
+      "category": "País",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "“Estén unidos como hermanos, como una yunta”, les dice Monseñor Bialasik a Paz y Lara",
+      "snippet": "“Estén unidos como hermanos, como una yunta”, les dice Monseñor Bialasik a Paz y Lara...",
+      "url": "https://www.lostiempos.com/actualidad/pais/20260210/esten-unidos-como-hermanos-como-yunta-les-dice-monsenor-bialasik-paz-lara",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_apertura/public/media_imagen/2026/2/10/lara.jpg?itok=5tHg77Cz",
+      "category": "País",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Viceministro descarta bases de la DEA en Bolivia y afirma que la ayuda será informativa y logística",
+      "snippet": "Viceministro descarta bases de la DEA en Bolivia y afirma que la ayuda será informativa y logística...",
+      "url": "https://www.lostiempos.com/actualidad/seguridad/20260209/viceministro-descarta-bases-dea-bolivia-afirma-que-ayuda-sera",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_3/public/media_imagen/2026/2/9/dea.jpg?itok=ClcrdRsw",
+      "category": "País",
+      "date": "2026-02-09"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "YPFB no adjudicó el servicio para la provisión de inspección de calidad de hidrocarburos importados",
+      "snippet": "YPFB no adjudicó el servicio para la provisión de inspección de calidad de hidrocarburos importados...",
+      "url": "https://www.lostiempos.com/actualidad/pais/20260209/ypfb-no-adjudico-servicio-provision-inspeccion-calidad-hidrocarburos",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_3/public/media_imagen/2026/2/9/ypfb.jpg?itok=o4UDclrC",
+      "category": "País",
+      "date": "2026-02-09"
+    },
+    {
+      "source": "Página Siete",
+      "sourceUrl": "https://www.paginasiete.bo",
+      "title": "TNPSC Postpones Group 2 and 2A Mains Exam Due to Technical Issues",
+      "snippet": "The Tamil Nadu Public Service Commission (TNPSC) has postponed the Group 2 and Group 2A mains examination scheduled for February 8, 2026, across Tamil ... Read more",
+      "url": "https://paginasiete.bo/tnpsc-postpones-group-2-and-2a-mains-exam-due-to-technical-issues/",
+      "image": "https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=1200&q=80",
+      "category": "País",
+      "date": "2026-02-08"
+    },
+    {
+      "source": "Página Siete",
+      "sourceUrl": "https://www.paginasiete.bo",
+      "title": "Rebecca Ferguson explains why she won’t expose the actor who humiliated her on a film set",
+      "snippet": "After sharing one of the most tense episodes of her career, Rebecca Ferguson has once again commented on that terrible memory during an interview ... Read more",
+      "url": "https://paginasiete.bo/rebecca-ferguson-explains-why-she-wont-expose-the-actor-who-humiliated-her-on-a-film-set/",
+      "image": "https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=1200&q=80",
+      "category": "País",
+      "date": "2026-02-07"
+    },
+    {
+      "source": "Página Siete",
+      "sourceUrl": "https://www.paginasiete.bo",
+      "title": "Super Bowl: basic rules, game time, and other details",
+      "snippet": "This Sunday, February 8, Levi&#8216;s Stadium in Santa Clara will host Super Bowl 60, where the New England Patriots and the Seattle Seahawks will compete for the NFL title before a global audience of ... Read more",
+      "url": "https://paginasiete.bo/super-bowl-basic-rules-game-time-and-other-details/",
+      "image": "https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=1200&q=80",
+      "category": "País",
+      "date": "2026-02-07"
+    },
+    {
+      "source": "Página Siete",
+      "sourceUrl": "https://www.paginasiete.bo",
+      "title": "Bithumb’s $40bn Blunder: Accidentally Transferred 620,000 Bitcoins to its customers",
+      "snippet": "South Korean cryptocurrency platform&#160;Bithumb&#160;mistakenly gave away&#160;620,000 bitcoins to 249 users&#160;during a promotional event, the company said in a statement Saturday. The incident occurred on ... Read more",
+      "url": "https://paginasiete.bo/bithumbs-40bn-blunder-accidentally-transferred-620000-bitcoins-to-its-customers/",
+      "image": "https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=1200&q=80",
+      "category": "País",
+      "date": "2026-02-07"
+    }
+  ]
+}
