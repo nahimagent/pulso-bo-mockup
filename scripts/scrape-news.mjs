@@ -24,8 +24,14 @@ const parseDateFromUrl = (url = "") => {
 };
 
 async function fetchText(url) {
-  const res = await fetch(url, { headers: { "user-agent": UA } });
-  return await res.text();
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 20000);
+  try {
+    const res = await fetch(url, { headers: { "user-agent": UA }, signal: controller.signal });
+    return await res.text();
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 async function scrapeLosTiempos() {
@@ -141,12 +147,21 @@ async function scrapeRss(source, feedUrl, sourceUrl) {
   return items.slice(0, 10);
 }
 
+async function safeScrape(label, fn) {
+  try {
+    return await fn();
+  } catch (error) {
+    console.error(`⚠️ ${label}: ${error.message}`);
+    return [];
+  }
+}
+
 async function main() {
   const [lt, ed, p7, op] = await Promise.all([
-    scrapeLosTiempos(),
-    scrapeElDeber(),
-    scrapeRss("Página Siete", "https://www.paginasiete.bo/rss", "https://www.paginasiete.bo"),
-    scrapeRss("Opinión", "https://www.opinion.com.bo/rss", "https://www.opinion.com.bo"),
+    safeScrape("Los Tiempos", () => scrapeLosTiempos()),
+    safeScrape("El Deber", () => scrapeElDeber()),
+    safeScrape("Página Siete", () => scrapeRss("Página Siete", "https://www.paginasiete.bo/rss", "https://www.paginasiete.bo")),
+    safeScrape("Opinión", () => scrapeRss("Opinión", "https://www.opinion.com.bo/rss", "https://www.opinion.com.bo")),
   ]);
 
   const news = [...lt, ...ed, ...p7, ...op]
