@@ -18,8 +18,6 @@ const categories = ["Todo", "Santa Cruz", "País", "Economía", "Deportes", "Tec
 
 export default function Home() {
   const [activeCategory, setActiveCategory] = useState("Todo");
-  // Default to light mode (false)
-  const [dark, setDark] = useState(false);
   const [playingUrl, setPlayingUrl] = useState<string | null>(null);
 
   const allNews = newsData.news as NewsItem[];
@@ -58,43 +56,39 @@ export default function Home() {
   const more = filtered.slice(7);
 
   return (
-    <div className={dark ? "dark" : ""}>
-      <main className="min-h-screen bg-slate-50 text-slate-900 transition-colors dark:bg-slate-950 dark:text-slate-50">
+    <div className="">
+      <main className="min-h-screen bg-slate-50 text-slate-900">
         <div className="mx-auto max-w-6xl px-4 py-6 md:px-8 md:py-10">
-          <header className="mb-8 flex items-center justify-between rounded-2xl border border-slate-200 bg-white/90 p-4 shadow-sm backdrop-blur dark:border-slate-800 dark:bg-slate-900/80">
+          <header className="mb-8 flex items-center justify-between rounded-2xl border border-slate-200 bg-white/90 p-4 shadow-sm backdrop-blur">
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.16em] text-emerald-600">Pulso Bolivia</p>
-              <h1 className="text-xl font-bold md:text-3xl">Tu resumen inteligente de noticias</h1>
-              <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">
+              <h1 className="text-xl font-bold md:text-3xl text-slate-900">Tu resumen inteligente de noticias</h1>
+              <p className="mt-1 text-xs text-slate-500">
                 Actualizado: {new Date(newsData.updatedAt).toLocaleString("es-BO")}
               </p>
             </div>
-            <button
-              onClick={() => setDark((v) => !v)}
-              className="rounded-xl border border-slate-300 px-3 py-2 text-sm font-semibold hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
-            >
-              {dark ? "☀️ Claro" : "🌙 Oscuro"}
-            </button>
+            {/* Dark mode removed for cleaner pro look */}
           </header>
 
-          <section className="mb-6 rounded-2xl border border-emerald-200 bg-gradient-to-r from-emerald-500 to-sky-500 p-6 text-white shadow-lg">
+          <section className="mb-6 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
             <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
               <div>
-                <h2 className="text-xl font-bold flex items-center gap-2">
-                  🎙️ Boletín Diario con IA
+                <h2 className="text-xl font-bold flex items-center gap-2 text-slate-900">
+                  🎙️ Resumen Diario
                 </h2>
-                <p className="mt-1 text-emerald-50 text-sm opacity-90">
-                  Resumen de las noticias más importantes de hoy, generado automáticamente.
+                <p className="mt-1 text-slate-500 text-sm">
+                  Las noticias más importantes de la jornada en audio.
                 </p>
               </div>
-              <div className="bg-white/10 backdrop-blur-md p-3 rounded-xl border border-white/20 shadow-inner w-full md:w-auto min-w-[300px]">
-                 <audio controls className="w-full h-10 accent-emerald-500">
+              <div className="bg-slate-50 p-3 rounded-xl border border-slate-100 w-full md:w-auto min-w-[300px]">
+                 <audio controls className="w-full h-10 accent-slate-900">
                     <source src="./daily-briefing.mp3" type="audio/mpeg" />
                     Tu navegador no soporta el elemento de audio.
                  </audio>
               </div>
             </div>
           </section>
+
 
 
           <div className="mb-6 flex gap-2 overflow-x-auto pb-1">
@@ -114,38 +108,38 @@ export default function Home() {
           </div>
 
           {featured && (
-            <article className="mb-6 overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition-shadow hover:shadow-md dark:border-slate-800 dark:bg-slate-900">
-              <div className="relative h-64 md:h-80 w-full bg-slate-100 dark:bg-slate-800">
+            <article className="mb-6 overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition-shadow hover:shadow-md">
+              <div className="relative h-64 md:h-80 w-full bg-slate-100">
                   <img 
-                    src={featured.image || "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80"} 
+                    src={featured.image ? `https://images.weserv.nl/?url=${encodeURIComponent(featured.image)}&output=webp` : "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80"} 
                     alt={featured.title} 
                     className="h-full w-full object-cover"
                     onError={(e) => e.currentTarget.src = "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80"}
                   />
-                  <div className="absolute top-4 left-4 rounded-full bg-white/90 px-3 py-1 text-xs font-bold text-emerald-600 backdrop-blur">
+                  <div className="absolute top-4 left-4 rounded-full bg-white/90 px-3 py-1 text-xs font-bold text-slate-900 backdrop-blur border border-slate-200">
                     {timeAgo(featured.date)}
                   </div>
               </div>
               <div className="p-5 md:p-7">
                 <div className="mb-2 flex items-center justify-between">
-                    <p className="text-xs font-semibold uppercase tracking-wider text-emerald-600">
+                    <p className="text-xs font-semibold uppercase tracking-wider text-slate-500">
                       {featured.category} · {featured.source}
                     </p>
                     <button 
                       onClick={() => speakNews(featured.title + ". " + featured.snippet, featured.url)}
-                      className={`text-xl hover:scale-110 transition-transform ${playingUrl === featured.url ? "animate-pulse text-emerald-500" : "text-slate-400"}`}
+                      className={`text-xl hover:scale-110 transition-transform ${playingUrl === featured.url ? "animate-pulse text-slate-900" : "text-slate-400"}`}
                       title="Escuchar noticia"
                     >
                       {playingUrl === featured.url ? "🔊" : "🔈"}
                     </button>
                 </div>
-                <h2 className="text-2xl font-bold leading-tight md:text-3xl text-slate-900 dark:text-slate-50">{featured.title}</h2>
-                <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 line-clamp-3">{featured.snippet}</p>
+                <h2 className="text-2xl font-bold leading-tight md:text-3xl text-slate-900">{featured.title}</h2>
+                <p className="mt-3 text-sm text-slate-600 line-clamp-3">{featured.snippet}</p>
                 <a
                   href={featured.url}
                   target="_blank"
                   rel="noreferrer"
-                  className="mt-4 inline-block rounded-xl bg-slate-900 px-4 py-2 text-sm font-semibold text-white hover:bg-slate-700 dark:bg-emerald-600 dark:hover:bg-emerald-500"
+                  className="mt-4 inline-block rounded-xl bg-slate-900 px-4 py-2 text-sm font-semibold text-white hover:bg-slate-700 transition-colors"
                 >
                   Leer completa
                 </a>
@@ -155,15 +149,15 @@ export default function Home() {
 
           <section className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {secondary.map((n) => (
-              <article key={n.url} className="group overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:shadow-md hover:-translate-y-1 dark:border-slate-800 dark:bg-slate-900">
-                <div className="relative h-48 w-full bg-slate-100 dark:bg-slate-800">
+              <article key={n.url} className="group overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:shadow-md hover:-translate-y-1">
+                <div className="relative h-48 w-full bg-slate-100">
                    <img 
-                      src={n.image || "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=600&q=80"} 
+                      src={n.image ? `https://images.weserv.nl/?url=${encodeURIComponent(n.image)}&output=webp` : "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=600&q=80"} 
                       alt={n.title} 
                       className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                       onError={(e) => e.currentTarget.src = "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=600&q=80"}
                    />
-                   <div className="absolute top-2 right-2 rounded bg-black/50 px-2 py-1 text-[10px] font-bold text-white backdrop-blur">
+                   <div className="absolute top-2 right-2 rounded bg-white/90 px-2 py-1 text-[10px] font-bold text-slate-900 backdrop-blur border border-slate-200">
                       {timeAgo(n.date)}
                    </div>
                 </div>
