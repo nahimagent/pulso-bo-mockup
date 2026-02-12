@@ -51,17 +51,25 @@ export default function Home() {
             </button>
           </header>
 
-          <section className="mb-6 rounded-2xl border border-emerald-200 bg-gradient-to-r from-emerald-500 to-sky-500 p-4 text-white shadow-lg md:p-6">
-            <h2 className="text-lg font-semibold md:text-xl">Boletín de audio (placeholder)</h2>
-            <p className="mt-1 text-sm text-emerald-50">Escucha un resumen diario con IA de las noticias más importantes de Bolivia.</p>
-            <div className="mt-4 flex items-center gap-3 rounded-xl bg-white/15 p-3 backdrop-blur">
-              <button className="rounded-full bg-white px-3 py-2 text-sm font-bold text-slate-900">▶︎</button>
-              <div className="h-2 w-full rounded-full bg-white/40">
-                <div className="h-2 w-1/3 rounded-full bg-white" />
+          <section className="mb-6 rounded-2xl border border-emerald-200 bg-gradient-to-r from-emerald-500 to-sky-500 p-6 text-white shadow-lg">
+            <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
+              <div>
+                <h2 className="text-xl font-bold flex items-center gap-2">
+                  🎙️ Boletín Diario con IA
+                </h2>
+                <p className="mt-1 text-emerald-50 text-sm opacity-90">
+                  Resumen de las noticias más importantes de hoy, generado automáticamente.
+                </p>
               </div>
-              <span className="text-xs font-medium">07:24</span>
+              <div className="bg-white/10 backdrop-blur-md p-3 rounded-xl border border-white/20 shadow-inner w-full md:w-auto min-w-[300px]">
+                 <audio controls className="w-full h-10 accent-emerald-500">
+                    <source src="./daily-briefing.mp3" type="audio/mpeg" />
+                    Tu navegador no soporta el elemento de audio.
+                 </audio>
+              </div>
             </div>
           </section>
+
 
           <div className="mb-6 flex gap-2 overflow-x-auto pb-1">
             {categories.map((cat) => (
