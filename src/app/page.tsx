@@ -112,7 +112,7 @@ export default function Home() {
             <article className="mb-6 overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition-shadow hover:shadow-md">
               <div className="relative h-64 md:h-80 w-full bg-slate-100">
                   <img 
-                    src={featured.image ? `https://images.weserv.nl/?url=${encodeURIComponent(featured.image)}&output=webp&w=800` : "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80"} 
+                    src={featured.image} 
                     alt={featured.title} 
                     className="h-full w-full object-cover"
                     onError={(e) => e.currentTarget.src = "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80"}
@@ -153,7 +153,7 @@ export default function Home() {
               <article key={n.url} className="group overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:shadow-md hover:-translate-y-1">
                 <div className="relative h-48 w-full bg-slate-100">
                    <img 
-                      src={n.image ? `https://images.weserv.nl/?url=${encodeURIComponent(n.image)}&output=webp&w=600` : "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=600&q=80"} 
+                      src={n.image} 
                       alt={n.title} 
                       className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                       onError={(e) => e.currentTarget.src = "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=600&q=80"}

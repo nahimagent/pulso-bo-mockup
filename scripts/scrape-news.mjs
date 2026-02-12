@@ -72,26 +72,39 @@ async function scrapeRss(sourceName, rssUrl, categoryOverride = null) {
   }
 }
 
+// Fallback images by category (High Quality Unsplash)
+const FALLBACK_IMAGES = {
+  'Santa Cruz': 'https://images.unsplash.com/photo-1588611843986-e300959069d2?w=800&q=80', // Santa Cruz vibes
+  'Economía': 'https://images.unsplash.com/photo-1526304640152-d46f411db83e?w=800&q=80',   // Money/Business
+  'Deportes': 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800&q=80',   // Sports stadium
+  'Tecnología': 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=800&q=80', // Tech code
+  'Mundo': 'https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=800&q=80',      // World map
+  'País': 'https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80',       // Bolivia landscape
+  'default': 'https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=800&q=80'     // News generic
+};
+
 async function main() {
   console.log('🕷️ Scraping news sources...');
   
   // Updated RSS Feeds
   const [lt, ed_pais, ed_scz, eju_scz, opinion] = await Promise.all([
     scrapeRss('Los Tiempos', 'https://www.lostiempos.com/rss/ultimas'),
-    // El Deber RSS tends to be tricky, using 'pais' and 'santa-cruz' slugs directly
     scrapeRss('El Deber', 'https://eldeber.com.bo/rss/pais', 'País'),
     scrapeRss('El Deber SCZ', 'https://eldeber.com.bo/rss/santa-cruz', 'Santa Cruz'), 
     scrapeRss('Eju.tv SCZ', 'https://eju.tv/tag/santa-cruz/feed/', 'Santa Cruz'),
-    // Opinion often uses feed.html
     scrapeRss('Opinión', 'https://www.opinion.com.bo/rss/feed.html'),
   ]);
 
   const allNews = [...lt, ...ed_pais, ...ed_scz, ...eju_scz, ...opinion]
     .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .map(n => ({
-      ...n,
-      image: n.image || 'https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80'
-    }));
+    .map(n => {
+       // Validate image URL or use smart fallback
+       let validImage = n.image;
+       if (!validImage || validImage.includes('white.jpg') || validImage.length < 10) {
+         validImage = FALLBACK_IMAGES[n.category] || FALLBACK_IMAGES['default'];
+       }
+       return { ...n, image: validImage };
+    });
 
   const uniqueNews = Array.from(new Map(allNews.map(item => [item.url, item])).values());
 
