@@ -47,6 +47,7 @@ export default function Home() {
     setPlayingUrl(url);
   };
 
+  const filtered = useMemo(() => {
     if (activeCategory === "Todo") return allNews;
     return allNews.filter((n) => n.category === activeCategory);
   }, [activeCategory, allNews]);
