@@ -14,7 +14,7 @@ type NewsItem = {
   date: string;
 };
 
-const categories = ["Todo", "País", "Economía", "Deportes", "Tecnología", "Mundo"];
+const categories = ["Todo", "Santa Cruz", "País", "Economía", "Deportes", "Tecnología", "Mundo"];
 
 export default function Home() {
   const [activeCategory, setActiveCategory] = useState("Todo");

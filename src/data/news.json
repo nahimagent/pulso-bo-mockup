@@ -1,371 +1,151 @@
 {
-  "updatedAt": "2026-02-12T05:01:23.460Z",
+  "updatedAt": "2026-02-12T17:35:19.320Z",
   "sources": [
     "Los Tiempos",
     "El Deber",
-    "Página Siete",
-    "Opinión"
+    "Opinión",
+    "Eju.tv"
   ],
   "news": [
     {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "43 días sin Óscar: familia del joyero vive un calvario y exige avances",
-      "snippet": "“¿Dónde está Óscar?”, “El caso no debe quedar en silencio”, “Una familia espera respuestas”, “Exigimos celeridad”. Esos eran los mensajes de los carteles que sostenían familiares, amistades y miembros de asociaciones de orfebres, quienes...",
-      "url": "https://www.opinion.com.bo/articulo/policial/43-dias-oscar-familia-joyero-vive-calvario-exige-avances/20260212000031988540.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021122585124934.jpg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Bolivia Sub-17 vence a Ecuador y sigue enrachada (2-1)",
-      "snippet": "¡La Verde Sub-17 continúa intratable! Bolivia venció a Ecuador (2-1) en el Torneo de las Jóvenes Promesas que se desarrolla en Córdoba, Argentina.&nbsp; Los goles del combinado nacional fueron obra de los jugadores Yassir Guerra y Vasco...",
-      "url": "https://www.opinion.com.bo/articulo/deportes/bolivia-sub-17-vence-ecuador-sigue-enrachada-2-1/20260212000033988512.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021121312060225.jpg",
-      "category": "Deportes",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Comisión de la Verdad investigará presuntas irregularidades en la compra de combustibles",
-      "snippet": "El procurador del Estado, Hugo León, anunció este miércoles gestiones con la Asamblea Legislativa para establecer una Comisión de la Verdad II, cuyo objetivo será investigar presuntas irregularidades con el combustible en su compra y...",
-      "url": "https://www.opinion.com.bo/articulo/pais/comision-verdad-investigara-presuntas-irregularidades-compra-combustibles/20260212000038988519.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021122190566326.jpg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Aseguran que muerte de Kurt Cobain fue homicidio",
-      "snippet": "A más de tres décadas de la muerte de Kurt Cobain, nuevas investigaciones forenses independientes cuestionaron las circunstancias de su fallecimiento y pusieron en duda la conclusión oficial que determinó que el líder de Nirvana se quitó la vida....",
-      "url": "https://www.opinion.com.bo/articulo/cultura/aseguran-que-muerte-kurt-cobain-fue-homicidio/20260212000041988534.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2021/10/21/2021102123503777247.jpg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Cuba: Rusia cesa vuelos a la isla y repatria a 4.000 ciudadanos",
-      "snippet": "Ante la grave crisis que azota a Cuba, el gobierno de Rusia anunció el inicio de un programa para repatriar a 4.000 ciudadanos que se encuentran varados en la isla.&nbsp;&nbsp; La agencia aeronáutica civil Rosaviatsia confirmó el plan y...",
-      "url": "https://www.opinion.com.bo/articulo/mundo/cuba-rusia-cesa-vuelos-isla-repatria-4000-ciudadanos/20260212000047988529.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021122422381809.jpg",
-      "category": "Mundo",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Canadá: masacre en escuela se cobra 10 vidas; la autora sería una joven",
-      "snippet": "Producto del tiroteo, las víctimas mortales fueron halladas en dos escenarios: el instituto&nbsp; y una vivienda cercana.",
-      "url": "https://www.opinion.com.bo/articulo/mundo/canada-masacre-escuela-cobra-10-vidas-autora-seria-joven/20260212000049988525.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021122351053481.jpg",
-      "category": "Mundo",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Epstein: congresistas descubren 6 hombres 'ocultos' en los archivos",
-      "snippet": "Al calor de las fuertes críticas que recaen sobre el Departamento de Justicia de los Estados Unidos por su manejo de las informaciones que refieren al caso del pederasta fallecido Jeffrey Epstein, congresistas del país del norte no quitan el dedo...",
-      "url": "https://www.opinion.com.bo/articulo/mundo/epstein-congresistas-descubren-6-hombres-ocultos-archivos/20260212000054988527.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021122374131336.jpg",
-      "category": "Mundo",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Óscar Villegas aterriza en Monterrey para supervisar temas de logística",
-      "snippet": "La repesca se siente cada vez más cerca. A poco más de un mes para el duelo entre Bolivia y Surinam, el director técnico de La Verde, Óscar Villegas llegó en las últimas horas a la ciudad de Monterrey, territorio donde la selección nacional...",
-      "url": "https://www.opinion.com.bo/articulo/deportes/oscar-villegas-aterriza-monterrey-supervisar-temas-logistica/20260212000055988510.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021121281727632.jpg",
-      "category": "Deportes",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Margot Ayala renuncia a la ANH y denuncia a red de corrupción",
-      "snippet": "La ahora exejecutiva presentó una carta haciendo conocer su decisión, pero fuentes extraoficiales informaron a Urgente.bo que, en realidad, Ayala fue destituida del cargo.",
-      "url": "https://www.opinion.com.bo/articulo/pais/margot-ayala-renuncia-anh-denuncia-red-corrupcion/20260212000057988522.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021122252148118.jpg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Familia llora a Luana, su hijo pregunta y el autor sigue prófugo",
-      "snippet": "La madre de la víctima exige que el crimen de su hija no quede impune y que capturen al responsable, además de solicitar una alerta migratoria, ya que el buscado es brasileño.",
-      "url": "https://www.opinion.com.bo/articulo/policial/familia-llora-luana-hijo-pregunta-autor-sigue-profugo/20260212000059988538.html",
-      "image": "https://www.opinion.com.bo/media/opinion/images/2026/02/11/2026021122563132605.jpg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Presidente Paz: \"La reestructuración de la Cancillería apunta a una diplomacia sin ideologías\"",
-      "snippet": "Presidente Paz: \"La reestructuración de la Cancillería apunta a una diplomacia sin ideologías\"...",
-      "url": "https://eldeber.com.bo/pais/presidente-paz-reestructuracion-cancilleria-apunta-diplomacia-ideologias_1770850580",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770850453912.webp?cw=210&ch=118&extw=jpeg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "ABT pone énfasis en la prevención de incendios y prioriza la capacitación de bomberos",
-      "snippet": "ABT pone énfasis en la prevención de incendios y prioriza la capacitación de bomberos...",
-      "url": "https://eldeber.com.bo/santa-cruz/abt-pone-enfasis-prevencion-incendios-prioriza-capacitacion-bomberos_1770865230",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770865201090.webp?cw=210&ch=118&extw=jpg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Inteligencia artificial, formatos, audiencia fragmentada y otros desafíos para el periodismo",
-      "snippet": "Inteligencia artificial, formatos, audiencia fragmentada y otros desafíos para el periodismo...",
-      "url": "https://eldeber.com.bo/pais/inteligencia-artificial-formatos-audiencia-fragmentada-otros-desafios-periodismo_1770861721",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770861786430.webp?cw=210&ch=118&extw=jpeg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Académicos e instituciones destacan trayectoria de EL DEBER en sus 73 años",
-      "snippet": "Académicos e instituciones destacan trayectoria de EL DEBER en sus 73 años...",
-      "url": "https://eldeber.com.bo/santa-cruz/academicos-instituciones-destacan-trayectoria-deber-73-anos_1770850934",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770851834022.webp?cw=210&ch=118&extw=jpg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "EL DEBER, el medio que apostó por lo digital y hoy compite entre los grandes de Latinoamérica",
-      "snippet": "EL DEBER, el medio que apostó por lo digital y hoy compite entre los grandes de Latinoamérica...",
-      "url": "https://eldeber.com.bo/pais/deber-medio-aposto-digital-hoy-compite-grandes-latinoamerica_1770857558",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770857255518.webp?cw=210&ch=118&extw=jpeg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "“Comunicar con firmeza es construir patria”: el mensaje del Presidente por los 73 años de EL DEBER",
-      "snippet": "“Comunicar con firmeza es construir patria”: el mensaje del Presidente por los 73 años de EL DEBER...",
-      "url": "https://eldeber.com.bo/santa-cruz/comunicar-firmeza-construir-patria-mensaje-presidente-73-anos-deber_1770823340",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770823039749.webp?cw=210&ch=118&extw=jpeg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "La revolución 360° que redefine el periodismo",
-      "snippet": "La revolución 360° que redefine el periodismo...",
-      "url": "https://eldeber.com.bo/santa-cruz/revolucion-360-redefine-periodismo_1770774793",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770774439586.webp?cw=210&ch=118&extw=jpeg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Líderes destacan los 73 años de credibilidad de EL DEBER",
-      "snippet": "Líderes destacan los 73 años de credibilidad de EL DEBER...",
-      "url": "https://eldeber.com.bo/santa-cruz/lideres-destacan-73-anos-credibilidad-deber_1770774334",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770773777163.webp?cw=210&ch=118&extw=jpeg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "EL DEBER marcó la historia en Bolivia, Santa Cruz y el mundo",
-      "snippet": "EL DEBER marcó la historia en Bolivia, Santa Cruz y el mundo...",
-      "url": "https://eldeber.com.bo/santa-cruz/deber-marco-historia-bolivia-santa-cruz-mundo_1770773443",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770773349693.webp?cw=210&ch=118&extw=jpg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Así se tramitarán las indemnizaciones por daños a motorizados tras reclamos por la gasolina",
-      "snippet": "Así se tramitarán las indemnizaciones por daños a motorizados tras reclamos por la gasolina...",
-      "url": "https://eldeber.com.bo/economia/asi-tramitaran-indemnizaciones-danos-motorizados-reclamos-gasolina_1770860151",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770860865345/gasolina-jpg1-webp..webp?cw=350&ch=197&extw=webp",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Japón se une a la lucha contra incendios forestales en Bolivia y dona cuatro camiones bomberos a Bolivia",
-      "snippet": "Japón se une a la lucha contra incendios forestales en Bolivia y dona cuatro camiones bomberos a Bolivia...",
-      "url": "https://eldeber.com.bo/pais/japon-refuerza-lucha-incendios-bolivia-dona-cuatro-camiones-bomberos_1770840418",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770840188100.webp?cw=350&ch=197&extw=jpeg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Un cuartel de bomberos forestales para proteger la Chiquitania, la propuesta de Rodrigo Paz",
-      "snippet": "El mandatario aseguró que, en caso de concretarse el proyecto, él gestionará los recursos internacionales para levantar el cuartel de bomberos. Esta tarde recibió cuatro carros de bombero donados por Japón",
-      "url": "https://eldeber.com.bo/santa-cruz/cuartel-bomberos-forestales-proteger-chiquitania-propuesta-rodrigo-paz_1770848017",
-      "image": "https://pxcdn.eldeber.com.bo/eldeber/022026/1770846927532.webp?cw=350&ch=197&extw=jpeg",
-      "category": "País",
-      "date": "2026-02-12"
-    },
-    {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "¡No pague demás! Este es el precio límite de las graderías para el Carnaval de Oruro",
-      "snippet": "¡No pague demás! Este es el precio límite de las graderías para el Carnaval de Oruro...",
-      "url": "https://www.lostiempos.com/actualidad/pais/20260211/no-pague-demas-este-es-precio-limite-graderias-carnaval-oruro",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_3/public/media_imagen/2026/2/11/graderias.jpg?itok=0t4hwlfI",
+      "title": "Presidente de YPFB inspecciona en surtidores calidad de los combustibles",
+      "snippet": "El presidente de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), Yussef Akly Flores, realizó una visita técnica a la estación de servicio “Calaco...",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260211/presidente-ypfb-inspecciona-surtidores-calidad-combustibles",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-11"
-    },
-    {
-      "source": "Los Tiempos",
-      "sourceUrl": "https://www.lostiempos.com",
-      "title": "Medinaceli: Bolivia importa 90% de diésel y 50% de gasolina “por un mal manejo” en 20 años",
-      "snippet": "Medinaceli: Bolivia importa 90% de diésel y 50% de gasolina “por un mal manejo” en 20 años...",
-      "url": "https://www.lostiempos.com/actualidad/economia/20260211/medinaceli-bolivia-importa-90-diesel-50-gasolina-mal-manejo-20-anos",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_1/public/media_imagen/2026/2/11/8_eco_1_ypfb.jpg?itok=acD-zQT4",
-      "category": "Economía",
-      "date": "2026-02-11"
-    },
-    {
-      "source": "Los Tiempos",
-      "sourceUrl": "https://www.lostiempos.com",
-      "title": "Akly: El seguro solidario de daño contra terceros de YPFB Logística será ágil y no burocrático",
-      "snippet": "Akly: El seguro solidario de daño contra terceros de YPFB Logística será ágil y no burocrático...",
-      "url": "https://www.lostiempos.com/actualidad/economia/20260211/akly-seguro-solidario-dano-contra-terceros-ypfb-logistica-sera-agil-no",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/11/ypfb_presidente_nuevo_va.jpg?itok=qn2ObKLh",
-      "category": "Economía",
-      "date": "2026-02-11"
-    },
-    {
-      "source": "Los Tiempos",
-      "sourceUrl": "https://www.lostiempos.com",
-      "title": "Gobierno desmiente huelga de hambre de Laura Rojas en Palmasola",
-      "snippet": "Gobierno desmiente huelga de hambre de Laura Rojas en Palmasola...",
-      "url": "https://www.lostiempos.com/actualidad/seguridad/20260211/gobierno-desmiente-huelga-hambre-laura-rojas-palmasola",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/11/laura_rojas_ed_va.jpg?itok=IlZNG657",
-      "category": "País",
-      "date": "2026-02-11"
-    },
-    {
-      "source": "Los Tiempos",
-      "sourceUrl": "https://www.lostiempos.com",
-      "title": "Renuncia la directora de la ANH, Margot Ayala",
-      "snippet": "Renuncia la directora de la ANH, Margot Ayala...",
-      "url": "https://www.lostiempos.com/actualidad/economia/20260211/renuncia-directora-anh-margot-ayala",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/11/margot_ayala_anh_ed_va_0.jpg?itok=LCvqeZvq",
-      "category": "Economía",
-      "date": "2026-02-11"
-    },
-    {
-      "source": "Los Tiempos",
-      "sourceUrl": "https://www.lostiempos.com",
-      "title": "Aprehenden a pastor peruano acusado de estupro tras abstenerse a declarar",
-      "snippet": "Aprehenden a pastor peruano acusado de estupro tras abstenerse a declarar...",
-      "url": "https://www.lostiempos.com/actualidad/seguridad/20260211/aprehenden-pastor-peruano-acusado-estupro-abstenerse-declarar",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/media_imagen/2026/2/11/pastor_nunez_ed_va_0.jpg?itok=HWWdOgzv",
-      "category": "País",
-      "date": "2026-02-11"
+      "date": "2026-02-12T03:55:18.000Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
       "title": "Procurador anuncia Comisión de la Verdad II para investigar calidad del combustible",
-      "snippet": "Procurador anuncia Comisión de la Verdad II para investigar calidad del combustible...",
+      "snippet": "El procurador general del Estado, Hugo León La Faye, anunció este miércoles la conformación de la Comisión de la Verdad II, que estará encargada de in...",
       "url": "https://www.lostiempos.com/actualidad/economia/20260211/procurador-anuncia-comision-verdad-ii-investigar-calidad-del",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/procurado_leon_ed_va.jpg?itok=UWQYSS4x",
-      "category": "Economía",
-      "date": "2026-02-11"
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-12T00:30:15.000Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
       "title": "Anuncian más de $us 50 millones para la reforma educativa en Bolivia",
-      "snippet": "Anuncian más de $us 50 millones para la reforma educativa en Bolivia...",
+      "snippet": "El presidente de Bolivia, Rodrigo Paz, anunció este miércoles que se destinarán más de 50 millones de dólares, financiados por la Corporación Andina d...",
       "url": "https://www.lostiempos.com/actualidad/pais/20260211/anuncian-mas-us-50-millones-reforma-educativa-bolivia",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_apertura/public/media_imagen/2026/2/11/paz_btv_va_ok.jpg?itok=QwpMZIEr",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-11"
+      "date": "2026-02-11T23:39:27.000Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Camín Cargo rechaza acusaciones y exige auditoría conjunta a YPFB",
-      "snippet": "Camín Cargo rechaza acusaciones y exige auditoría conjunta a YPFB...",
-      "url": "https://www.lostiempos.com/actualidad/economia/20260210/camin-cargo-rechaza-acusaciones-exige-auditoria-conjunta-ypfb",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_2/public/ypfb_cisternas_avanza_ed_listo.jpg?itok=0nDrqXFY",
-      "category": "Economía",
-      "date": "2026-02-10"
+      "title": "Aprehenden a pastor peruano acusado de estupro tras abstenerse a declarar",
+      "snippet": "El pastor peruano Marco Núñez del Arco fue aprehendido luego de presentarse a su audiencia de declaración por la presunta comisión del delito de estup...",
+      "url": "https://www.lostiempos.com/actualidad/seguridad/20260211/aprehenden-pastor-peruano-acusado-estupro-abstenerse-declarar",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-11T21:24:22.000Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "“Estén unidos como hermanos, como una yunta”, les dice Monseñor Bialasik a Paz y Lara",
-      "snippet": "“Estén unidos como hermanos, como una yunta”, les dice Monseñor Bialasik a Paz y Lara...",
-      "url": "https://www.lostiempos.com/actualidad/pais/20260210/esten-unidos-como-hermanos-como-yunta-les-dice-monsenor-bialasik-paz-lara",
-      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_home_tipo_3/public/media_imagen/2026/2/10/lara.jpg?itok=RCSvaG_t",
+      "title": "Gobierno desmiente huelga de hambre de Laura Rojas en Palmasola",
+      "snippet": "El Ministerio de Gobierno desmintió este miércoles que la exdiputada Laura Rojas haya iniciado una huelga de hambre en el Centro de Rehabilitación Pal...",
+      "url": "https://www.lostiempos.com/actualidad/seguridad/20260211/gobierno-desmiente-huelga-hambre-laura-rojas-palmasola",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-10"
+      "date": "2026-02-11T20:17:22.000Z"
     },
     {
-      "source": "Página Siete",
-      "sourceUrl": "https://www.paginasiete.bo",
-      "title": "TNPSC Postpones Group 2 and 2A Mains Exam Due to Technical Issues",
-      "snippet": "The Tamil Nadu Public Service Commission (TNPSC) has postponed the Group 2 and Group 2A mains examination scheduled for February 8, 2026, across Tamil ... Read more",
-      "url": "https://paginasiete.bo/tnpsc-postpones-group-2-and-2a-mains-exam-due-to-technical-issues/",
-      "image": "https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=1200&q=80",
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "¡No pague demás! Este es el precio límite de las graderías para el Carnaval de Oruro",
+      "snippet": "El secretario municipal de Cultura, Víctor Hugo Vázquez, informó a Urgente.bo que el precio máximo para los asientos en las graderías durante la entra...",
+      "url": "https://www.lostiempos.com/actualidad/pais/20260211/no-pague-demas-este-es-precio-limite-graderias-carnaval-oruro",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-08"
+      "date": "2026-02-11T18:29:02.000Z"
     },
     {
-      "source": "Página Siete",
-      "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Rebecca Ferguson explains why she won’t expose the actor who humiliated her on a film set",
-      "snippet": "After sharing one of the most tense episodes of her career, Rebecca Ferguson has once again commented on that terrible memory during an interview ... Read more",
-      "url": "https://paginasiete.bo/rebecca-ferguson-explains-why-she-wont-expose-the-actor-who-humiliated-her-on-a-film-set/",
-      "image": "https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=1200&q=80",
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Comunicado BNB",
+      "snippet": "Comunicado BNB...",
+      "url": "https://www.lostiempos.com/mostrador/mostrador/20260211/comunicado-bnb",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-07"
+      "date": "2026-02-11T16:45:05.000Z"
     },
     {
-      "source": "Página Siete",
-      "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Super Bowl: basic rules, game time, and other details",
-      "snippet": "This Sunday, February 8, Levi&#8216;s Stadium in Santa Clara will host Super Bowl 60, where the New England Patriots and the Seattle Seahawks will compete for the NFL title before a global audience of ... Read more",
-      "url": "https://paginasiete.bo/super-bowl-basic-rules-game-time-and-other-details/",
-      "image": "https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=1200&q=80",
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "ENDE realiza trabajos en línea viva en el Sistema Troncal de Interconexión",
+      "snippet": "ENDE Transmisión, filial de la Empresa Nacional de Electricidad - ENDE Corporación, realizó trabajos de mantenimiento en la Línea de Transmisión 230 k...",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260211/ende-realiza-trabajos-linea-viva-sistema-troncal-interconexion",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-07"
+      "date": "2026-02-11T16:40:50.000Z"
     },
     {
-      "source": "Página Siete",
-      "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Bithumb’s $40bn Blunder: Accidentally Transferred 620,000 Bitcoins to its customers",
-      "snippet": "South Korean cryptocurrency platform&#160;Bithumb&#160;mistakenly gave away&#160;620,000 bitcoins to 249 users&#160;during a promotional event, the company said in a statement Saturday. The incident occurred on ... Read more",
-      "url": "https://paginasiete.bo/bithumbs-40bn-blunder-accidentally-transferred-620000-bitcoins-to-its-customers/",
-      "image": "https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=1200&q=80",
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Renuncia la directora de la ANH, Margot Ayala",
+      "snippet": "La directora ejecutiva de la Agencia Nacional de Hidrocarburos (ANH), Margot Ayala, presentó hoy miércoles su renuncia al cargo luego de aproximadamen...",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260211/renuncia-directora-anh-margot-ayala",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-07"
+      "date": "2026-02-11T15:58:31.000Z"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "Detenido un hombre armado que tomó como rehenes a profesores y alumnos en una escuela en Tailandia",
+      "snippet": "La Policía Real de Tailandia ha informado este miércoles de la detención de un hombre que entró armado en una escuela y tomó como rehenes a profesores...",
+      "url": "https://www.lostiempos.com/actualidad/mundo/20260211/detenido-hombre-armado-que-tomo-como-rehenes-profesores-alumnos-escuela",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-11T13:57:18.000Z"
+    },
+    {
+      "source": "Eju.tv SCZ",
+      "sourceUrl": "https://eju.tv",
+      "title": "Las cinco cosas que más buscan las mujeres al elegir un inmueble",
+      "snippet": "...",
+      "url": "https://eju.tv/2018/08/las-cinco-cosas-que-mas-buscan-las-mujeres-al-elegir-un-inmueble/",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "Santa Cruz",
+      "date": "2018-08-03T19:27:43.000Z"
+    },
+    {
+      "source": "Eju.tv SCZ",
+      "sourceUrl": "https://eju.tv",
+      "title": "Edificios eco-friendly en Santa Cruz",
+      "snippet": "...",
+      "url": "https://eju.tv/2018/07/edificios-eco-friendly-en-santa-cruz/",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "Santa Cruz",
+      "date": "2018-07-20T18:51:12.000Z"
+    },
+    {
+      "source": "Eju.tv SCZ",
+      "sourceUrl": "https://eju.tv",
+      "title": "¿Cómo lograr que una persona quiera comprar tu propiedad?",
+      "snippet": "...",
+      "url": "https://eju.tv/2018/06/como-lograr-que-una-persona-quiera-comprar-tu-propiedad/",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "Santa Cruz",
+      "date": "2018-06-29T16:05:21.000Z"
+    },
+    {
+      "source": "Eju.tv SCZ",
+      "sourceUrl": "https://eju.tv",
+      "title": "Informe revela cómo buscan inmuebles los cruceños",
+      "snippet": "...",
+      "url": "https://eju.tv/2018/06/informe-revela-como-buscan-inmuebles-los-crucenos/",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "Santa Cruz",
+      "date": "2018-06-21T13:31:22.000Z"
     }
   ]
 }
