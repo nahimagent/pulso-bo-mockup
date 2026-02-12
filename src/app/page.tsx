@@ -18,11 +18,37 @@ const categories = ["Todo", "Santa Cruz", "País", "Economía", "Deportes", "Tec
 
 export default function Home() {
   const [activeCategory, setActiveCategory] = useState("Todo");
+  // Default to light mode (false)
   const [dark, setDark] = useState(false);
+  const [playingUrl, setPlayingUrl] = useState<string | null>(null);
 
   const allNews = newsData.news as NewsItem[];
 
-  const filtered = useMemo(() => {
+  // Time ago helper
+  const timeAgo = (dateStr: string) => {
+    const diff = Date.now() - new Date(dateStr).getTime();
+    const mins = Math.floor(diff / 60000);
+    const hours = Math.floor(mins / 60);
+    if (hours > 24) return new Date(dateStr).toLocaleDateString("es-BO");
+    if (hours > 0) return `hace ${hours}h`;
+    return `hace ${mins}m`;
+  };
+
+  // Browser TTS for individual news
+  const speakNews = (text: string, url: string) => {
+    if (playingUrl === url) {
+      window.speechSynthesis.cancel();
+      setPlayingUrl(null);
+      return;
+    }
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = "es-ES";
+    utterance.onend = () => setPlayingUrl(null);
+    window.speechSynthesis.speak(utterance);
+    setPlayingUrl(url);
+  };
+
     if (activeCategory === "Todo") return allNews;
     return allNews.filter((n) => n.category === activeCategory);
   }, [activeCategory, allNews]);
@@ -88,21 +114,40 @@ export default function Home() {
           </div>
 
           {featured && (
-            <article className="mb-6 overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm dark:border-slate-800 dark:bg-slate-900">
-              <img src={featured.image} alt={featured.title} className="h-64 w-full object-cover md:h-80" />
+            <article className="mb-6 overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition-shadow hover:shadow-md dark:border-slate-800 dark:bg-slate-900">
+              <div className="relative h-64 md:h-80 w-full bg-slate-100 dark:bg-slate-800">
+                  <img 
+                    src={featured.image || "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80"} 
+                    alt={featured.title} 
+                    className="h-full w-full object-cover"
+                    onError={(e) => e.currentTarget.src = "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80"}
+                  />
+                  <div className="absolute top-4 left-4 rounded-full bg-white/90 px-3 py-1 text-xs font-bold text-emerald-600 backdrop-blur">
+                    {timeAgo(featured.date)}
+                  </div>
+              </div>
               <div className="p-5 md:p-7">
-                <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-emerald-600">
-                  {featured.category} · {featured.source}
-                </p>
-                <h2 className="text-2xl font-bold leading-tight md:text-3xl">{featured.title}</h2>
-                <p className="mt-3 text-sm text-slate-600 dark:text-slate-300">{featured.snippet}</p>
+                <div className="mb-2 flex items-center justify-between">
+                    <p className="text-xs font-semibold uppercase tracking-wider text-emerald-600">
+                      {featured.category} · {featured.source}
+                    </p>
+                    <button 
+                      onClick={() => speakNews(featured.title + ". " + featured.snippet, featured.url)}
+                      className={`text-xl hover:scale-110 transition-transform ${playingUrl === featured.url ? "animate-pulse text-emerald-500" : "text-slate-400"}`}
+                      title="Escuchar noticia"
+                    >
+                      {playingUrl === featured.url ? "🔊" : "🔈"}
+                    </button>
+                </div>
+                <h2 className="text-2xl font-bold leading-tight md:text-3xl text-slate-900 dark:text-slate-50">{featured.title}</h2>
+                <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 line-clamp-3">{featured.snippet}</p>
                 <a
                   href={featured.url}
                   target="_blank"
                   rel="noreferrer"
                   className="mt-4 inline-block rounded-xl bg-slate-900 px-4 py-2 text-sm font-semibold text-white hover:bg-slate-700 dark:bg-emerald-600 dark:hover:bg-emerald-500"
                 >
-                  Leer noticia
+                  Leer completa
                 </a>
               </div>
             </article>
@@ -110,19 +155,37 @@ export default function Home() {
 
           <section className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {secondary.map((n) => (
-              <article key={n.url} className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm dark:border-slate-800 dark:bg-slate-900">
-                <img src={n.image} alt={n.title} className="h-40 w-full object-cover" />
+              <article key={n.url} className="group overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:shadow-md hover:-translate-y-1 dark:border-slate-800 dark:bg-slate-900">
+                <div className="relative h-48 w-full bg-slate-100 dark:bg-slate-800">
+                   <img 
+                      src={n.image || "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=600&q=80"} 
+                      alt={n.title} 
+                      className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                      onError={(e) => e.currentTarget.src = "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=600&q=80"}
+                   />
+                   <div className="absolute top-2 right-2 rounded bg-black/50 px-2 py-1 text-[10px] font-bold text-white backdrop-blur">
+                      {timeAgo(n.date)}
+                   </div>
+                </div>
                 <div className="p-4">
-                  <p className="text-xs font-semibold uppercase tracking-wide text-sky-600">{n.category} · {n.source}</p>
-                  <h3 className="mt-1 text-base font-bold leading-tight">{n.title}</h3>
-                  <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">{n.snippet}</p>
-                  <a href={n.url} target="_blank" rel="noreferrer" className="mt-3 inline-block text-sm font-semibold text-emerald-600">
+                  <div className="flex justify-between items-start mb-1">
+                      <p className="text-xs font-semibold uppercase tracking-wide text-sky-600">{n.category} · {n.source}</p>
+                      <button 
+                        onClick={() => speakNews(n.title, n.url)}
+                        className={`text-lg hover:text-emerald-500 transition-colors ${playingUrl === n.url ? "text-emerald-500 animate-pulse" : "text-slate-300"}`}
+                      >
+                        {playingUrl === n.url ? "🔊" : "🔈"}
+                      </button>
+                  </div>
+                  <h3 className="mt-1 text-base font-bold leading-tight text-slate-900 dark:text-slate-100 line-clamp-3">{n.title}</h3>
+                  <a href={n.url} target="_blank" rel="noreferrer" className="mt-3 inline-block text-xs font-semibold text-emerald-600 hover:underline">
                     Ver más →
                   </a>
                 </div>
               </article>
             ))}
           </section>
+
 
           <section className="mt-8 rounded-2xl border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-900">
             <h4 className="mb-4 text-lg font-bold">Más titulares</h4>
