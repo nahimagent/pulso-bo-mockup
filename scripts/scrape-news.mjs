@@ -98,10 +98,17 @@ async function main() {
   const allNews = [...lt, ...ed_pais, ...ed_scz, ...eju_scz, ...opinion]
     .sort((a, b) => new Date(b.date) - new Date(a.date))
     .map(n => {
-       // Validate image URL or use smart fallback
+       // AGGRESSIVE FALLBACK: 
+       // El Deber and Los Tiempos block hotlinking. Use Unsplash by category for them.
+       const blockedSources = ['El Deber', 'Los Tiempos', 'El Deber SCZ'];
        let validImage = n.image;
-       if (!validImage || validImage.includes('white.jpg') || validImage.length < 10) {
-         validImage = FALLBACK_IMAGES[n.category] || FALLBACK_IMAGES['default'];
+       
+       if (blockedSources.includes(n.source) || !validImage || validImage.includes('white.jpg') || validImage.length < 10) {
+         // Rotating images per category to avoid duplicates looking identical
+         const cat = n.category || 'País';
+         validImage = FALLBACK_IMAGES[cat] || FALLBACK_IMAGES['default'];
+         // Add random parameter to avoid identical caching for same category
+         validImage += '&sig=' + Math.floor(Math.random() * 1000);
        }
        return { ...n, image: validImage };
     });
