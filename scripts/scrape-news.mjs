@@ -83,35 +83,59 @@ const FALLBACK_IMAGES = {
   'default': 'https://images.unsplash.com/photo-1504711331083-9c895941bf81?w=800&q=80'     // News generic
 };
 
+async function scrapeRedUno() {
+  try {
+    const html = await fetchText('https://www.reduno.com.bo');
+    const $ = load(html);
+    const items = [];
+
+    $('article').each((_, el) => {
+      const title = normalize($(el).find('h2, h3').text());
+      const link = $(el).find('a').attr('href');
+      const img = $(el).find('img').attr('data-src') || $(el).find('img').attr('src');
+      
+      if (!title || !link || !img) return;
+
+      items.push({
+        source: 'Red Uno',
+        sourceUrl: 'https://www.reduno.com.bo',
+        title,
+        snippet: title, // Red Uno snippets are often hidden, using title
+        url: link.startsWith('http') ? link : `https://www.reduno.com.bo${link}`,
+        image: img.startsWith('http') ? img : `https://www.reduno.com.bo${img}`,
+        category: 'País', // Defaulting
+        date: new Date().toISOString()
+      });
+    });
+    return items.slice(0, 8);
+  } catch (e) {
+    console.error('Error scraping Red Uno:', e.message);
+    return [];
+  }
+}
+
 async function main() {
-  console.log('🕷️ Scraping news sources...');
+  console.log('🕷️ Scraping news sources (REAL IMAGES MODE)...');
   
-  // Updated RSS Feeds
-  const [lt, ed_pais, ed_scz, eju_scz, opinion] = await Promise.all([
+  const [lt, ed_pais, ed_scz, eju_scz, opinion, reduno] = await Promise.all([
     scrapeRss('Los Tiempos', 'https://www.lostiempos.com/rss/ultimas'),
     scrapeRss('El Deber', 'https://eldeber.com.bo/rss/pais', 'País'),
     scrapeRss('El Deber SCZ', 'https://eldeber.com.bo/rss/santa-cruz', 'Santa Cruz'), 
     scrapeRss('Eju.tv SCZ', 'https://eju.tv/tag/santa-cruz/feed/', 'Santa Cruz'),
     scrapeRss('Opinión', 'https://www.opinion.com.bo/rss/feed.html'),
+    scrapeRedUno()
   ]);
 
-  const allNews = [...lt, ...ed_pais, ...ed_scz, ...eju_scz, ...opinion]
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .map(n => {
-       // AGGRESSIVE FALLBACK: 
-       // El Deber and Los Tiempos block hotlinking. Use Unsplash by category for them.
-       const blockedSources = ['El Deber', 'Los Tiempos', 'El Deber SCZ'];
-       let validImage = n.image;
-       
-       if (blockedSources.includes(n.source) || !validImage || validImage.includes('white.jpg') || validImage.length < 10) {
-         // Use Lorem Picsum for reliable random images
-         // Seed ensures the same image for the same article URL hash
-         const seed = Buffer.from(n.url).toString('base64').slice(0, 10);
-         validImage = `https://picsum.photos/seed/${seed}/800/500`;
-       }
-       return { ...n, image: validImage };
-    });
+  // Mix content to make it interesting (Shuffle)
+  const allNews = [...reduno, ...ed_scz, ...lt, ...eju_scz, ...ed_pais, ...opinion]
+    .filter(n => n.image && n.image.length > 10) // Filter items without valid images
+    .map(n => ({
+       ...n,
+       // Force HTTPS on images
+       image: n.image.replace('http://', 'https://')
+    }));
 
+  // Remove duplicates based on URL
   const uniqueNews = Array.from(new Map(allNews.map(item => [item.url, item])).values());
 
   await mkdir('src/data', { recursive: true });
