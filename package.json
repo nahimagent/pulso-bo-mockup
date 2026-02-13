@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "scrape": "node scripts/scrape-news.mjs",
+    "generate-audio": "node scripts/generate-audio.mjs",
     "build": "npm run scrape && next build --webpack",
     "start": "next start",
     "lint": "eslint"
