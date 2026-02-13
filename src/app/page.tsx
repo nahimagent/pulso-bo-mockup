@@ -12,6 +12,7 @@ type NewsItem = {
   image: string;
   category: string;
   date: string;
+  audioUrl?: string; // New field
 };
 
 const categories = ["Todo", "Santa Cruz", "País", "Economía", "Deportes", "Tecnología", "Mundo"];
@@ -19,6 +20,7 @@ const categories = ["Todo", "Santa Cruz", "País", "Economía", "Deportes", "Tec
 export default function Home() {
   const [activeCategory, setActiveCategory] = useState("Todo");
   const [playingUrl, setPlayingUrl] = useState<string | null>(null);
+  const [audioInstance, setAudioInstance] = useState<HTMLAudioElement | null>(null);
 
   const allNews = newsData.news as NewsItem[];
 
@@ -32,19 +34,36 @@ export default function Home() {
     return `hace ${mins}m`;
   };
 
-  // Browser TTS for individual news
-  const speakNews = (text: string, url: string) => {
-    if (playingUrl === url) {
-      window.speechSynthesis.cancel();
+  // Advanced Audio Player (ElevenLabs MP3 > Browser TTS)
+  const playNewsAudio = (item: NewsItem) => {
+    // Stop current audio
+    if (audioInstance) {
+      audioInstance.pause();
+      setAudioInstance(null);
+    }
+    window.speechSynthesis.cancel();
+
+    // Toggle off if clicking same item
+    if (playingUrl === item.url) {
       setPlayingUrl(null);
       return;
     }
-    window.speechSynthesis.cancel();
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = "es-ES";
-    utterance.onend = () => setPlayingUrl(null);
-    window.speechSynthesis.speak(utterance);
-    setPlayingUrl(url);
+
+    setPlayingUrl(item.url);
+
+    if (item.audioUrl) {
+      // Play Premium Audio
+      const audio = new Audio(item.audioUrl);
+      audio.onended = () => setPlayingUrl(null);
+      audio.play().catch(e => console.error("Audio error:", e));
+      setAudioInstance(audio);
+    } else {
+      // Fallback to Browser TTS
+      const utterance = new SpeechSynthesisUtterance(item.title + ". " + item.snippet);
+      utterance.lang = "es-ES";
+      utterance.onend = () => setPlayingUrl(null);
+      window.speechSynthesis.speak(utterance);
+    }
   };
 
   const filtered = useMemo(() => {
@@ -127,7 +146,7 @@ export default function Home() {
                       {featured.category} · {featured.source}
                     </p>
                     <button 
-                      onClick={() => speakNews(featured.title + ". " + featured.snippet, featured.url)}
+                      onClick={() => playNewsAudio(featured)}
                       className={`text-xl hover:scale-110 transition-transform ${playingUrl === featured.url ? "animate-pulse text-emerald-600" : "text-slate-400"}`}
                       title="Escuchar noticia"
                     >
@@ -166,7 +185,7 @@ export default function Home() {
                   <div className="flex justify-between items-start mb-1">
                       <p className="text-xs font-semibold uppercase tracking-wide text-sky-600">{n.category} · {n.source}</p>
                       <button 
-                        onClick={() => speakNews(n.title, n.url)}
+                        onClick={() => playNewsAudio(n)}
                         className={`text-lg hover:text-emerald-500 transition-colors ${playingUrl === n.url ? "text-emerald-500 animate-pulse" : "text-slate-300"}`}
                       >
                         {playingUrl === n.url ? "🔊" : "🔈"}
