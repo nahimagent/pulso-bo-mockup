@@ -244,11 +244,16 @@ async function main() {
     }
   }
 
-  // Apply fallback images where needed
+  // Proxy images through wsrv.nl to bypass hotlinking blocks
+  // Sources known to block: El Deber, Los Tiempos, Opinión
+  const BLOCKED_SOURCES = ['El Deber', 'Los Tiempos', 'Opinión'];
   const finalNews = allNews.map(n => {
     let img = n.image;
-    if (!img || img.length < 10 || img.includes('data:image') || img.includes('placeholder')) {
+    if (!img || img.length < 10 || img.includes('data:image') || img.includes('placeholder') || img.includes('svg+xml')) {
       img = FALLBACK_IMAGES[n.category] || FALLBACK_IMAGES['default'];
+    } else if (BLOCKED_SOURCES.includes(n.source)) {
+      // Proxy through wsrv.nl to bypass hotlinking protection
+      img = `https://wsrv.nl/?url=${encodeURIComponent(img.replace('http://', 'https://'))}&w=800&output=webp&q=80`;
     }
     return { ...n, image: img.replace('http://', 'https://') };
   });
