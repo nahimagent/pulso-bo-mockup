@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T12:35:00.605Z",
+  "updatedAt": "2026-02-24T00:30:18.107Z",
   "sources": [
     "El Deber",
     "Los Tiempos",
@@ -12,13 +12,12 @@
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Elecciones subnacionales: Se inicia la notificación de jurados y la presentación de excusas",
-      "snippet": "Elecciones subnacionales: Se inicia la notificación de jurados y la presentación de excusas",
-      "url": "https://eldeber.com.bo/pais/elecciones-subnacionales-inicia-notificacion-jurados-presentacion-excusas_1771848919",
+      "title": "Subnacionales: El afán por repostularse genera inquietud",
+      "snippet": "Subnacionales: El afán por repostularse genera inquietud",
+      "url": "https://eldeber.com.bo/pais/subnacionales-afan-repostularse-genera-inquietud_1771890738",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.291Z",
-      "audioUrl": "/audio/news-ddf67e05.mp3"
+      "date": "2026-02-24T00:30:12.562Z"
     },
     {
       "source": "Los Tiempos",
@@ -28,30 +27,27 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260223/editorial/mercurio-contaminacion-silenciosa",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.729Z",
-      "audioUrl": "/audio/news-80837806.mp3"
+      "date": "2026-02-24T00:30:12.907Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "El caso Yuvinka: un infanticidio, un giro en la investigación y el pedido de justicia",
-      "snippet": "El caso Yuvinka: un infanticidio, un giro en la investigación y el pedido de justicia",
-      "url": "https://www.opinion.com.bo/articulo/policial/caso-yuvinka-infanticidio-giro-investigacion-pedido-justicia/20260222221740989005.html",
+      "title": "Gasolina de ‘mala calidad': transporte Libre de la Llajta, en ‘emergencia’, pide al Gobierno ‘dar la cara’",
+      "snippet": "Gasolina de ‘mala calidad': transporte Libre de la Llajta, en ‘emergencia’, pide al Gobierno ‘dar la cara’",
+      "url": "https://www.opinion.com.bo/articulo/cochabamba/transporte-libre-emergencia-gasolina-mala-calidad-pide-gobierno-dar-cara/20260223143116989021.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.206Z",
-      "audioUrl": "/audio/news-ce13d314.mp3"
+      "date": "2026-02-24T00:30:12.515Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Cochabamba: largas filas en el TED por excusas de jurados",
-      "snippet": "Cochabamba: largas filas en el TED por excusas de jurados",
-      "url": "https://www.reduno.com.bo/noticias/desde-la-madrugada-filas-en-el-ted-de-cochabamba-para-excusarse-como-jurado-20262237038",
-      "image": "https://pxcdn.reduno.com.bo/reduno/022026/1771844335243.webp?extw=jpg&cw=456&ch=256",
+      "title": "Retiran de la clínica el cuerpo de menor atropellada en el Plan 3000",
+      "snippet": "Retiran de la clínica el cuerpo de menor atropellada en el Plan 3000",
+      "url": "https://www.reduno.com.bo/noticias/retiran-de-la-clinica-el-cuerpo-de-menor-atropellada-en-el-plan-3000-202622319510",
+      "image": "./images/news-60b9d2df31.jpg",
       "category": "País",
-      "date": "2026-02-23T12:34:59.243Z",
-      "audioUrl": null
+      "date": "2026-02-24T00:30:12.475Z"
     },
     {
       "source": "Página Siete",
@@ -59,32 +55,29 @@
       "title": "Golden State Warriors welcome Kristaps Porziņģis in debut after trade",
       "snippet": "Golden State Warriors welcome Kristaps Porziņģis in debut after trade",
       "url": "https://paginasiete.bo/golden-state-warriors-welcome-kristaps-porzingis-in-debut-after-trade/",
-      "image": "https://paginasiete.bo/wp-content/uploads/2026/02/Kristaps-Porzingis-1-300x157.jpg",
+      "image": "./images/news-8f2c9aa12d.jpg",
       "category": "País",
-      "date": "2026-02-23T12:35:00.603Z",
-      "audioUrl": "/audio/news-8f2c9aa1.mp3"
+      "date": "2026-02-24T00:30:14.016Z"
     },
     {
       "source": "Eju.tv",
       "sourceUrl": "https://eju.tv",
-      "title": "Segip suspenderá la atención en Cochabamba este 24 de febrero por corte de energía",
-      "snippet": "Segip suspenderá la atención en Cochabamba este 24 de febrero por corte de energía",
-      "url": "https://eju.tv/2026/02/segip-suspendera-la-atencion-en-cochabamba-este-24-de-febrero-por-corte-de-energia/",
-      "image": "https://eju.tv/wp-content/uploads/2026/02/zocioo11-400x280.jpg",
+      "title": "Esabol acumula pérdidas por Bs 47 MM; se expone a una quiebra técnica",
+      "snippet": "Esabol acumula pérdidas por Bs 47 MM; se expone a una quiebra técnica",
+      "url": "https://eju.tv/2026/02/esabol-acumula-perdidas-por-bs-47-mm-se-expone-a-una-quiebra-tecnica/",
+      "image": "./images/news-f3cde7a88f.jpg",
       "category": "País",
-      "date": "2026-02-23T12:34:59.341Z",
-      "audioUrl": "/audio/news-76dfc376.mp3"
+      "date": "2026-02-24T00:30:12.647Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Granizada deja cultivos destruidos y animales muertos en Huarina",
-      "snippet": "Granizada deja cultivos destruidos y animales muertos en Huarina",
-      "url": "https://eldeber.com.bo/pais/granizada-deja-cultivos-destruidos-animales-muertos-huarina_1771849303",
+      "title": "Piden ampliar investigación por infanticidio a sujeto que agredió a un menor",
+      "snippet": "Piden ampliar investigación por infanticidio a sujeto que agredió a un menor",
+      "url": "https://eldeber.com.bo/pais/piden-ampliar-investigacion-infanticidio-sujeto-agredio-menor_1771886589",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.293Z",
-      "audioUrl": "/audio/news-c1d6ae61.mp3"
+      "date": "2026-02-24T00:30:12.564Z"
     },
     {
       "source": "Los Tiempos",
@@ -92,32 +85,29 @@
       "title": "Reiniciando relaciones diplomáticas",
       "snippet": "Reiniciando relaciones diplomáticas",
       "url": "https://www.lostiempos.com/actualidad/opinion/20260223/columna/reiniciando-relaciones-diplomaticas",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Frolando_telleria_arebalo_web.jpg%3Fitok%3DnasL4k0L&w=800&output=webp&q=80",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.729Z",
-      "audioUrl": "/audio/news-4c043b57.mp3"
+      "date": "2026-02-24T00:30:12.907Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Aurora deja en el camino a San Antonio y avanza a semis de la mano de Cordano",
-      "snippet": "Aurora deja en el camino a San Antonio y avanza a semis de la mano de Cordano",
-      "url": "https://www.opinion.com.bo/articulo/deportes/aurora-avanza-semis-mano-cordano-deja-camino-san-antonio/20260223000002989011.html",
+      "title": "La Verde se despedirá de la hinchada en amistoso ante Trinidad y Tobago antes del repechaje",
+      "snippet": "La Verde se despedirá de la hinchada en amistoso ante Trinidad y Tobago antes del repechaje",
+      "url": "https://www.opinion.com.bo/articulo/deportes/antes-repechaje-verde-despedira-hinchada-amistoso-trinidad-tobago/20260223201617989036.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.206Z",
-      "audioUrl": "/audio/news-70c24c1a.mp3"
+      "date": "2026-02-24T00:30:12.516Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Tormentas eléctricas y lluvias marcarán la jornada de este lunes",
-      "snippet": "Tormentas eléctricas y lluvias marcarán la jornada de este lunes",
-      "url": "https://www.reduno.com.bo/noticias/aliste-su-paraguas-se-pronostican-lluvias-y-tormentas-electricas-este-lunes-202622364113",
-      "image": "https://pxcdn.reduno.com.bo/reduno/022026/1771843157699.webp?extw=jpg&cw=456&ch=256",
+      "title": "¡Atención padres! Así puedes activar una ‘licencia automática’",
+      "snippet": "¡Atención padres! Así puedes activar una ‘licencia automática’",
+      "url": "https://www.reduno.com.bo/noticias/hijo-con-sintomas-de-chikungunya-conozca-como-gestionar-la-inasistencia-escolar-sin-salir-de-casa-2026223174858",
+      "image": "./images/news-4a43f10a50.jpg",
       "category": "País",
-      "date": "2026-02-23T12:34:59.244Z",
-      "audioUrl": "/audio/news-9fb3cbb8.mp3"
+      "date": "2026-02-24T00:30:12.475Z"
     },
     {
       "source": "Página Siete",
@@ -125,21 +115,19 @@
       "title": "SpaceX launches latest Starlink rocket from Florida",
       "snippet": "SpaceX launches latest Starlink rocket from Florida",
       "url": "https://paginasiete.bo/spacex-launches-latest-starlink-rocket-from-florida/",
-      "image": "https://paginasiete.bo/wp-content/uploads/2026/02/Artemis-2-300x157.jpg",
+      "image": "./images/news-4042cf9c04.jpg",
       "category": "País",
-      "date": "2026-02-23T12:35:00.603Z",
-      "audioUrl": "/audio/news-4042cf9c.mp3"
+      "date": "2026-02-24T00:30:14.016Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Descubren una vagoneta con más de tres mil cápsulas de cocaína; hay dos aprehendidos",
-      "snippet": "Descubren una vagoneta con más de tres mil cápsulas de cocaína; hay dos aprehendidos",
-      "url": "https://eldeber.com.bo/pais/descubren-vagoneta-tres-mil-capsulas-cocaina-hay-dos-aprehendidos_1771846309",
+      "title": "Diputados tramita una modificación a ley de arraigo obligatorio recientemente promulgada",
+      "snippet": "Diputados tramita una modificación a ley de arraigo obligatorio recientemente promulgada",
+      "url": "https://eldeber.com.bo/pais/diputados-tramita-modificacion-ley-arraigo-obligatorio-recientemente-promulgada_1771883239",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.293Z",
-      "audioUrl": "/audio/news-d9063ec2.mp3"
+      "date": "2026-02-24T00:30:12.564Z"
     },
     {
       "source": "Los Tiempos",
@@ -147,10 +135,109 @@
       "title": "¿Reconfiguración del tablero mundial?",
       "snippet": "¿Reconfiguración del tablero mundial?",
       "url": "https://www.lostiempos.com/actualidad/opinion/20260223/columna/reconfiguracion-del-tablero-mundial",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Frolando_telleria_arebalo_web.jpg%3Fitok%3DnasL4k0L&w=800&output=webp&q=80",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.729Z",
-      "audioUrl": "/audio/news-17a84958.mp3"
+      "date": "2026-02-24T00:30:12.907Z"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Ratifican orden de aprehensión contra Evo y esperan fecha para juicio oral",
+      "snippet": "Ratifican orden de aprehensión contra Evo y esperan fecha para juicio oral",
+      "url": "https://www.opinion.com.bo/articulo/pais/ratifican-orden-aprehension-evo-esperan-fecha-juicio-oral/20260223185321989031.html",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-24T00:30:12.516Z"
+    },
+    {
+      "source": "Red Uno",
+      "sourceUrl": "https://www.reduno.com.bo",
+      "title": "Presentan al presunto autor del infanticidio de Yuvinka en Santa Cruz",
+      "snippet": "Presentan al presunto autor del infanticidio de Yuvinka en Santa Cruz",
+      "url": "https://www.reduno.com.bo/noticias/asi-presentaron-al-tio-politico-de-yuvinka-principal-sospechoso-del-infanticidio-2026223112944",
+      "image": "./images/news-6660bdb901.jpg",
+      "category": "País",
+      "date": "2026-02-24T00:30:12.475Z"
+    },
+    {
+      "source": "Página Siete",
+      "sourceUrl": "https://www.paginasiete.bo",
+      "title": "Rashee Rice Accused of Assault in Civil Lawsuit by Dacoda Jones",
+      "snippet": "Rashee Rice Accused of Assault in Civil Lawsuit by Dacoda Jones",
+      "url": "https://paginasiete.bo/rashee-rice-accused-of-assault-in-civil-lawsuit-by-dacoda-jones/",
+      "image": "./images/news-ac8832dac6.jpg",
+      "category": "País",
+      "date": "2026-02-24T00:30:14.016Z"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Marset pasa a ser el tercer hombre más buscado de la DEA, tras la muerte de ´El Mencho´",
+      "snippet": "Marset pasa a ser el tercer hombre más buscado de la DEA, tras la muerte de ´El Mencho´",
+      "url": "https://eldeber.com.bo/pais/marset-pasa-ser-tercer-hombre-buscado-dea-muerte-mencho_1771882865",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-24T00:30:12.565Z"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "El conejo que saca un mago del sombrero",
+      "snippet": "El conejo que saca un mago del sombrero",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/conejo-que-saca-mago-del-sombrero",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-24T00:30:12.907Z"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Lara anuncia acciones legales tras Decreto 5552; dice que ahora es “empleado de Lupo”",
+      "snippet": "Lara anuncia acciones legales tras Decreto 5552; dice que ahora es “empleado de Lupo”",
+      "url": "https://www.opinion.com.bo/articulo/pais/lara-anuncia-acciones-legales-decreto-5552-siente-empleado-lupo/20260223185030989029.html",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-24T00:30:12.516Z"
+    },
+    {
+      "source": "Red Uno",
+      "sourceUrl": "https://www.reduno.com.bo",
+      "title": "Minibús atropella a una persona de la tercera edad en Cochabamba",
+      "snippet": "Minibús atropella a una persona de la tercera edad en Cochabamba",
+      "url": "https://www.reduno.com.bo/noticias/tragico-minibus-atropella-y-pasa-por-encima-de-una-anciana-en-concurrida-avenida-de-cochabamba-2026223172648",
+      "image": "./images/news-f35a4a498a.jpg",
+      "category": "País",
+      "date": "2026-02-24T00:30:12.476Z"
+    },
+    {
+      "source": "Página Siete",
+      "sourceUrl": "https://www.paginasiete.bo",
+      "title": "Who is Mikaela Shiffrin? Husband, Net Worth, Age & More",
+      "snippet": "Who is Mikaela Shiffrin? Husband, Net Worth, Age & More",
+      "url": "https://paginasiete.bo/who-is-mikaela-shiffrin-husband-net-worth-age-more/",
+      "image": "./images/news-ff74383e99.jpg",
+      "category": "País",
+      "date": "2026-02-24T00:30:14.016Z"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Por primera vez en Bolivia se liberará en su hábitat a un jaguar rescatado de incendios",
+      "snippet": "Por primera vez en Bolivia se liberará en su hábitat a un jaguar rescatado de incendios",
+      "url": "https://eldeber.com.bo/pais/primera-vez-bolivia-liberara-habitat-jaguar-rescatado-incendios_1771882781",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-24T00:30:12.565Z"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "¿Cuántas divisiones tiene el papa?",
+      "snippet": "¿Cuántas divisiones tiene el papa?",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/cuantas-divisiones-tiene-papa",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-24T00:30:12.907Z"
     },
     {
       "source": "Opinión",
@@ -160,104 +247,47 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/fepc-presenta-gobierno-paquete-proyectos-viales-ferreos-fluviales-aeroportuarios/20260222182045989001.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.206Z",
-      "audioUrl": null
+      "date": "2026-02-24T00:30:12.516Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Caso Yuvinka: Alex busca limpiar su nombre tras recuperar su libertad",
-      "snippet": "Caso Yuvinka: Alex busca limpiar su nombre tras recuperar su libertad",
-      "url": "https://www.reduno.com.bo/noticias/quiero-que-mi-nombre-se-limpie-alex-mamani-tras-recuperar-su-libertad-en-caso-yuvinka-202622372957",
-      "image": "https://pxcdn.reduno.com.bo/reduno/022026/1771845955644/image.webp?extw=png&cw=456&ch=256",
+      "title": "Gobierno y transportistas llegaron a un acuerdo sobre resarcimiento",
+      "snippet": "Gobierno y transportistas llegaron a un acuerdo sobre resarcimiento",
+      "url": "https://www.reduno.com.bo/noticias/gobierno-y-transportistas-llegaron-a-un-acuerdo-sobre-resarcimiento-2026223183120",
+      "image": "./images/news-c11f0fc8af.jpg",
       "category": "País",
-      "date": "2026-02-23T12:34:59.244Z",
-      "audioUrl": "/audio/news-a86204ad.mp3"
+      "date": "2026-02-24T00:30:12.476Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Rashee Rice Accused of Assault in Civil Lawsuit by Dacoda Jones",
-      "snippet": "Rashee Rice Accused of Assault in Civil Lawsuit by Dacoda Jones",
-      "url": "https://paginasiete.bo/rashee-rice-accused-of-assault-in-civil-lawsuit-by-dacoda-jones/",
-      "image": "https://paginasiete.bo/wp-content/uploads/2026/02/Rashee-Rice-Accused--300x157.jpg",
+      "title": "Hubble Space Telescope Captures Stunning New Image of the Egg Nebula",
+      "snippet": "Hubble Space Telescope Captures Stunning New Image of the Egg Nebula",
+      "url": "https://paginasiete.bo/hubble-space-telescope-captures-stunning-new-image-of-the-egg-nebula/",
+      "image": "./images/news-d084764763.jpg",
       "category": "País",
-      "date": "2026-02-23T12:35:00.603Z",
-      "audioUrl": "/audio/news-ac8832da.mp3"
+      "date": "2026-02-24T00:30:14.016Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Defensoría observa fallas en acceso a planes de Gobierno",
-      "snippet": "Defensoría observa fallas en acceso a planes de Gobierno",
-      "url": "https://eldeber.com.bo/pais/defensoria-observa-fallas-acceso-planes-gobierno_1771813993",
+      "title": "Capturan a uno de los implicados en el crimen de un vendedor de tarjetas en Viacha",
+      "snippet": "Capturan a uno de los implicados en el crimen de un vendedor de tarjetas en Viacha",
+      "url": "https://eldeber.com.bo/pais/capturan-uno-implicados-crimen-vendedor-tarjetas-viacha_1771879593",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.294Z",
-      "audioUrl": "/audio/news-f836412a.mp3"
+      "date": "2026-02-24T00:30:12.565Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "El conejo que saca un mago del sombrero",
-      "snippet": "El conejo que saca un mago del sombrero",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/conejo-que-saca-mago-del-sombrero",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Fdaniela_murialdo_web.jpg%3Fitok%3D1HdMb7-Z&w=800&output=webp&q=80",
-      "category": "País",
-      "date": "2026-02-23T12:34:59.729Z",
-      "audioUrl": "/audio/news-639f5ca6.mp3"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "El ejército mexicano mata a \"el Mencho\", líder del Cartel Jalisco",
-      "snippet": "El ejército mexicano mata a \"el Mencho\", líder del Cartel Jalisco",
-      "url": "https://www.opinion.com.bo/articulo/mundo/ejercito-mexicano-mata-mencho-lider-cartel-jalisco/20260222192535989009.html",
+      "title": "Heredarás la dictadura",
+      "snippet": "Heredarás la dictadura",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/heredaras-dictadura",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.206Z",
-      "audioUrl": "/audio/news-9e2c09b3.mp3"
-    },
-    {
-      "source": "Red Uno",
-      "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Transporte libre bloquea el centro paceño por calidad de la gasolina",
-      "snippet": "Transporte libre bloquea el centro paceño por calidad de la gasolina",
-      "url": "https://www.reduno.com.bo/noticias/transporte-libre-bloquea-el-centro-paceno-por-denuncias-sobre-la-calidad-de-la-gasolina-202622375652",
-      "image": "https://pxcdn.reduno.com.bo/reduno/022026/1771847700828.webp?extw=jpg&cw=456&ch=256",
-      "category": "País",
-      "date": "2026-02-23T12:34:59.244Z",
-      "audioUrl": "/audio/news-fdc73516.mp3"
-    },
-    {
-      "source": "Página Siete",
-      "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Who is Mikaela Shiffrin? Husband, Net Worth, Age & More",
-      "snippet": "Who is Mikaela Shiffrin? Husband, Net Worth, Age & More",
-      "url": "https://paginasiete.bo/who-is-mikaela-shiffrin-husband-net-worth-age-more/",
-      "image": "https://paginasiete.bo/wp-content/uploads/2026/02/Mikaela-Shiffrin-300x157.jpg",
-      "category": "País",
-      "date": "2026-02-23T12:35:00.603Z"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Campañas, sustituciones y debates marcan la recta final de las subnacionales",
-      "snippet": "Campañas, sustituciones y debates marcan la recta final de las subnacionales",
-      "url": "https://eldeber.com.bo/pais/campanas-sustituciones-debates-marcan-recta-final-subnacionales_1771813044",
-      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
-      "category": "País",
-      "date": "2026-02-23T12:34:59.294Z"
-    },
-    {
-      "source": "Los Tiempos",
-      "sourceUrl": "https://www.lostiempos.com",
-      "title": "¿Cuántas divisiones tiene el papa?",
-      "snippet": "¿Cuántas divisiones tiene el papa?",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/cuantas-divisiones-tiene-papa",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Fgonzalo-mendieta.jpg%3Fitok%3DpKwyuw8E&w=800&output=webp&q=80",
-      "category": "País",
-      "date": "2026-02-23T12:34:59.729Z"
+      "date": "2026-02-24T00:30:12.907Z"
     },
     {
       "source": "Opinión",
@@ -267,47 +297,47 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/alcalde-informa-que-plan-luces-led-alcanzo-75-2025-preve-conclusion-mayo/20260222182420989003.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.206Z"
+      "date": "2026-02-24T00:30:12.516Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Jurados electorales: desde hoy rige el plazo para presentar excusas",
-      "snippet": "Jurados electorales: desde hoy rige el plazo para presentar excusas",
-      "url": "https://www.reduno.com.bo/noticias/no-puedes-ser-jurado-revisa-el-plazo-requisitos-y-donde-hacer-el-tramite-202622361950",
-      "image": "https://pxcdn.reduno.com.bo/reduno/022026/1771841898169.webp?extw=jpg&cw=456&ch=256",
+      "title": "Bolivia asumirá la presidencia del Comité Latinoamericano de Seguridad",
+      "snippet": "Bolivia asumirá la presidencia del Comité Latinoamericano de Seguridad",
+      "url": "https://www.reduno.com.bo/noticias/bolivia-asumira-la-presidencia-del-comite-latinoamericano-de-seguridad-2026223185613",
+      "image": "./images/news-60c7b4efc4.jpg",
       "category": "País",
-      "date": "2026-02-23T12:34:59.244Z"
+      "date": "2026-02-24T00:30:12.476Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Hubble Space Telescope Captures Stunning New Image of the Egg Nebula",
-      "snippet": "Hubble Space Telescope Captures Stunning New Image of the Egg Nebula",
-      "url": "https://paginasiete.bo/hubble-space-telescope-captures-stunning-new-image-of-the-egg-nebula/",
-      "image": "https://paginasiete.bo/wp-content/uploads/2026/02/Egg-Nebula-300x157.jpg",
+      "title": "TV Personality Jill Zarin Fired for Controversial Comments about Bad Bunny at the Super Bowl",
+      "snippet": "TV Personality Jill Zarin Fired for Controversial Comments about Bad Bunny at the Super Bowl",
+      "url": "https://paginasiete.bo/tv-personality-jill-zarin-fired-for-controversial-comments-about-bad-bunny-at-the-super-bowl/",
+      "image": "./images/news-4363ea3cf1.jpg",
       "category": "País",
-      "date": "2026-02-23T12:35:00.603Z"
+      "date": "2026-02-24T00:30:14.016Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Bolivia activa protocolos de monitoreo y asistencia para sus ciudadanos en México",
-      "snippet": "Bolivia activa protocolos de monitoreo y asistencia para sus ciudadanos en México",
-      "url": "https://eldeber.com.bo/pais/bolivia-activa-protocolos-monitoreo-asistencia-ciudadanos-mexico_1771813040",
+      "title": "Dos bolivianos navegaban el río Acre con 346 kilos de droga; uno es menor de edad",
+      "snippet": "Dos bolivianos navegaban el río Acre con 346 kilos de droga; uno es menor de edad",
+      "url": "https://eldeber.com.bo/pais/dos-bolivianos-navegaban-rio-acre-346-kilos-droga-uno-menor-edad_1771879070",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.294Z"
+      "date": "2026-02-24T00:30:12.566Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Heredarás la dictadura",
-      "snippet": "Heredarás la dictadura",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/heredaras-dictadura",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Fhumberto_vacaflor_1.jpg%3Fitok%3DGdcRcgBo&w=800&output=webp&q=80",
+      "title": "Forjando un Futuro Centrado en los Seres Humanos para la IA – Cumbre de Impacto de la IA 2026",
+      "snippet": "Forjando un Futuro Centrado en los Seres Humanos para la IA – Cumbre de Impacto de la IA 2026",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/forjando-futuro-centrado-seres-humanos-ia-cumbre-impacto-ia-2026",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.729Z"
+      "date": "2026-02-24T00:30:12.907Z"
     },
     {
       "source": "Opinión",
@@ -317,47 +347,47 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/buscarril-volvera-recorrer-tramo-aiquile-vila-vila-cochabamba/20260222163010988998.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.207Z"
+      "date": "2026-02-24T00:30:12.516Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Cancillería recomienda a bolivianos evitar desplazamientos en México",
-      "snippet": "Cancillería recomienda a bolivianos evitar desplazamientos en México",
-      "url": "https://www.reduno.com.bo/noticias/cancilleria-activa-alerta-y-recomienda-a-connacionales-evitar-desplazamientos-en-mexico-ante-hechos-violentos-202622362830",
-      "image": "https://pxcdn.reduno.com.bo/reduno/022026/1771843678603.webp?extw=jpg&cw=500&ch=303",
+      "title": "Policía asegura que no hay carteles operando en Bolivia",
+      "snippet": "Policía asegura que no hay carteles operando en Bolivia",
+      "url": "https://www.reduno.com.bo/noticias/policia-asegura-que-no-hay-carteles-operando-en-bolivia-pero-confirma-presencia-del-pcc-2026223174356",
+      "image": "./images/news-cbbba140f4.jpg",
       "category": "País",
-      "date": "2026-02-23T12:34:59.244Z"
+      "date": "2026-02-24T00:30:12.476Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "TV Personality Jill Zarin Fired for Controversial Comments about Bad Bunny at the Super Bowl",
-      "snippet": "TV Personality Jill Zarin Fired for Controversial Comments about Bad Bunny at the Super Bowl",
-      "url": "https://paginasiete.bo/tv-personality-jill-zarin-fired-for-controversial-comments-about-bad-bunny-at-the-super-bowl/",
-      "image": "https://paginasiete.bo/wp-content/uploads/2026/02/Bad-Bunny-1-300x157.jpg",
+      "title": "Francisco Lindor will undergo surgery for an injury to his left hand.",
+      "snippet": "Francisco Lindor will undergo surgery for an injury to his left hand.",
+      "url": "https://paginasiete.bo/francisco-lindor-will-undergo-surgery-for-an-injury-to-his-left-hand/",
+      "image": "./images/news-d315b1de26.jpg",
       "category": "País",
-      "date": "2026-02-23T12:35:00.603Z"
+      "date": "2026-02-24T00:30:14.017Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "David Santalla es despedido en el Teatro Municipal de La Paz tras emotivo recibimiento",
-      "snippet": "David Santalla es despedido en el Teatro Municipal de La Paz tras emotivo recibimiento",
-      "url": "https://eldeber.com.bo/pais/david-santalla-despedido-teatro-municipal-paz-emotivo-recibimiento_1771810362",
+      "title": "Choferes de La Paz levantan el bloqueo tras un acuerdo con el Gobierno",
+      "snippet": "Choferes de La Paz levantan el bloqueo tras un acuerdo con el Gobierno",
+      "url": "https://eldeber.com.bo/pais/choferes-paz-levantan-bloqueo-acuerdo-gobierno_1771867612",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.295Z"
+      "date": "2026-02-24T00:30:12.566Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Forjando un Futuro Centrado en los Seres Humanos para la IA – Cumbre de Impacto de la IA 2026",
-      "snippet": "Forjando un Futuro Centrado en los Seres Humanos para la IA – Cumbre de Impacto de la IA 2026",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/forjando-futuro-centrado-seres-humanos-ia-cumbre-impacto-ia-2026",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Fnarenda_4_ed_va.jpg%3Fitok%3DFSDnF5Xn&w=800&output=webp&q=80",
+      "title": "Importaciones de combustibles en Bolivia: el costo de la ineficiencia y la opacidad",
+      "snippet": "Importaciones de combustibles en Bolivia: el costo de la ineficiencia y la opacidad",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/importaciones-combustibles-bolivia-costo-ineficiencia-opacidad",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.729Z"
+      "date": "2026-02-24T00:30:12.907Z"
     },
     {
       "source": "Opinión",
@@ -367,67 +397,17 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/cochabamba-logra-regalias-mineras-20-mas-previsto-enero/20260222122817988995.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.207Z"
+      "date": "2026-02-24T00:30:12.516Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Corso de Corsos deja al menos 10 arrestados por altercados",
-      "snippet": "Corso de Corsos deja al menos 10 arrestados por altercados",
-      "url": "https://www.reduno.com.bo/noticias/corso-de-corsos-deja-al-menos-10-arrestados-por-altercados-en-cochabamba-20262237448",
-      "image": "https://pxcdn.reduno.com.bo/reduno/022026/1771846919296.webp?extw=jpg&cw=500&ch=303",
+      "title": "Jurados electorales: desde hoy rige el plazo para presentar excusas",
+      "snippet": "Jurados electorales: desde hoy rige el plazo para presentar excusas",
+      "url": "https://www.reduno.com.bo/noticias/no-puedes-ser-jurado-revisa-el-plazo-requisitos-y-donde-hacer-el-tramite-202622361950",
+      "image": "./images/news-4f839b2a77.jpg",
       "category": "País",
-      "date": "2026-02-23T12:34:59.244Z"
-    },
-    {
-      "source": "Página Siete",
-      "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Francisco Lindor will undergo surgery for an injury to his left hand.",
-      "snippet": "Francisco Lindor will undergo surgery for an injury to his left hand.",
-      "url": "https://paginasiete.bo/francisco-lindor-will-undergo-surgery-for-an-injury-to-his-left-hand/",
-      "image": "https://paginasiete.bo/wp-content/uploads/2026/02/Francisco-Lindor-300x157.jpg",
-      "category": "País",
-      "date": "2026-02-23T12:35:00.604Z"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Saucedo dice que Barrientos ahonda las heridas y pide a Paz no dejar que empañe su gestión",
-      "snippet": "Saucedo dice que Barrientos ahonda las heridas y pide a Paz no dejar que empañe su gestión",
-      "url": "https://eldeber.com.bo/pais/saucedo-dice-barrientos-ahonda-heridas-pide-paz-no-dejar-empanen-gestion_1771806857",
-      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
-      "category": "País",
-      "date": "2026-02-23T12:34:59.295Z"
-    },
-    {
-      "source": "Los Tiempos",
-      "sourceUrl": "https://www.lostiempos.com",
-      "title": "Importaciones de combustibles en Bolivia: el costo de la ineficiencia y la opacidad",
-      "snippet": "Importaciones de combustibles en Bolivia: el costo de la ineficiencia y la opacidad",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/importaciones-combustibles-bolivia-costo-ineficiencia-opacidad",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Fcarlos_a._ibanez_meier_web.jpg%3Fitok%3DUG5ZV_cY&w=800&output=webp&q=80",
-      "category": "País",
-      "date": "2026-02-23T12:34:59.729Z"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Cochabamba tiene 37.164 jurados: verifique si fue elegido",
-      "snippet": "Cochabamba tiene 37.164 jurados: verifique si fue elegido",
-      "url": "https://www.opinion.com.bo/articulo/cochabamba/cochabamba-tiene-37164-jurados-verifique-fue-elegido/20260222122743988993.html",
-      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
-      "category": "País",
-      "date": "2026-02-23T12:34:59.207Z"
-    },
-    {
-      "source": "Red Uno",
-      "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Consulta aquí si te toca ser jurado electoral para las subnacionales",
-      "snippet": "Consulta aquí si te toca ser jurado electoral para las subnacionales",
-      "url": "https://www.reduno.com.bo/noticias/consulta-aqui-si-te-toca-ser-jurado-electoral-para-las-elecciones-subnacionales-de-marzo-20262228234",
-      "image": "https://pxcdn.reduno.com.bo/reduno/022026/1771761345126.webp?extw=jpg&cw=500&ch=303",
-      "category": "País",
-      "date": "2026-02-23T12:34:59.245Z"
+      "date": "2026-02-24T00:30:12.476Z"
     },
     {
       "source": "Página Siete",
@@ -435,19 +415,19 @@
       "title": "Estrella ucraniana descalificada de los Juegos Olímpicos de Invierno por usar un casco que honra a los caídos en la guerra",
       "snippet": "Estrella ucraniana descalificada de los Juegos Olímpicos de Invierno por usar un casco que honra a los caídos en la guerra",
       "url": "https://paginasiete.bo/estrella-ucraniana-descalificada-de-los-juegos-olimpicos-de-invierno-por-usar-un-casco-que-honra-a-los-caidos-en-la-guerra/",
-      "image": "https://paginasiete.bo/wp-content/uploads/2026/02/Vladyslav-Heraskevych-300x157.jpg",
+      "image": "./images/news-ddc919d272.jpg",
       "category": "País",
-      "date": "2026-02-23T12:35:00.604Z"
+      "date": "2026-02-24T00:30:14.017Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Camión de Mi Socio recibe a David Santalla en La Paz",
-      "snippet": "Camión de Mi Socio recibe a David Santalla en La Paz",
-      "url": "https://eldeber.com.bo/pais/camion-socio-recibe-david-santalla-paz_1771804994",
+      "title": "FAB y TAB: “No estamos metidos en actividades ilícitas y contribuyendo al narcotráfico”",
+      "snippet": "FAB y TAB: “No estamos metidos en actividades ilícitas y contribuyendo al narcotráfico”",
+      "url": "https://eldeber.com.bo/pais/fab-tab-no-estamos-metidos-actividades-ilicitas-contribuyendo-narcotrafico_1771865053",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.295Z"
+      "date": "2026-02-24T00:30:12.566Z"
     },
     {
       "source": "Los Tiempos",
@@ -455,19 +435,19 @@
       "title": "Camilo Torres Restrepo",
       "snippet": "Camilo Torres Restrepo",
       "url": "https://www.lostiempos.com/actualidad/opinion/20260220/columna/camilo-torres-restrepo",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Fcarlos_derpic_salazar-mejor.jpeg%3Fitok%3DovvWEVVG&w=800&output=webp&q=80",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.729Z"
+      "date": "2026-02-24T00:30:12.907Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "El féretro de David Santalla llega a La Paz para su homenaje póstumo",
-      "snippet": "El féretro de David Santalla llega a La Paz para su homenaje póstumo",
-      "url": "https://eldeber.com.bo/pais/feretro-david-santalla-llega-paz-homenaje-postumo_1771802999",
+      "title": "TCP hará jornadas de descongestionamiento para tratar más de 18 mil causas pendientes",
+      "snippet": "TCP hará jornadas de descongestionamiento para tratar más de 18 mil causas pendientes",
+      "url": "https://eldeber.com.bo/pais/tcp-hara-jornadas-descongestionamiento-tratar-18-mil-causas-pendientes_1771864119",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.295Z"
+      "date": "2026-02-24T00:30:12.567Z"
     },
     {
       "source": "Los Tiempos",
@@ -475,29 +455,29 @@
       "title": "Santa Cruz y el futuro del Gobierno",
       "snippet": "Santa Cruz y el futuro del Gobierno",
       "url": "https://www.lostiempos.com/actualidad/opinion/20260220/columna/santa-cruz-futuro-del-gobierno",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.lostiempos.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedia_thumbnail%2Fpublic%2Fperiodistas%2Fhernan_cabrera_e.jpg%3Fitok%3DT6_aDtkM&w=800&output=webp&q=80",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.729Z"
+      "date": "2026-02-24T00:30:12.907Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "David Santalla emprende su último viaje a La Paz",
-      "snippet": "David Santalla emprende su último viaje a La Paz",
-      "url": "https://eldeber.com.bo/pais/david-santalla-emprende-ultimo-viaje-paz_1771798291",
+      "title": "Rige alerta naranja en cuatro departamentos por tormentas eléctricas",
+      "snippet": "Rige alerta naranja en cuatro departamentos por tormentas eléctricas",
+      "url": "https://eldeber.com.bo/pais/rige-alerta-naranja-cuatro-departamentos-tormentas-electricas_1771861162",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.302Z"
+      "date": "2026-02-24T00:30:12.567Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "“En Carnaval hicimos parrillada y tomó su vasito de cerveza”: Esposa de Santalla cuenta sus últimos días",
-      "snippet": "“En Carnaval hicimos parrillada y tomó su vasito de cerveza”: Esposa de Santalla cuenta sus últimos días",
-      "url": "https://eldeber.com.bo/pais/carnaval-hicimos-parrillada-tomo-vasito-cerveza-esposa-santalla-cuenta-ultimos-dias_1771796765",
+      "title": "David Santalla será enterrado el martes en el Cementerio General de La Paz",
+      "snippet": "David Santalla será enterrado el martes en el Cementerio General de La Paz",
+      "url": "https://eldeber.com.bo/pais/santalla-sera-enterrado-martes-cementerio-general-esposa_1771860191",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-23T12:34:59.303Z"
+      "date": "2026-02-24T00:30:12.567Z"
     }
   ]
 }
