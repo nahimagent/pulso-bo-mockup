@@ -1,7 +1,11 @@
 import { load } from 'cheerio';
-import { writeFile, mkdir } from 'node:fs/promises';
+import { writeFile, mkdir, rm } from 'node:fs/promises';
+import { createHash } from 'crypto';
+import { existsSync } from 'fs';
+import path from 'path';
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
+const IMAGES_DIR = path.join(process.cwd(), 'public', 'images');
 const normalize = (text = '') => text.replace(/\s+/g, ' ').trim();
 
 const mapCategory = (category = '', source = '') => {
@@ -244,19 +248,62 @@ async function main() {
     }
   }
 
-  // Proxy images through wsrv.nl to bypass hotlinking blocks
-  // Sources known to block: El Deber, Los Tiempos, Opinión
-  const BLOCKED_SOURCES = ['El Deber', 'Los Tiempos', 'Opinión'];
-  const finalNews = allNews.map(n => {
+  // Download images locally to bypass hotlinking
+  await mkdir(IMAGES_DIR, { recursive: true });
+  
+  // Clean old images to avoid repo bloat
+  if (existsSync(IMAGES_DIR)) {
+    const { readdir } = await import('node:fs/promises');
+    const oldFiles = await readdir(IMAGES_DIR);
+    for (const f of oldFiles) {
+      if (f.endsWith('.jpg') || f.endsWith('.webp') || f.endsWith('.png')) {
+        await rm(path.join(IMAGES_DIR, f), { force: true });
+      }
+    }
+  }
+  
+  console.log('\n📸 Downloading images locally...');
+  const finalNews = [];
+  for (const n of allNews) {
     let img = n.image;
     if (!img || img.length < 10 || img.includes('data:image') || img.includes('placeholder') || img.includes('svg+xml')) {
       img = FALLBACK_IMAGES[n.category] || FALLBACK_IMAGES['default'];
-    } else if (BLOCKED_SOURCES.includes(n.source)) {
-      // Proxy through wsrv.nl to bypass hotlinking protection
-      img = `https://wsrv.nl/?url=${encodeURIComponent(img.replace('http://', 'https://'))}&w=800&output=webp&q=80`;
+      finalNews.push({ ...n, image: img });
+      continue;
     }
-    return { ...n, image: img.replace('http://', 'https://') };
-  });
+    
+    // Try to download the image
+    const hash = createHash('md5').update(n.url).digest('hex').slice(0, 10);
+    const localName = `news-${hash}.jpg`;
+    const localPath = path.join(IMAGES_DIR, localName);
+    const publicUrl = `./images/${localName}`;
+    
+    try {
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), 10000);
+      const imgUrl = img.replace('http://', 'https://');
+      const res = await fetch(imgUrl, { 
+        headers: { 'user-agent': UA, 'referer': n.sourceUrl || '' },
+        signal: controller.signal 
+      });
+      clearTimeout(timer);
+      
+      if (res.ok && res.headers.get('content-type')?.includes('image')) {
+        const buffer = Buffer.from(await res.arrayBuffer());
+        if (buffer.length > 5000) { // Only save if > 5KB (not a tiny placeholder)
+          await writeFile(localPath, buffer);
+          finalNews.push({ ...n, image: publicUrl });
+          continue;
+        }
+      }
+    } catch (e) { /* download failed, use fallback */ }
+    
+    // Fallback if download failed
+    img = FALLBACK_IMAGES[n.category] || FALLBACK_IMAGES['default'];
+    finalNews.push({ ...n, image: img });
+  }
+  
+  console.log(`   ✅ Downloaded ${finalNews.filter(n => n.image.startsWith('./')).length}/${finalNews.length} images locally`);
 
   const unique = dedup(finalNews);
 
