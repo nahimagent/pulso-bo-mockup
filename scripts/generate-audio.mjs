@@ -20,10 +20,16 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 async function textToSpeech(text, outputPath) {
   try {
     const audioBuffer = await elevenlabs.textToSpeech.convert(
-      process.env.ELEVENLABS_VOICE_ID,
+      "2yObP7Hz8Q6WBwVXpKyy", // Hardcoded Voice ID to ensure it's used
       {
         text: text,
         model_id: "eleven_multilingual_v2",
+        voice_settings: {
+            stability: 0.5,
+            similarity_boost: 0.75,
+            style: 0.0,
+            use_speaker_boost: true
+        },
         output_format: "mp3_44100_128",
       }
     );
@@ -76,7 +82,7 @@ async function generateMainBriefing(news) {
 
   const script = completion.choices[0].message.content;
   console.log('📝 Main Script:', script.slice(0, 50) + '...');
-  await textToSpeech(script, path.join(PUBLIC_DIR, 'briefing-long.mp3'));
+  await textToSpeech(script, path.join(PUBLIC_DIR, 'briefing-nahim.mp3'));
 }
 
 async function generateIndividualNews(newsItems) {
