@@ -55,12 +55,15 @@ async function generateMainBriefing(news) {
   
   const prompt = `
     Eres un periodista serio y directo de "Pulso Bolivia".
-    Genera un guion de audio de 40 segundos resumiendo estas noticias.
-    IMPORTANTE:
-    1. NO saludes. NO digas "Bienvenidos". NO digas "Hola".
-    2. Empieza DIRECTAMENTE narrando la noticia más impactante.
-    3. Conecta las noticias con fluidez.
-    4. Tono: Profesional, informativo, urgente.
+    Genera un guion de audio EXTENSO y DETALLADO de aproximadamente 5 MINUTOS (unas 800-900 palabras).
+    Analiza a profundidad las noticias principales, dando contexto, causas y consecuencias.
+    
+    ESTRUCTURA OBLIGATORIA:
+    1. NO SALUDES. Empieza directo con el tema más fuerte.
+    2. Desarrolla las 3 noticias más importantes con mucho detalle (quién, qué, por qué).
+    3. Agrupa las noticias secundarias por bloques (Economía, Política, Sociedad).
+    4. Tono: Periodístico de análisis profundo, serio pero dinámico.
+    5. Usa conectores fluidos entre temas.
     
     Noticias:
     ${headlines}
