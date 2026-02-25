@@ -76,7 +76,7 @@ async function generateMainBriefing(news) {
 
   const script = completion.choices[0].message.content;
   console.log('📝 Main Script:', script.slice(0, 50) + '...');
-  await textToSpeech(script, path.join(PUBLIC_DIR, 'daily-briefing.mp3'));
+  await textToSpeech(script, path.join(PUBLIC_DIR, 'briefing-long.mp3'));
 }
 
 async function generateIndividualNews(newsItems) {
