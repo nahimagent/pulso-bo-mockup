@@ -101,8 +101,8 @@ export default function Home() {
                 </p>
               </div>
               <div className="bg-slate-50 p-3 rounded-xl border border-slate-100 w-full md:w-auto min-w-[300px]">
-                 <audio controls className="w-full h-10 accent-slate-900">
-                    <source src="./daily-briefing.mp3" type="audio/mpeg" />
+                 <audio controls className="w-full h-10 accent-slate-900" key={newsData.updatedAt}>
+                    <source src={`./daily-briefing.mp3?t=${new Date(newsData.updatedAt).getTime()}`} type="audio/mpeg" />
                     Tu navegador no soporta el elemento de audio.
                  </audio>
               </div>
