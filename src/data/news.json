@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T00:29:30.726Z",
+  "updatedAt": "2026-02-25T12:29:32.319Z",
   "sources": [
     "El Deber",
     "Los Tiempos",
@@ -12,42 +12,46 @@
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Comisión que investigará mala calidad de gasolina inicia tareas y buscará culpables",
-      "snippet": "Comisión que investigará mala calidad de gasolina inicia tareas y buscará culpables",
-      "url": "https://eldeber.com.bo/pais/comision-investigara-mala-calidad-gasolina-inicia-tareas-buscara-culpables_1771974378",
+      "title": "El TSE anuncia acciones penales contra partidos por hacer registros fantasmas",
+      "snippet": "El TSE anuncia acciones penales contra partidos por hacer registros fantasmas",
+      "url": "https://eldeber.com.bo/pais/tse-anuncia-acciones-penales-partidos-hacer-registros-fantasmas_1772017929",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.795Z"
+      "date": "2026-02-25T12:29:27.675Z",
+      "audioUrl": null
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Luces y sombras del Corso de Corsos",
-      "snippet": "Luces y sombras del Corso de Corsos",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/editorial/luces-sombras-del-corso-corsos",
+      "title": "México y las lecciones de la caída del “Mencho”",
+      "snippet": "México y las lecciones de la caída del “Mencho”",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/editorial/mexico-lecciones-caida-del-mencho",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.207Z"
+      "date": "2026-02-25T12:29:28.209Z",
+      "audioUrl": null
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Lara presenta recurso ante el TCP contra el Decreto Supremo 5552",
-      "snippet": "Lara presenta recurso ante el TCP contra el Decreto Supremo 5552",
-      "url": "https://www.opinion.com.bo/articulo/pais/lara-presenta-recurso-tcp-decreto-supremo-5552/20260224181722989099.html",
+      "title": "Gobierno niega que Lupo sea el nuevo “Vice”; COB se declara en emergencia",
+      "snippet": "Gobierno niega que Lupo sea el nuevo “Vice”; COB se declara en emergencia",
+      "url": "https://www.opinion.com.bo/articulo/pais/gobierno-niega-que-lupo-sea-nuevo-vice-cob-declara-emergencia/20260225000044989156.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.723Z"
+      "date": "2026-02-25T12:29:27.608Z",
+      "audioUrl": null
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Así fue trasladado el alcalde Jhonny Fernández a una clínica privada",
-      "snippet": "Así fue trasladado el alcalde Jhonny Fernández a una clínica privada",
-      "url": "https://www.reduno.com.bo/noticias/asi-ingreso-jhonny-fernandez-a-una-clinica-privada-tras-ser-aprehendido-y-sufrir-descompensacion-2026224185529",
-      "image": "./images/news-e70432b2cd.jpg",
+      "title": "Nueva norma apunta a cambiar el financiamiento deportivo en Bolivia",
+      "snippet": "Nueva norma apunta a cambiar el financiamiento deportivo en Bolivia",
+      "url": "https://www.reduno.com.bo/deportes/anteproyecto-de-ley-abre-participacion-empresarial-para-apoyar-a-deportistas-bolivianos-202622572410",
+      "image": "./images/news-2c957e1066.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:25.835Z"
+      "date": "2026-02-25T12:29:27.736Z",
+      "audioUrl": null
     },
     {
       "source": "Página Siete",
@@ -57,57 +61,63 @@
       "url": "https://paginasiete.bo/golden-state-warriors-welcome-kristaps-porzingis-in-debut-after-trade/",
       "image": "./images/news-8f2c9aa12d.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:27.080Z"
+      "date": "2026-02-25T12:29:28.772Z",
+      "audioUrl": null
     },
     {
       "source": "Eju.tv",
       "sourceUrl": "https://eju.tv",
-      "title": "YPFB revela que combustible de mala calidad llegó entre diciembre y los primeros días de febrero",
-      "snippet": "YPFB revela que combustible de mala calidad llegó entre diciembre y los primeros días de febrero",
-      "url": "https://eju.tv/2026/02/ypfb-revela-que-combustible-de-mala-calidad-llego-entre-diciembre-y-los-primeros-dias-de-febrero/",
-      "image": "./images/news-e2b3668ac0.jpg",
+      "title": "Estado de la Unión: Trump defendió su programa de gobierno, atacó a los demócratas y puso a Irán en la mira",
+      "snippet": "Estado de la Unión: Trump defendió su programa de gobierno, atacó a los demócratas y puso a Irán en la mira",
+      "url": "https://eju.tv/2026/02/estado-de-la-union-trump-defendio-su-programa-de-gobierno-ataco-a-los-democratas-y-puso-a-iran-en-la-mira/",
+      "image": "./images/news-8dd3c0244e.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:25.875Z"
+      "date": "2026-02-25T12:29:27.813Z",
+      "audioUrl": null
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Aprehenden a policía sindicado de pedir Bs 15 mil para devolver un vehículo",
-      "snippet": "Aprehenden a policía sindicado de pedir Bs 15 mil para devolver un vehículo",
-      "url": "https://eldeber.com.bo/pais/aprehenden-policia-sindicado-pedir-bs-15-mil-devolver-vehiculo_1771971539",
+      "title": "TAB reportó inconsistencias en tres vuelos desde EE.UU. y pide procesar a 6 empresas",
+      "snippet": "TAB reportó inconsistencias en tres vuelos desde EE.UU. y pide procesar a 6 empresas",
+      "url": "https://eldeber.com.bo/pais/tab-reporto-inconsistencias-tres-vuelos-ee-uu-pide-procesar-6-empresas_1772016116",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.798Z"
+      "date": "2026-02-25T12:29:27.677Z",
+      "audioUrl": null
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "La Bolivia que nace diferente",
-      "snippet": "La Bolivia que nace diferente",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/bolivia-que-nace-diferente",
+      "title": "El “momento Isildur”",
+      "snippet": "El “momento Isildur”",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/momento-isildur",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.207Z"
+      "date": "2026-02-25T12:29:28.209Z",
+      "audioUrl": null
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Multitudinario y emotivo adiós a David Santalla: ‘No te olvidaremos’",
-      "snippet": "Multitudinario y emotivo adiós a David Santalla: ‘No te olvidaremos’",
-      "url": "https://www.opinion.com.bo/articulo/cultura/multitudinario-emotivo-adios-david-santalla-olvidaremos/20260224143853989091.html",
+      "title": "Ministro confirma que la DEA ya está en Bolivia",
+      "snippet": "Ministro confirma que la DEA ya está en Bolivia",
+      "url": "https://www.opinion.com.bo/articulo/pais/ministro-confirma-que-dea-bolivia/20260225000053989150.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.723Z"
+      "date": "2026-02-25T12:29:27.609Z",
+      "audioUrl": null
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Vocero municipal señala que \"juez evaluó erróneamente las pruebas\"",
-      "snippet": "Vocero municipal señala que \"juez evaluó erróneamente las pruebas\"",
-      "url": "https://www.reduno.com.bo/noticias/jhonny-se-encuentra-con-influenza-vocero-municipal-senala-que-juez-evaluo-erroneamente-las-pruebas-202622419360",
-      "image": "./images/news-d4cd7cca8b.jpg",
+      "title": "Definen compensaciones por daños vinculados a la gasolina",
+      "snippet": "Definen compensaciones por daños vinculados a la gasolina",
+      "url": "https://www.reduno.com.bo/noticias/que-definieron-ypfb-y-mototaxistas-de-santa-cruz-por-danos-atribuidos-a-la-gasolina-20262257320",
+      "image": "./images/news-39d1fe4f62.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:25.835Z"
+      "date": "2026-02-25T12:29:27.736Z",
+      "audioUrl": null
     },
     {
       "source": "Página Siete",
@@ -117,47 +127,52 @@
       "url": "https://paginasiete.bo/spacex-launches-latest-starlink-rocket-from-florida/",
       "image": "./images/news-4042cf9c04.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:27.080Z"
+      "date": "2026-02-25T12:29:28.772Z",
+      "audioUrl": null
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Cruceños eligieron a Tarija como su nuevo destino turístico",
-      "snippet": "Cruceños eligieron a Tarija como su nuevo destino turístico",
-      "url": "https://eldeber.com.bo/pais/crucenos-eligieron-tarija-nuevo-destino-turistico_1771968402",
+      "title": "\"Habrá anuncios de proyectos\": El presidente de la CAF llegará a Bolivia este miércoles",
+      "snippet": "\"Habrá anuncios de proyectos\": El presidente de la CAF llegará a Bolivia este miércoles",
+      "url": "https://eldeber.com.bo/pais/habra-anuncios-proyectos-presidente-caf-llegara-bolivia-este-miercoles_1771987272",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.798Z"
+      "date": "2026-02-25T12:29:27.677Z",
+      "audioUrl": null
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Dólar a 20 Bs y el precio de las tecnologías",
-      "snippet": "Dólar a 20 Bs y el precio de las tecnologías",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/dolar-20-bs-precio-tecnologias",
+      "title": "La carrera bioceánica y el desafío histórico de Bolivia",
+      "snippet": "La carrera bioceánica y el desafío histórico de Bolivia",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/carrera-bioceanica-desafio-historico-bolivia",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.208Z"
+      "date": "2026-02-25T12:29:28.209Z",
+      "audioUrl": null
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Aprehenden a Jhonny Fernández tras declarar por ‘caso Pavimento’",
-      "snippet": "Aprehenden a Jhonny Fernández tras declarar por ‘caso Pavimento’",
-      "url": "https://www.opinion.com.bo/articulo/pais/jhonny-fernandez-es-aprehendido-declarar-caso-pavimento/20260224164114989094.html",
+      "title": "Aprehenden al alcalde de Santa Cruz, Jhonny Fernández, por el ‘caso pavimento’",
+      "snippet": "Aprehenden al alcalde de Santa Cruz, Jhonny Fernández, por el ‘caso pavimento’",
+      "url": "https://www.opinion.com.bo/articulo/pais/aprehenden-alcalde-santa-cruz-jhonny-fernandez-caso-pavimento/20260225000026989158.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.724Z"
+      "date": "2026-02-25T12:29:27.609Z",
+      "audioUrl": null
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Jhonny Fernández queda aprehendido por caso ‘pavimento’",
-      "snippet": "Jhonny Fernández queda aprehendido por caso ‘pavimento’",
-      "url": "https://www.reduno.com.bo/noticias/jhonny-fernandez-queda-aprehendido-por-orden-de-la-fiscalia-tras-declarar-por-el-caso-pavimento-2026224163247",
-      "image": "./images/news-128c95af0b.jpg",
+      "title": "Prepárese: anuncian lluvias y tormentas en gran parte del país",
+      "snippet": "Prepárese: anuncian lluvias y tormentas en gran parte del país",
+      "url": "https://www.reduno.com.bo/noticias/preparese-anuncian-lluvias-y-tormentas-en-gran-parte-del-pais-este-miercoles-202622564028",
+      "image": "./images/news-914211915b.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:25.835Z"
+      "date": "2026-02-25T12:29:27.736Z",
+      "audioUrl": null
     },
     {
       "source": "Página Siete",
@@ -167,47 +182,52 @@
       "url": "https://paginasiete.bo/rashee-rice-accused-of-assault-in-civil-lawsuit-by-dacoda-jones/",
       "image": "./images/news-ac8832dac6.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:27.080Z"
+      "date": "2026-02-25T12:29:28.772Z",
+      "audioUrl": null
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Alcalde de Tarija solicita vacación para concentrarse en campaña por su reelección",
-      "snippet": "Alcalde de Tarija solicita vacación para concentrarse en campaña por su reelección",
-      "url": "https://eldeber.com.bo/pais/alcalde-tarija-solicita-vacacion-concentrarse-campana-reeleccion_1771968036",
+      "title": "TSE propone a candidatos debates simultáneos tanto para alcaldes como para gobernadores",
+      "snippet": "TSE propone a candidatos debates simultáneos tanto para alcaldes como para gobernadores",
+      "url": "https://eldeber.com.bo/pais/tse-propone-candidatos-debates-simultaneos-tanto-alcaldes-gobernadores_1771982015",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.798Z"
+      "date": "2026-02-25T12:29:27.678Z",
+      "audioUrl": null
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "La política y el último tic tac del TikTok",
-      "snippet": "La política y el último tic tac del TikTok",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/politica-ultimo-tic-tac-del-tiktok",
+      "title": "Perú, Argentina, Bolivia",
+      "snippet": "Perú, Argentina, Bolivia",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/peru-argentina-bolivia",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.208Z"
+      "date": "2026-02-25T12:29:28.209Z",
+      "audioUrl": null
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "La COB se declara en emergencia ante intento de ‘modernizar’ la Ley General del Trabajo",
-      "snippet": "La COB se declara en emergencia ante intento de ‘modernizar’ la Ley General del Trabajo",
-      "url": "https://www.opinion.com.bo/articulo/pais/cob-declara-emergencia-intento-modernizar-ley-general-trabajo/20260224172458989097.html",
+      "title": "‘Somos amigos tú y yo, caray’: Santalla es despedido con honores",
+      "snippet": "‘Somos amigos tú y yo, caray’: Santalla es despedido con honores",
+      "url": "https://www.opinion.com.bo/articulo/cultura/somos-amigos-caray-santalla-es-despedido-honores/20260225000044989136.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.724Z"
+      "date": "2026-02-25T12:29:27.609Z",
+      "audioUrl": null
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Cae joven por secuestrar a su hermanastro; pedía Bs 300 mil de rescate",
-      "snippet": "Cae joven por secuestrar a su hermanastro; pedía Bs 300 mil de rescate",
-      "url": "https://www.reduno.com.bo/noticias/pedia-bs-300-por-su-rescate-joven-secuestra-a-su-hermanastro-de-14-anos-en-cuatro-canadas-2026224194515",
-      "image": "./images/news-9d2fd078b7.jpg",
+      "title": "Bolivia pide garantías para jugar la repesca en México",
+      "snippet": "Bolivia pide garantías para jugar la repesca en México",
+      "url": "https://www.reduno.com.bo/deportes/bolivia-pedira-a-la-fifa-incrementar-la-seguridad-para-la-repesca-tras-violencia-en-mexico-20262256538",
+      "image": "./images/news-7a9a912e8f.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:25.835Z"
+      "date": "2026-02-25T12:29:27.736Z",
+      "audioUrl": null
     },
     {
       "source": "Página Siete",
@@ -217,47 +237,47 @@
       "url": "https://paginasiete.bo/who-is-mikaela-shiffrin-husband-net-worth-age-more/",
       "image": "./images/news-ff74383e99.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:27.081Z"
+      "date": "2026-02-25T12:29:28.772Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Argollo denuncia complot contra la COB por supuesta injerencia de Huarachi en el paro",
-      "snippet": "Argollo denuncia complot contra la COB por supuesta injerencia de Huarachi en el paro",
-      "url": "https://eldeber.com.bo/pais/argollo-denuncia-complot-cob-supuesta-injerencia-huarachi-paro_1771966445",
+      "title": "Comisión que investigará mala calidad de gasolina inicia tareas y buscará culpables",
+      "snippet": "Comisión que investigará mala calidad de gasolina inicia tareas y buscará culpables",
+      "url": "https://eldeber.com.bo/pais/comision-investigara-mala-calidad-gasolina-inicia-tareas-buscara-culpables_1771974378",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.799Z"
+      "date": "2026-02-25T12:29:27.678Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "El modelo que Lara intenta imitar",
-      "snippet": "El modelo que Lara intenta imitar",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/modelo-que-lara-intenta-imitar",
+      "title": "La política y el último tic tac del TikTok",
+      "snippet": "La política y el último tic tac del TikTok",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/politica-ultimo-tic-tac-del-tiktok",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.208Z"
+      "date": "2026-02-25T12:29:28.209Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Javier Bellott: “Es más fácil manejar un municipio que una empresa”",
-      "snippet": "Javier Bellott: “Es más fácil manejar un municipio que una empresa”",
-      "url": "https://www.opinion.com.bo/articulo/cochabamba/javier-bellott-es-mas-facil-manejar-municipio-que-empresa/20260224000014989044.html",
+      "title": "Daza ofrece $600 millones en obras y ve ventaja por cercanía con Paz",
+      "snippet": "Daza ofrece $600 millones en obras y ve ventaja por cercanía con Paz",
+      "url": "https://www.opinion.com.bo/articulo/cochabamba/daza-ofrece-600-millones-obras-ve-ventaja-cercania-paz/20260225000056989130.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.724Z"
+      "date": "2026-02-25T12:29:27.609Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Confirmado: El repechaje mundialista se verá por señal abierta",
-      "snippet": "Confirmado: El repechaje mundialista se verá por señal abierta",
-      "url": "https://www.reduno.com.bo/deportes/la-seleccion-nacional-por-tv-abierta-se-confirma-la-transmision-del-repechaje-2026224171147",
-      "image": "./images/news-1560b28ba6.jpg",
+      "title": "Aprehenden a hermanastro y cinco implicados por secuestro de menor",
+      "snippet": "Aprehenden a hermanastro y cinco implicados por secuestro de menor",
+      "url": "https://www.reduno.com.bo/noticias/pedian-bs-300-mil-aprehenden-a-hermanastro-y-cinco-implicados-por-secuestro-de-menor-en-santa-cruz-202622572524",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.836Z"
+      "date": "2026-02-25T12:29:27.737Z"
     },
     {
       "source": "Página Siete",
@@ -267,47 +287,47 @@
       "url": "https://paginasiete.bo/hubble-space-telescope-captures-stunning-new-image-of-the-egg-nebula/",
       "image": "./images/news-d084764763.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:27.081Z"
+      "date": "2026-02-25T12:29:28.772Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Villa Vaca Guzmán consolida la protección de sus fuentes de agua mediante acuerdos",
-      "snippet": "Villa Vaca Guzmán consolida la protección de sus fuentes de agua mediante acuerdos",
-      "url": "https://eldeber.com.bo/pais/villa-vaca-guzman-consolida-proteccion-fuentes-agua-mediante-acuerdos_1771962665",
+      "title": "Aprehenden a policía sindicado de pedir Bs 15 mil para devolver un vehículo",
+      "snippet": "Aprehenden a policía sindicado de pedir Bs 15 mil para devolver un vehículo",
+      "url": "https://eldeber.com.bo/pais/aprehenden-policia-sindicado-pedir-bs-15-mil-devolver-vehiculo_1771971539",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.799Z"
+      "date": "2026-02-25T12:29:27.679Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "¿Reconfiguración del tablero mundial?",
-      "snippet": "¿Reconfiguración del tablero mundial?",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260223/columna/reconfiguracion-del-tablero-mundial",
+      "title": "Dólar a 20 Bs y el precio de las tecnologías",
+      "snippet": "Dólar a 20 Bs y el precio de las tecnologías",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/dolar-20-bs-precio-tecnologias",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.208Z"
+      "date": "2026-02-25T12:29:28.209Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Gasolina de ‘mala calidad': transporte Libre de la Llajta, en ‘emergencia’, pide al Gobierno ‘dar la cara’",
-      "snippet": "Gasolina de ‘mala calidad': transporte Libre de la Llajta, en ‘emergencia’, pide al Gobierno ‘dar la cara’",
-      "url": "https://www.opinion.com.bo/articulo/cochabamba/transporte-libre-emergencia-gasolina-mala-calidad-pide-gobierno-dar-cara/20260223143116989021.html",
+      "title": "Javier Bellott: “Es más fácil manejar un municipio que una empresa”",
+      "snippet": "Javier Bellott: “Es más fácil manejar un municipio que una empresa”",
+      "url": "https://www.opinion.com.bo/articulo/cochabamba/javier-bellott-es-mas-facil-manejar-municipio-que-empresa/20260224000014989044.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.724Z"
+      "date": "2026-02-25T12:29:27.609Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Paz apunta a convertir al país en sede de eventos deportivos mundiales",
-      "snippet": "Paz apunta a convertir al país en sede de eventos deportivos mundiales",
-      "url": "https://www.reduno.com.bo/noticias/rodrigo-paz-presenta-la-ley-de-incentivo-al-deporte-202622415100",
-      "image": "./images/news-0649d792df.jpg",
+      "title": "Presidente de la CAF llega a Bolivia para agenda económica",
+      "snippet": "Presidente de la CAF llega a Bolivia para agenda económica",
+      "url": "https://www.reduno.com.bo/nacional/bolivia-recibira-al-presidente-de-la-caf-para-firmar-acuerdos-y-coordinar-apoyo-202622565317",
+      "image": "./images/news-0ba8baffc8.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:25.836Z"
+      "date": "2026-02-25T12:29:27.737Z"
     },
     {
       "source": "Página Siete",
@@ -317,47 +337,47 @@
       "url": "https://paginasiete.bo/tv-personality-jill-zarin-fired-for-controversial-comments-about-bad-bunny-at-the-super-bowl/",
       "image": "./images/news-4363ea3cf1.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:27.081Z"
+      "date": "2026-02-25T12:29:28.772Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Emiten orden de aprehensión contra el hijo de Arce por enriquecimiento ilícito",
-      "snippet": "Emiten orden de aprehensión contra el hijo de Arce por enriquecimiento ilícito",
-      "url": "https://eldeber.com.bo/pais/emiten-orden-aprehension-hijo-arce-enriquecimiento-ilicito_1771961437",
+      "title": "Cruceños eligieron a Tarija como su nuevo destino turístico",
+      "snippet": "Cruceños eligieron a Tarija como su nuevo destino turístico",
+      "url": "https://eldeber.com.bo/pais/crucenos-eligieron-tarija-nuevo-destino-turistico_1771968402",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.799Z"
+      "date": "2026-02-25T12:29:27.679Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Reiniciando relaciones diplomáticas",
-      "snippet": "Reiniciando relaciones diplomáticas",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260223/columna/reiniciando-relaciones-diplomaticas",
+      "title": "La Bolivia que nace diferente",
+      "snippet": "La Bolivia que nace diferente",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/bolivia-que-nace-diferente",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.208Z"
+      "date": "2026-02-25T12:29:28.209Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "FEPC presenta al Gobierno paquete de proyectos viales, férreos, fluviales y aeroportuarios",
-      "snippet": "FEPC presenta al Gobierno paquete de proyectos viales, férreos, fluviales y aeroportuarios",
-      "url": "https://www.opinion.com.bo/articulo/cochabamba/fepc-presenta-gobierno-paquete-proyectos-viales-ferreos-fluviales-aeroportuarios/20260222182045989001.html",
+      "title": "Gasolina de ‘mala calidad': transporte Libre de la Llajta, en ‘emergencia’, pide al Gobierno ‘dar la cara’",
+      "snippet": "Gasolina de ‘mala calidad': transporte Libre de la Llajta, en ‘emergencia’, pide al Gobierno ‘dar la cara’",
+      "url": "https://www.opinion.com.bo/articulo/cochabamba/transporte-libre-emergencia-gasolina-mala-calidad-pide-gobierno-dar-cara/20260223143116989021.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.724Z"
+      "date": "2026-02-25T12:29:27.610Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Analizan convenio con privados para atender pacientes con chikungunya",
-      "snippet": "Analizan convenio con privados para atender pacientes con chikungunya",
-      "url": "https://www.reduno.com.bo/salud-belleza/salud-pacientes-con-chikungunya-seran-atendidas-en-clinicas-privadas-2026224174022",
-      "image": "./images/news-28a9e705b7.jpg",
+      "title": "“Existe riesgo de fuga\": Fiscalía pedirá cárcel para Jhonny Fernández",
+      "snippet": "“Existe riesgo de fuga\": Fiscalía pedirá cárcel para Jhonny Fernández",
+      "url": "https://www.reduno.com.bo/noticias/existe-riesgo-de-fuga-fiscalia-pedira-180-dias-de-detencion-preventiva-para-jhonny-fernandez-2026224224023",
+      "image": "./images/news-2c64f0b55e.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:25.836Z"
+      "date": "2026-02-25T12:29:27.737Z"
     },
     {
       "source": "Página Siete",
@@ -367,47 +387,47 @@
       "url": "https://paginasiete.bo/francisco-lindor-will-undergo-surgery-for-an-injury-to-his-left-hand/",
       "image": "./images/news-d315b1de26.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:27.081Z"
+      "date": "2026-02-25T12:29:28.772Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Hay una demanda contra postulación del gobernador de Potosí; el TED alista fallo en tres días",
-      "snippet": "Hay una demanda contra postulación del gobernador de Potosí; el TED alista fallo en tres días",
-      "url": "https://eldeber.com.bo/yo-elijo/hay-demanda-postulacion-gobernador-potosi-ted-alista-fallo-tres-dias_1771951370",
+      "title": "Alcalde de Tarija solicita vacación para concentrarse en campaña por su reelección",
+      "snippet": "Alcalde de Tarija solicita vacación para concentrarse en campaña por su reelección",
+      "url": "https://eldeber.com.bo/pais/alcalde-tarija-solicita-vacacion-concentrarse-campana-reeleccion_1771968036",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.800Z"
+      "date": "2026-02-25T12:29:27.679Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "El conejo que saca un mago del sombrero",
-      "snippet": "El conejo que saca un mago del sombrero",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/conejo-que-saca-mago-del-sombrero",
+      "title": "El modelo que Lara intenta imitar",
+      "snippet": "El modelo que Lara intenta imitar",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/modelo-que-lara-intenta-imitar",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.208Z"
+      "date": "2026-02-25T12:29:28.209Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Alcalde informa que plan de luces led alcanzó 75% en 2025 y prevé conclusión en mayo",
-      "snippet": "Alcalde informa que plan de luces led alcanzó 75% en 2025 y prevé conclusión en mayo",
-      "url": "https://www.opinion.com.bo/articulo/cochabamba/alcalde-informa-que-plan-luces-led-alcanzo-75-2025-preve-conclusion-mayo/20260222182420989003.html",
+      "title": "FEPC presenta al Gobierno paquete de proyectos viales, férreos, fluviales y aeroportuarios",
+      "snippet": "FEPC presenta al Gobierno paquete de proyectos viales, férreos, fluviales y aeroportuarios",
+      "url": "https://www.opinion.com.bo/articulo/cochabamba/fepc-presenta-gobierno-paquete-proyectos-viales-ferreos-fluviales-aeroportuarios/20260222182045989001.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.725Z"
+      "date": "2026-02-25T12:29:27.610Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Fedeple advierte que la producción nacional ha caído un 28%",
-      "snippet": "Fedeple advierte que la producción nacional ha caído un 28%",
-      "url": "https://www.reduno.com.bo/economia/el-sector-lechero-en-emergencia-fedeple-advierte-que-la-produccion-nacional-ha-caido-un-28-202622417323",
-      "image": "./images/news-09075f50dd.jpg",
+      "title": "Italsa inaugura Nueva línea de producción de toallitas húmedas",
+      "snippet": "Italsa inaugura Nueva línea de producción de toallitas húmedas",
+      "url": "https://www.reduno.com.bo/espacio-empresarial/italsa-inaugura-nueva-linea-de-produccion-de-toallitas-humedas-y-marca-un-hito-en-la-industria-nacional-del-cuidado-infantil-2026224201721",
+      "image": "./images/news-11906abff2.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:25.836Z"
+      "date": "2026-02-25T12:29:27.737Z"
     },
     {
       "source": "Página Siete",
@@ -417,67 +437,67 @@
       "url": "https://paginasiete.bo/estrella-ucraniana-descalificada-de-los-juegos-olimpicos-de-invierno-por-usar-un-casco-que-honra-a-los-caidos-en-la-guerra/",
       "image": "./images/news-ddc919d272.jpg",
       "category": "País",
-      "date": "2026-02-25T00:29:27.081Z"
+      "date": "2026-02-25T12:29:28.773Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Secuestran el ‘penthouse’ de medio millón de dólares de uno de los hijos de Luis Arce",
-      "snippet": "Secuestran el ‘penthouse’ de medio millón de dólares de uno de los hijos de Luis Arce",
-      "url": "https://eldeber.com.bo/pais/secuestran-penthouse-medio-millon-dolares-uno-hijos-luis-arce_1771955758",
+      "title": "Argollo denuncia complot contra la COB por supuesta injerencia de Huarachi en el paro",
+      "snippet": "Argollo denuncia complot contra la COB por supuesta injerencia de Huarachi en el paro",
+      "url": "https://eldeber.com.bo/pais/argollo-denuncia-complot-cob-supuesta-injerencia-huarachi-paro_1771966445",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.800Z"
+      "date": "2026-02-25T12:29:27.679Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "¿Cuántas divisiones tiene el papa?",
-      "snippet": "¿Cuántas divisiones tiene el papa?",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/cuantas-divisiones-tiene-papa",
+      "title": "¿Reconfiguración del tablero mundial?",
+      "snippet": "¿Reconfiguración del tablero mundial?",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260223/columna/reconfiguracion-del-tablero-mundial",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.208Z"
+      "date": "2026-02-25T12:29:28.209Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Entre llantos y aplausos, David Santalla es despedido en el Cementerio General",
-      "snippet": "Entre llantos y aplausos, David Santalla es despedido en el Cementerio General",
-      "url": "https://eldeber.com.bo/pais/llantos-aplausos-david-santalla-despedido-cementerio-general_1771954052",
+      "title": "Villa Vaca Guzmán consolida la protección de sus fuentes de agua mediante acuerdos",
+      "snippet": "Villa Vaca Guzmán consolida la protección de sus fuentes de agua mediante acuerdos",
+      "url": "https://eldeber.com.bo/pais/villa-vaca-guzman-consolida-proteccion-fuentes-agua-mediante-acuerdos_1771962665",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.800Z"
+      "date": "2026-02-25T12:29:27.680Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Heredarás la dictadura",
-      "snippet": "Heredarás la dictadura",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260222/columna/heredaras-dictadura",
+      "title": "Reiniciando relaciones diplomáticas",
+      "snippet": "Reiniciando relaciones diplomáticas",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260223/columna/reiniciando-relaciones-diplomaticas",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:26.208Z"
+      "date": "2026-02-25T12:29:28.209Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Fiscalía imputa a exgerente de Emapa por presunta corrupción en una planta piscícola",
-      "snippet": "Fiscalía imputa a exgerente de Emapa por presunta corrupción en una planta piscícola",
-      "url": "https://eldeber.com.bo/pais/fiscalia-imputa-exgerente-emapa-presunta-corrupcion-planta-piscicola_1771951354",
+      "title": "Emiten orden de aprehensión contra el hijo de Arce por enriquecimiento ilícito",
+      "snippet": "Emiten orden de aprehensión contra el hijo de Arce por enriquecimiento ilícito",
+      "url": "https://eldeber.com.bo/pais/emiten-orden-aprehension-hijo-arce-enriquecimiento-ilicito_1771961437",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.800Z"
+      "date": "2026-02-25T12:29:27.680Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Con aplausos de pie, despiden a David Santalla rumbo a su última morada",
-      "snippet": "Con aplausos de pie, despiden a David Santalla rumbo a su última morada",
-      "url": "https://eldeber.com.bo/pais/aplausos-pie-parte-cortejo-funebre-david-santalla-rumbo-ultima-morada_1771946071",
+      "title": "Hay una demanda contra postulación del gobernador de Potosí; el TED alista fallo en tres días",
+      "snippet": "Hay una demanda contra postulación del gobernador de Potosí; el TED alista fallo en tres días",
+      "url": "https://eldeber.com.bo/yo-elijo/hay-demanda-postulacion-gobernador-potosi-ted-alista-fallo-tres-dias_1771951370",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T00:29:25.801Z"
+      "date": "2026-02-25T12:29:27.680Z"
     }
   ]
 }
