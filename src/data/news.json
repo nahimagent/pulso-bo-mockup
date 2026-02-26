@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T20:09:34.347Z",
+  "updatedAt": "2026-02-26T00:29:31.272Z",
   "sources": [
     "El Deber",
     "Los Tiempos",
@@ -12,13 +12,13 @@
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Lidia Patty: “Soy inocente, me hacen persecución política porque soy mujer indígena”",
-      "snippet": "Lidia Patty: “Soy inocente, me hacen persecución política porque soy mujer indígena”",
-      "url": "https://eldeber.com.bo/pais/patty-soy-inocente-me-hacen-persecucion-politica-porque-soy-mujer-indigena_1772042230",
+      "title": "Pena máxima para el hombre que asesinó y cercenó a Nelly Villarroel",
+      "snippet": "Pena máxima para el hombre que asesinó y cercenó a Nelly Villarroel",
+      "url": "https://eldeber.com.bo/pais/pena-maxima-hombre-asesino-cerceno-nelly-villarroel_1772061448",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.982Z",
-      "audioUrl": "/audio/news-e6f2f54a.mp3"
+      "date": "2026-02-26T00:29:25.588Z",
+      "audioUrl": "/audio/news-cfecf799.mp3"
     },
     {
       "source": "Los Tiempos",
@@ -28,30 +28,30 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260225/editorial/mexico-lecciones-caida-del-mencho",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z",
+      "date": "2026-02-26T00:29:25.923Z",
       "audioUrl": "/audio/news-f8c6a437.mp3"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Ejecutivo de YPFB: ‘No es fácil despedir a la gente, todos están bajo la Ley General del Trabajo’",
-      "snippet": "Ejecutivo de YPFB: ‘No es fácil despedir a la gente, todos están bajo la Ley General del Trabajo’",
-      "url": "https://www.opinion.com.bo/articulo/pais/ejecutivo-ypfb-es-facil-despedir-gente-todos-estan-ley-general-trabajo/20260225153952989169.html",
+      "title": "Presidente de la CAF llega a Bolivia para analizar financiamiento de más de $us 3.100 millones",
+      "snippet": "Presidente de la CAF llega a Bolivia para analizar financiamiento de más de $us 3.100 millones",
+      "url": "https://www.opinion.com.bo/articulo/pais/presidente-caf-llega-bolivia-analizar-financiamiento-mas-us-3100-millones/20260225195717989185.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.896Z",
-      "audioUrl": "/audio/news-4475fa60.mp3"
+      "date": "2026-02-26T00:29:26.228Z",
+      "audioUrl": "/audio/news-e79d0735.mp3"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Jhonny permanece en celdas de la Felcc a la espera de su audiencia",
-      "snippet": "Jhonny permanece en celdas de la Felcc a la espera de su audiencia",
-      "url": "https://www.reduno.com.bo/noticias/jhonny-fernandez-permanece-en-celdas-de-la-felcc-a-la-espera-de-su-audiencia-2026225123340",
-      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "title": "Vigilia en la Felcc: Vecinos manifiestan su apoyo a Jhonny Fernández",
+      "snippet": "Vigilia en la Felcc: Vecinos manifiestan su apoyo a Jhonny Fernández",
+      "url": "https://www.reduno.com.bo/noticias/vigilia-en-la-felcc-vecinos-manifiestan-su-apoyo-a-jhonny-fernandez-202622519335",
+      "image": "./images/news-9915b01769.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:28.934Z",
-      "audioUrl": "/audio/news-208d002d.mp3"
+      "date": "2026-02-26T00:29:25.513Z",
+      "audioUrl": "/audio/news-9915b017.mp3"
     },
     {
       "source": "Página Siete",
@@ -61,30 +61,30 @@
       "url": "https://paginasiete.bo/golden-state-warriors-welcome-kristaps-porzingis-in-debut-after-trade/",
       "image": "./images/news-8f2c9aa12d.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:30.731Z",
+      "date": "2026-02-26T00:29:26.692Z",
       "audioUrl": "/audio/news-8f2c9aa1.mp3"
     },
     {
       "source": "Eju.tv",
       "sourceUrl": "https://eju.tv",
-      "title": "En Diputados reportan que varios vehículos están parados por culpa de la gasolina de mala calidad",
-      "snippet": "En Diputados reportan que varios vehículos están parados por culpa de la gasolina de mala calidad",
-      "url": "https://eju.tv/2026/02/en-diputados-reportan-que-varios-vehiculos-estan-parados-por-culpa-de-la-gasolina-de-mala-calidad/",
-      "image": "./images/news-8f40bf6da6.jpg",
+      "title": "150 gigabytes: un ‘hacker’ utilizó IA para robar datos confidenciales en México",
+      "snippet": "150 gigabytes: un ‘hacker’ utilizó IA para robar datos confidenciales en México",
+      "url": "https://eju.tv/2026/02/150-gigabytes-un-hacker-utilizo-ia-para-robar-datos-confidenciales-en-mexico/",
+      "image": "./images/news-cf75763250.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:29.153Z",
-      "audioUrl": "/audio/news-8f40bf6d.mp3"
+      "date": "2026-02-26T00:29:25.633Z",
+      "audioUrl": "/audio/news-cf757632.mp3"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Choferes abandonan reunión con el Gobierno y advierten con “tomar acciones”",
-      "snippet": "Choferes abandonan reunión con el Gobierno y advierten con “tomar acciones”",
-      "url": "https://eldeber.com.bo/pais/choferes-abandonan-reunion-gobierno-advierten-tomar-acciones_1772037325",
+      "title": "Chofer de micro se gana la simpatía porque no cobra pasaje a los cumpleañeros",
+      "snippet": "Chofer de micro se gana la simpatía porque no cobra pasaje a los cumpleañeros",
+      "url": "https://eldeber.com.bo/pais/chofer-micro-gana-simpatia-porque-no-cobra-pasaje-cumpleaneros_1772062005",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.984Z",
-      "audioUrl": "/audio/news-ac322554.mp3"
+      "date": "2026-02-26T00:29:25.590Z",
+      "audioUrl": "/audio/news-b3f26685.mp3"
     },
     {
       "source": "Los Tiempos",
@@ -94,30 +94,30 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/momento-isildur",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z",
+      "date": "2026-02-26T00:29:25.923Z",
       "audioUrl": "/audio/news-61288372.mp3"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Reunión por combustible: ministro de Hidrocarburos no asiste y choferes se retiran del diálogo",
-      "snippet": "Reunión por combustible: ministro de Hidrocarburos no asiste y choferes se retiran del diálogo",
-      "url": "https://www.opinion.com.bo/articulo/pais/reunion-combustible-ministro-hidrocarburos-asiste-choferes-retiran-dialogo/20260225134708989165.html",
+      "title": "FC Universitario gana y elimina a Guabirá en el repechaje del Torneo de Verano",
+      "snippet": "FC Universitario gana y elimina a Guabirá en el repechaje del Torneo de Verano",
+      "url": "https://www.opinion.com.bo/articulo/deportes/fc-universitario-gana-elimina-guabira-repechaje-torneo-verano/20260225185636989174.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.897Z",
-      "audioUrl": "/audio/news-6b48f18f.mp3"
+      "date": "2026-02-26T00:29:26.228Z",
+      "audioUrl": "/audio/news-561295d8.mp3"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Caso pavimento: presidente del TSJ garantiza imparcialidad judicial",
-      "snippet": "Caso pavimento: presidente del TSJ garantiza imparcialidad judicial",
-      "url": "https://www.reduno.com.bo/noticias/es-la-nueva-justicia-presidente-del-tsj-garantiza-imparcialidad-en-el-caso-que-involucra-al-alcalde-cruceno-2026225153334",
-      "image": "./images/news-c866e6b567.jpg",
+      "title": "Fijan para mañana la audiencia del alcalde Jhonny Fernández",
+      "snippet": "Fijan para mañana la audiencia del alcalde Jhonny Fernández",
+      "url": "https://www.reduno.com.bo/noticias/fijan-para-manana-la-audiencia-del-alcalde-jhonny-fernandez-2026225164114",
+      "image": "./images/news-fa8fdcdefb.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:28.934Z",
-      "audioUrl": "/audio/news-c866e6b5.mp3"
+      "date": "2026-02-26T00:29:25.513Z",
+      "audioUrl": "/audio/news-fa8fdcde.mp3"
     },
     {
       "source": "Página Siete",
@@ -127,19 +127,19 @@
       "url": "https://paginasiete.bo/spacex-launches-latest-starlink-rocket-from-florida/",
       "image": "./images/news-4042cf9c04.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:30.731Z",
+      "date": "2026-02-26T00:29:26.692Z",
       "audioUrl": "/audio/news-4042cf9c.mp3"
     },
     {
-      "source": "Red Uno",
-      "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Bolivia asume la presidencia del Comité Latinoamericano de Seguridad",
-      "snippet": "Bolivia asume la presidencia del Comité Latinoamericano de Seguridad",
-      "url": "https://www.reduno.com.bo/noticias/bolivia-asumira-presidencia-del-clasi-y-refuerza-coordinacion-regional-contra-el-crimen-organizado-2026225112837",
-      "image": "./images/news-3f0e7e5ed4.jpg",
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "ABC retoma competencias de la ruta Isiri–La Central y reactiva la conexión estratégica del Chaco con Tarija",
+      "snippet": "ABC retoma competencias de la ruta Isiri–La Central y reactiva la conexión estratégica del Chaco con Tarija",
+      "url": "https://eldeber.com.bo/pais/abc-retoma-competencias-ruta-isiri-central-reactiva-conexion-estrategica-chaco-tarija_1772059033",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.935Z",
-      "audioUrl": "/audio/news-3f0e7e5e.mp3"
+      "date": "2026-02-26T00:29:25.591Z",
+      "audioUrl": "/audio/news-1632708e.mp3"
     },
     {
       "source": "Los Tiempos",
@@ -149,30 +149,30 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/carrera-bioceanica-desafio-historico-bolivia",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z",
+      "date": "2026-02-26T00:29:25.923Z",
       "audioUrl": "/audio/news-d6e396de.mp3"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Jhonny Fernández es trasladado a celdas policiales en espera de su audiencia cautelar",
-      "snippet": "Jhonny Fernández es trasladado a celdas policiales en espera de su audiencia cautelar",
-      "url": "https://www.opinion.com.bo/articulo/pais/jhonny-fernandez-es-trasladado-celdas-policiales-espera-audiencia-cautelar/20260225110129989163.html",
+      "title": "YPFB presenta plataforma SREC para tramitar compensación de daños a vehículos por combustible",
+      "snippet": "YPFB presenta plataforma SREC para tramitar compensación de daños a vehículos por combustible",
+      "url": "https://www.opinion.com.bo/articulo/pais/ypfb-presenta-plataforma-srec-tramitar-compensacion-danos-vehiculos-combustible/20260225182422989170.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.897Z",
-      "audioUrl": "/audio/news-10372f65.mp3"
+      "date": "2026-02-26T00:29:26.228Z",
+      "audioUrl": "/audio/news-f5c2754e.mp3"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Choferes anuncian entrega de documentos desde el lunes",
-      "snippet": "Choferes anuncian entrega de documentos desde el lunes",
-      "url": "https://www.reduno.com.bo/noticias/choferes-anuncian-entrega-de-documentos-desde-el-lunes-para-resarcimiento-por-gasolina-202622513300",
-      "image": "./images/news-e3a00430eb.jpg",
+      "title": "Estos son los audios que delataron a los secuestradores de un menor",
+      "snippet": "Estos son los audios que delataron a los secuestradores de un menor",
+      "url": "https://www.reduno.com.bo/noticias/ya-consiguieron-la-plata-estos-son-los-audios-que-delataron-a-los-secuestradores-del-menor-de-14-anos-2026225195224",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.935Z",
-      "audioUrl": "/audio/news-e3a00430.mp3"
+      "date": "2026-02-26T00:29:25.513Z",
+      "audioUrl": "/audio/news-18151123.mp3"
     },
     {
       "source": "Página Siete",
@@ -182,19 +182,19 @@
       "url": "https://paginasiete.bo/rashee-rice-accused-of-assault-in-civil-lawsuit-by-dacoda-jones/",
       "image": "./images/news-ac8832dac6.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:30.731Z",
+      "date": "2026-02-26T00:29:26.692Z",
       "audioUrl": "/audio/news-ac8832da.mp3"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "El Alto registra 12 casos de abandono de menores en lo que va de 2026",
-      "snippet": "El Alto registra 12 casos de abandono de menores en lo que va de 2026",
-      "url": "https://eldeber.com.bo/pais/alto-registra-12-casos-abandono-menores-va-2026_1772033761",
+      "title": "La tragedia minera no cesa en Potosí: suman 38 muertos en dos meses",
+      "snippet": "La tragedia minera no cesa en Potosí: suman 38 muertos en dos meses",
+      "url": "https://eldeber.com.bo/pais/tragedia-minera-no-cesa-potosi-suman-38-muertos-dos-meses_1772054074",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.985Z",
-      "audioUrl": "/audio/news-f06c80c3.mp3"
+      "date": "2026-02-26T00:29:25.591Z",
+      "audioUrl": "/audio/news-16f3bd54.mp3"
     },
     {
       "source": "Los Tiempos",
@@ -204,30 +204,30 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/peru-argentina-bolivia",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z",
+      "date": "2026-02-26T00:29:25.923Z",
       "audioUrl": "/audio/news-86e272e9.mp3"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Ante rentas 'miserables' de jubilación, trabajadores inactivos exigen devolución de aportes",
-      "snippet": "Ante rentas 'miserables' de jubilación, trabajadores inactivos exigen devolución de aportes",
-      "url": "https://www.opinion.com.bo/articulo/pais/rentas-miserables-jubilacion-trabajadores-inactivos-exigen-devolucion-aportes/20260225103918989161.html",
+      "title": "Ejecutivo de YPFB: ‘No es fácil despedir a la gente, todos están bajo la Ley General del Trabajo’",
+      "snippet": "Ejecutivo de YPFB: ‘No es fácil despedir a la gente, todos están bajo la Ley General del Trabajo’",
+      "url": "https://www.opinion.com.bo/articulo/pais/ejecutivo-ypfb-es-facil-despedir-gente-todos-estan-ley-general-trabajo/20260225153952989169.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.897Z",
-      "audioUrl": "/audio/news-82e1c5f9.mp3"
+      "date": "2026-02-26T00:29:26.228Z",
+      "audioUrl": "/audio/news-4475fa60.mp3"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Confirman caso de sarampión en una niña menor de un año en Cochabamba",
-      "snippet": "Confirman caso de sarampión en una niña menor de un año en Cochabamba",
-      "url": "https://www.reduno.com.bo/salud-belleza/confirman-caso-de-sarampion-en-una-nina-menor-de-un-ano-en-cercado-202622515226",
-      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "title": "Primera dama recibe de ITALSA una donación de productos de higiene",
+      "snippet": "Primera dama recibe de ITALSA una donación de productos de higiene",
+      "url": "https://www.reduno.com.bo/espacio-empresarial/primera-dama-recibe-de-italsa-una-donacion-de-productos-de-higiene-para-comunidades-vulnerables-2026225152236",
+      "image": "./images/news-406058d953.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:28.935Z",
-      "audioUrl": "/audio/news-7a46c61a.mp3"
+      "date": "2026-02-26T00:29:25.513Z",
+      "audioUrl": "/audio/news-406058d9.mp3"
     },
     {
       "source": "Página Siete",
@@ -237,17 +237,17 @@
       "url": "https://paginasiete.bo/who-is-mikaela-shiffrin-husband-net-worth-age-more/",
       "image": "./images/news-ff74383e99.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:30.731Z"
+      "date": "2026-02-26T00:29:26.693Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Derrumbe afecta un bus y deja siete heridos en el tramo Tarija-Entre Ríos",
-      "snippet": "Derrumbe afecta un bus y deja siete heridos en el tramo Tarija-Entre Ríos",
-      "url": "https://eldeber.com.bo/pais/derrumbe-afecta-bus-deja-siete-heridos-tramo-tarija-rios_1772033500",
+      "title": "Contradicciones entre dirigentes sobre acuerdos con el Gobierno",
+      "snippet": "Contradicciones entre dirigentes sobre acuerdos con el Gobierno",
+      "url": "https://eldeber.com.bo/pais/contradicciones-dirigentes-acuerdos-gobierno_1772052991",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.985Z"
+      "date": "2026-02-26T00:29:25.591Z"
     },
     {
       "source": "Los Tiempos",
@@ -257,7 +257,7 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/politica-ultimo-tic-tac-del-tiktok",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z"
+      "date": "2026-02-26T00:29:25.923Z"
     },
     {
       "source": "Opinión",
@@ -267,17 +267,17 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/daza-ofrece-600-millones-obras-ve-ventaja-cercania-paz/20260225000056989130.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.897Z"
+      "date": "2026-02-26T00:29:26.229Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Hallan 100 mil dólares falsos y aprehenden a ciudadana peruana",
-      "snippet": "Hallan 100 mil dólares falsos y aprehenden a ciudadana peruana",
-      "url": "https://www.reduno.com.bo/noticias/hallan-us-100-mil-falsos-y-aprehenden-a-una-mujer-durante-un-control-policial-en-cochabamba-2026225134210",
-      "image": "./images/news-c2a995babc.jpg",
+      "title": "Maniobra evasiva provoca doble encunetamiento en la zona norte",
+      "snippet": "Maniobra evasiva provoca doble encunetamiento en la zona norte",
+      "url": "https://www.reduno.com.bo/noticias/maniobra-evasiva-provoca-el-encunetamiento-de-dos-vehiculos-en-la-zona-norte-2026225192616",
+      "image": "./images/news-4b544c85ca.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:28.935Z"
+      "date": "2026-02-26T00:29:25.513Z"
     },
     {
       "source": "Página Siete",
@@ -287,17 +287,17 @@
       "url": "https://paginasiete.bo/hubble-space-telescope-captures-stunning-new-image-of-the-egg-nebula/",
       "image": "./images/news-d084764763.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:30.731Z"
+      "date": "2026-02-26T00:29:26.693Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "El Cartel Jalisco proveía mercurio a Bolivia, Perú y Colombia para la minería ilegal",
-      "snippet": "El Cartel Jalisco proveía mercurio a Bolivia, Perú y Colombia para la minería ilegal",
-      "url": "https://eldeber.com.bo/pais/cartel-jalisco-proveia-mercurio-bolivia-peru-colombia-mineria-ilegal_1772030673",
+      "title": "Lara convoca a Asamblea para interpelar a Medinaceli y Ávila sugiere suspenderla porque no tendrá efecto",
+      "snippet": "Lara convoca a Asamblea para interpelar a Medinaceli y Ávila sugiere suspenderla porque no tendrá efecto",
+      "url": "https://eldeber.com.bo/pais/lara-convoca-asamblea-interpelar-medinaceli-avila-sugiere-suspenderla-porque-no-tendra-efecto_1772060194",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.985Z"
+      "date": "2026-02-26T00:29:25.592Z"
     },
     {
       "source": "Los Tiempos",
@@ -307,7 +307,7 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/dolar-20-bs-precio-tecnologias",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z"
+      "date": "2026-02-26T00:29:25.924Z"
     },
     {
       "source": "Opinión",
@@ -317,17 +317,17 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/javier-bellott-es-mas-facil-manejar-municipio-que-empresa/20260224000014989044.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.897Z"
+      "date": "2026-02-26T00:29:26.229Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Chofer de micro habla tras muerte de estudiante en el Plan Tres Mil",
-      "snippet": "Chofer de micro habla tras muerte de estudiante en el Plan Tres Mil",
-      "url": "https://www.reduno.com.bo/noticias/que-me-perdonen-las-palabras-del-chofer-que-atropello-y-mato-a-una-estudiante-en-el-plan-tres-mil-202622513231",
-      "image": "./images/news-e2d876e6aa.jpg",
+      "title": "Bajo un árbol y con chikungunya: drama estudiantil entre la maleza",
+      "snippet": "Bajo un árbol y con chikungunya: drama estudiantil entre la maleza",
+      "url": "https://www.reduno.com.bo/noticias/bajo-un-arbol-y-con-chikungunya-el-drama-de-estudiar-entre-la-maleza-y-charcos-2026225185046",
+      "image": "./images/news-5ebc647ecc.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:28.935Z"
+      "date": "2026-02-26T00:29:25.514Z"
     },
     {
       "source": "Página Siete",
@@ -337,17 +337,17 @@
       "url": "https://paginasiete.bo/tv-personality-jill-zarin-fired-for-controversial-comments-about-bad-bunny-at-the-super-bowl/",
       "image": "./images/news-4363ea3cf1.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:30.732Z"
+      "date": "2026-02-26T00:29:26.693Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Choferes vuelven a bloquear el centro paceño por la calidad de la gasolina",
-      "snippet": "Choferes vuelven a bloquear el centro paceño por la calidad de la gasolina",
-      "url": "https://eldeber.com.bo/pais/choferes-vuelven-bloquear-centro-paceno-medio-reclamos_1772031931",
+      "title": "Capturan a banda que maniató a mineros para robar en planta de estaño",
+      "snippet": "Capturan a banda que maniató a mineros para robar en planta de estaño",
+      "url": "https://eldeber.com.bo/pais/capturan-banda-maniato-mineros-robar-planta-estano_1772051375",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.986Z"
+      "date": "2026-02-26T00:29:25.592Z"
     },
     {
       "source": "Los Tiempos",
@@ -357,7 +357,7 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/bolivia-que-nace-diferente",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z"
+      "date": "2026-02-26T00:29:25.924Z"
     },
     {
       "source": "Opinión",
@@ -367,7 +367,17 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/transporte-libre-emergencia-gasolina-mala-calidad-pide-gobierno-dar-cara/20260223143116989021.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.898Z"
+      "date": "2026-02-26T00:29:26.229Z"
+    },
+    {
+      "source": "Red Uno",
+      "sourceUrl": "https://www.reduno.com.bo",
+      "title": "Suspenden el paro de salud anunciado para el jueves y viernes",
+      "snippet": "Suspenden el paro de salud anunciado para el jueves y viernes",
+      "url": "https://www.reduno.com.bo/noticias/suspenden-el-paro-de-salud-anunciado-para-el-jueves-y-viernes-tras-un-acuerdo-con-la-secretaria-de-salud-202622516635",
+      "image": "./images/news-4e31f5f99b.jpg",
+      "category": "País",
+      "date": "2026-02-26T00:29:25.514Z"
     },
     {
       "source": "Página Siete",
@@ -377,17 +387,17 @@
       "url": "https://paginasiete.bo/francisco-lindor-will-undergo-surgery-for-an-injury-to-his-left-hand/",
       "image": "./images/news-d315b1de26.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:30.732Z"
+      "date": "2026-02-26T00:29:26.693Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Bolivia es el tercer peor país de la región en cuanto a mortalidad materna",
-      "snippet": "Bolivia es el tercer peor país de la región en cuanto a mortalidad materna",
-      "url": "https://eldeber.com.bo/pais/bolivia-tercer-peor-pais-region-cuanto-mortalidad-materna_1772030314",
+      "title": "Peruana con antecedentes es capturada con $us 100 mil falsos",
+      "snippet": "Peruana con antecedentes es capturada con $us 100 mil falsos",
+      "url": "https://eldeber.com.bo/pais/peruana-antecedentes-capturada-us-100-mil-falsos_1772049721",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.986Z"
+      "date": "2026-02-26T00:29:25.592Z"
     },
     {
       "source": "Los Tiempos",
@@ -397,27 +407,27 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/modelo-que-lara-intenta-imitar",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z"
+      "date": "2026-02-26T00:29:25.924Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "FEPC presenta al Gobierno paquete de proyectos viales, férreos, fluviales y aeroportuarios",
-      "snippet": "FEPC presenta al Gobierno paquete de proyectos viales, férreos, fluviales y aeroportuarios",
-      "url": "https://www.opinion.com.bo/articulo/cochabamba/fepc-presenta-gobierno-paquete-proyectos-viales-ferreos-fluviales-aeroportuarios/20260222182045989001.html",
+      "title": "Miguel Angél Salas Gonzáles es el nuevo Rector Regional de la UPDS en Cochabamba",
+      "snippet": "Miguel Angél Salas Gonzáles es el nuevo Rector Regional de la UPDS en Cochabamba",
+      "url": "https://www.opinion.com.bo/articulo/cochabamba/miguel-angel-salas-gonzales-es-nuevo-rector-regional-upds-cochabamba/20260225183208989172.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.898Z"
+      "date": "2026-02-26T00:29:26.229Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Taxista lucha por su vida tras brutal atraco en Cochabamba",
-      "snippet": "Taxista lucha por su vida tras brutal atraco en Cochabamba",
-      "url": "https://www.reduno.com.bo/noticias/nueve-horas-en-quirofano-taxista-atacado-permanece-en-terapia-intensiva-en-cochabamba-202622514617",
-      "image": "./images/news-f8676876c0.jpg",
+      "title": "YPFB lanza plataforma digital para reportar daños por gasolina",
+      "snippet": "YPFB lanza plataforma digital para reportar daños por gasolina",
+      "url": "https://www.reduno.com.bo/economia/ypfb-lanza-plataforma-digital-para-reportar-danos-por-gasolina-desestabilizada-202622518599",
+      "image": "./images/news-dc09388388.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:28.935Z"
+      "date": "2026-02-26T00:29:25.514Z"
     },
     {
       "source": "Página Siete",
@@ -427,17 +437,17 @@
       "url": "https://paginasiete.bo/estrella-ucraniana-descalificada-de-los-juegos-olimpicos-de-invierno-por-usar-un-casco-que-honra-a-los-caidos-en-la-guerra/",
       "image": "./images/news-ddc919d272.jpg",
       "category": "País",
-      "date": "2026-02-25T20:09:30.732Z"
+      "date": "2026-02-26T00:29:26.693Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Bolivia elegirá a 5.432 nuevas autoridades en las elecciones de marzo",
-      "snippet": "Bolivia elegirá a 5.432 nuevas autoridades en las elecciones de marzo",
-      "url": "https://eldeber.com.bo/yo-elijo/bolivia-elegira-5-432-nuevas-autoridades-elecciones-marzo_1772026346",
+      "title": "Sujetos irrumpen con gas lacrimógeno en una planta procesadora de estaño y dejan a dos mineros maniatados",
+      "snippet": "Sujetos irrumpen con gas lacrimógeno en una planta procesadora de estaño y dejan a dos mineros maniatados",
+      "url": "https://eldeber.com.bo/pais/sujetos-irrumpen-gas-lacrimogeno-planta-procesadora-estano-dejan-dos-mineros-maniatados_1772047829",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.986Z"
+      "date": "2026-02-26T00:29:25.593Z"
     },
     {
       "source": "Los Tiempos",
@@ -447,17 +457,17 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260223/columna/reconfiguracion-del-tablero-mundial",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.317Z"
+      "date": "2026-02-26T00:29:25.924Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Bolivia en reunión entre UE y CLASI: “Aquí no se protege a nadie, la cooperación debe institucionalizarse”",
-      "snippet": "Bolivia en reunión entre UE y CLASI: “Aquí no se protege a nadie, la cooperación debe institucionalizarse”",
-      "url": "https://eldeber.com.bo/pais/bolivia-reunion-ue-clasi-aqui-no-protege-nadie-cooperacion-debe-institucionalizarse_1772023486",
+      "title": "Lidia Patty: “Soy inocente, me hacen persecución política porque soy mujer indígena”",
+      "snippet": "Lidia Patty: “Soy inocente, me hacen persecución política porque soy mujer indígena”",
+      "url": "https://eldeber.com.bo/pais/patty-soy-inocente-me-hacen-persecucion-politica-porque-soy-mujer-indigena_1772042230",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.987Z"
+      "date": "2026-02-26T00:29:25.593Z"
     },
     {
       "source": "Los Tiempos",
@@ -467,27 +477,27 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260223/columna/reiniciando-relaciones-diplomaticas",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:29.318Z"
+      "date": "2026-02-26T00:29:25.924Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "El TSE anuncia acciones penales contra partidos por hacer registros fantasmas",
-      "snippet": "El TSE anuncia acciones penales contra partidos por hacer registros fantasmas",
-      "url": "https://eldeber.com.bo/pais/tse-anuncia-acciones-penales-partidos-hacer-registros-fantasmas_1772017929",
+      "title": "Choferes abandonan reunión con el Gobierno y advierten con “tomar acciones”",
+      "snippet": "Choferes abandonan reunión con el Gobierno y advierten con “tomar acciones”",
+      "url": "https://eldeber.com.bo/pais/choferes-abandonan-reunion-gobierno-advierten-tomar-acciones_1772037325",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.987Z"
+      "date": "2026-02-26T00:29:25.593Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "TAB reportó inconsistencias en tres vuelos desde EE.UU. y pide procesar a 6 empresas",
-      "snippet": "TAB reportó inconsistencias en tres vuelos desde EE.UU. y pide procesar a 6 empresas",
-      "url": "https://eldeber.com.bo/pais/tab-reporto-inconsistencias-tres-vuelos-ee-uu-pide-procesar-6-empresas_1772016116",
+      "title": "Bolivia asume la presidencia del Comité Latinoamericano de Seguridad Interior",
+      "snippet": "Bolivia asume la presidencia del Comité Latinoamericano de Seguridad Interior",
+      "url": "https://eldeber.com.bo/pais/bolivia-asume-presidencia-comite-latinoamericano-seguridad-interior_1772034355",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-25T20:09:28.987Z"
+      "date": "2026-02-26T00:29:25.594Z"
     }
   ]
 }
