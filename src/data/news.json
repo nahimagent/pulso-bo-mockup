@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T00:29:31.130Z",
+  "updatedAt": "2026-02-27T12:29:31.954Z",
   "sources": [
     "El Deber",
     "Los Tiempos",
@@ -12,13 +12,12 @@
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Incendio de flotas en Oruro causa 20 heridos; se investiga lesiones culposas",
-      "snippet": "Incendio de flotas en Oruro causa 20 heridos; se investiga lesiones culposas",
-      "url": "https://eldeber.com.bo/pais/incendio-flotas-oruro-causa-20-heridos-investiga-lesiones-culposas_1772146807",
+      "title": "Procesos heredados derivan en la detención de la alcaldesa de Cobija",
+      "snippet": "Procesos heredados derivan en la detención de la alcaldesa de Cobija",
+      "url": "https://eldeber.com.bo/pais/procesos-heredados-derivan-detencion-alcaldesa-cobija_1772189644",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.894Z",
-      "audioUrl": "/audio/news-6ebb2695.mp3"
+      "date": "2026-02-27T12:29:25.600Z"
     },
     {
       "source": "Los Tiempos",
@@ -28,170 +27,207 @@
       "url": "https://www.lostiempos.com/actualidad/cochabamba/20260226/icam-hoy-arranca-foro-candidatos-gobernacion-cochabamba",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.226Z",
-      "audioUrl": "/audio/news-5349584e.mp3"
+      "date": "2026-02-27T12:29:25.975Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Dan detención preventiva al alcalde Jhonny Fernández",
-      "snippet": "Dan detención preventiva al alcalde Jhonny Fernández",
-      "url": "https://www.opinion.com.bo/articulo/pais/justicia-decide-enviar-carcel-alcalde-jhonny-fernandez/20260226183210989259.html",
+      "title": "Caso 'Pavimento': jueza envía a la cárcel al alcalde Jhonny Fernández",
+      "snippet": "Caso 'Pavimento': jueza envía a la cárcel al alcalde Jhonny Fernández",
+      "url": "https://www.opinion.com.bo/articulo/pais/caso-pavimento-jueza-envia-carcel-alcalde-jhonny-fernandez/20260227000035989294.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.490Z",
-      "audioUrl": "/audio/news-61a546d8.mp3"
+      "date": "2026-02-27T12:29:25.517Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Justicia determinó la detención preventiva de Jhonny Fernández",
-      "snippet": "Justicia determinó la detención preventiva de Jhonny Fernández",
-      "url": "https://www.reduno.com.bo/noticias/la-justicia-determino-enviar-con-detencion-preventiva-a-jhonny-fernandez-2026226152150",
-      "image": "./images/news-46dca63856.jpg",
+      "title": "CAF refuerza confianza internacional en Bolivia, destaca el Gobierno",
+      "snippet": "CAF refuerza confianza internacional en Bolivia, destaca el Gobierno",
+      "url": "https://www.reduno.com.bo/noticias/presencia-de-la-caf-abre-puertas-a-inversion-y-crecimiento-destaca-el-gobierno-2026227896",
+      "image": "./images/news-01f4eb9818.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:25.822Z",
-      "audioUrl": "/audio/news-46dca638.mp3"
+      "date": "2026-02-27T12:29:25.552Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Golden State Warriors welcome Kristaps Porziņģis in debut after trade",
-      "snippet": "Golden State Warriors welcome Kristaps Porziņģis in debut after trade",
-      "url": "https://paginasiete.bo/golden-state-warriors-welcome-kristaps-porzingis-in-debut-after-trade/",
-      "image": "./images/news-8f2c9aa12d.jpg",
+      "title": "Australia to Test New AusAlert Emergency Alerts on 23 Million Phones July 27",
+      "snippet": "Australia to Test New AusAlert Emergency Alerts on 23 Million Phones July 27",
+      "url": "https://paginasiete.bo/australia-to-test-new-ausalert-emergency-alerts-on-23-million-phones-july-27/",
+      "image": "./images/news-5fd06a19bb.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:27.112Z",
-      "audioUrl": "/audio/news-8f2c9aa1.mp3"
+      "date": "2026-02-27T12:29:26.814Z"
     },
     {
       "source": "Eju.tv",
       "sourceUrl": "https://eju.tv",
-      "title": "Bolivia y CAF acuerdan préstamo de hasta $us 110 millones para la más grande planta de energía solar en Chichas",
-      "snippet": "Bolivia y CAF acuerdan préstamo de hasta $us 110 millones para la más grande planta de energía solar en Chichas",
-      "url": "https://eju.tv/2026/02/bolivia-y-caf-acuerdan-prestamo-de-hasta-us-110-millones-para-la-mas-grande-planta-de-energia-solar-en-chichas/",
-      "image": "./images/news-b18f3c588f.jpg",
+      "title": "GV San José va por la revancha ante San Antonio en el repechaje",
+      "snippet": "GV San José va por la revancha ante San Antonio en el repechaje",
+      "url": "https://eju.tv/2026/02/gv-san-jose-va-por-la-revancha-ante-san-antonio-en-el-repechaje/",
+      "image": "./images/news-8a4bc734c9.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:25.939Z",
-      "audioUrl": "/audio/news-b18f3c58.mp3"
+      "date": "2026-02-27T12:29:25.647Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Alcaldesa de Cobija dice que está presa por juicios laborales iniciados en gestiones anteriores",
-      "snippet": "Alcaldesa de Cobija dice que está presa por juicios laborales iniciados en gestiones anteriores",
-      "url": "https://eldeber.com.bo/pais/alcaldesa-cobija-dice-esta-presa-juicios-laborales-iniciados-gestiones-anteriores_1772141330",
+      "title": "Tres exministros en la mira por quiebra millonaria de B-Agro",
+      "snippet": "Tres exministros en la mira por quiebra millonaria de B-Agro",
+      "url": "https://eldeber.com.bo/pais/tres-exministros-mira-quiebra-millonaria-b-agro_1772189252",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.896Z",
-      "audioUrl": "/audio/news-f29277ff.mp3"
+      "date": "2026-02-27T12:29:25.602Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Adiós a David Santalla",
-      "snippet": "Adiós a David Santalla",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260226/editorial/adios-david-santalla",
+      "title": "Cultivar el voto informado",
+      "snippet": "Cultivar el voto informado",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260227/editorial/cultivar-voto-informado",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.226Z",
-      "audioUrl": "/audio/news-4ec1c497.mp3"
+      "date": "2026-02-27T12:29:25.975Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "'Los responsables van a caer', promete Paz sobre el 'boicot' del combustible",
-      "snippet": "'Los responsables van a caer', promete Paz sobre el 'boicot' del combustible",
-      "url": "https://www.opinion.com.bo/articulo/pais/responsables-van-caer-promete-paz-boicot-combustible/20260226180939989254.html",
+      "title": "Cinco buses se incendian en taller mecánico de Oruro",
+      "snippet": "Cinco buses se incendian en taller mecánico de Oruro",
+      "url": "https://www.opinion.com.bo/articulo/policial/cinco-buses-incendian-taller-mecanico-oruro/20260227000054989272.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.490Z",
-      "audioUrl": "/audio/news-9a9a1d98.mp3"
+      "date": "2026-02-27T12:29:25.517Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "¿Quién reemplazará a Jhonny Fernández? Esto dice el Concejo Municipal",
-      "snippet": "¿Quién reemplazará a Jhonny Fernández? Esto dice el Concejo Municipal",
-      "url": "https://www.reduno.com.bo/noticias/quien-reemplazara-al-alcalde-jhonny-fernandez-esto-dice-el-concejo-municipal-de-santa-cruz-202622620546",
-      "image": "./images/news-511d8d5a92.jpg",
+      "title": "García: informe técnico respalda caso Fernández",
+      "snippet": "García: informe técnico respalda caso Fernández",
+      "url": "https://www.reduno.com.bo/programa/no-se-puede-pagar-4-km-si-habia-menos-viceministro-justifica-detencion-de-jhonny-fernandez-202622774911",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.822Z",
-      "audioUrl": "/audio/news-511d8d5a.mp3"
+      "date": "2026-02-27T12:29:25.553Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "SpaceX launches latest Starlink rocket from Florida",
-      "snippet": "SpaceX launches latest Starlink rocket from Florida",
-      "url": "https://paginasiete.bo/spacex-launches-latest-starlink-rocket-from-florida/",
-      "image": "./images/news-4042cf9c04.jpg",
+      "title": "Royce O’Neale Late Three-Pointer Lifts Short-Handed Suns Over Lakers 113-110",
+      "snippet": "Royce O’Neale Late Three-Pointer Lifts Short-Handed Suns Over Lakers 113-110",
+      "url": "https://paginasiete.bo/royce-oneale-late-three-pointer-lifts-short-handed-suns-over-lakers-113-110/",
+      "image": "./images/news-c044836180.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:27.112Z",
-      "audioUrl": "/audio/news-4042cf9c.mp3"
+      "date": "2026-02-27T12:29:26.814Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "La abogada Aida Luz Tuchani es la primera diputada no vidente en Bolivia",
-      "snippet": "La abogada Aida Luz Tuchani es la primera diputada no vidente en Bolivia",
-      "url": "https://eldeber.com.bo/pais/abogada-aida-luz-tuchani-primera-diputada-no-vidente-bolivia_1772142695",
+      "title": "Hay cargos clave bajo control de personal que sirvió al MAS ; el Gobierno promete ajustes",
+      "snippet": "Hay cargos clave bajo control de personal que sirvió al MAS ; el Gobierno promete ajustes",
+      "url": "https://eldeber.com.bo/pais/hay-cargos-clave-control-personal-sirvio-gobierno-promete-ajustes_1772188455",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.896Z",
-      "audioUrl": "/audio/news-bfcbb311.mp3"
+      "date": "2026-02-27T12:29:25.602Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Ese asesino silencioso que amenaza nuestras vidas",
-      "snippet": "Ese asesino silencioso que amenaza nuestras vidas",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260226/columna/ese-asesino-silencioso-que-amenaza-nuestras-vidas",
+      "title": "Bolivia: muchas normativas y pocos planes",
+      "snippet": "Bolivia: muchas normativas y pocos planes",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260227/columna/bolivia-muchas-normativas-pocos-planes",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.226Z",
-      "audioUrl": "/audio/news-002fba35.mp3"
+      "date": "2026-02-27T12:29:25.976Z"
     },
     {
       "source": "Opinión",
       "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Histórico: Aida Luz Tuchani es la primera diputada de Bolivia con discapacidad visual; asumió hoy",
-      "snippet": "Histórico: Aida Luz Tuchani es la primera diputada de Bolivia con discapacidad visual; asumió hoy",
-      "url": "https://www.opinion.com.bo/articulo/pais/aida-luz-tuchani-es-primera-diputada-bolivia-discapacidad-visual-asumio-hoy/20260226125509989245.html",
+      "title": "Contratan a su vecino como plomero: mata a joven y deja heridas a su madre y hermana",
+      "snippet": "Contratan a su vecino como plomero: mata a joven y deja heridas a su madre y hermana",
+      "url": "https://www.opinion.com.bo/articulo/policial/contratan-vecino-como-plomero-mata-joven-deja-heridas-madre-hermana/20260227000003989270.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.490Z"
+      "date": "2026-02-27T12:29:25.517Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Defensa de Fernández indicó que apelará a detención preventiva",
-      "snippet": "Defensa de Fernández indicó que apelará a detención preventiva",
-      "url": "https://www.reduno.com.bo/noticias/defensa-de-jhonny-fernandez-indico-que-apelara-a-la-determinacion-de-detencion-preventiva-2026226191112",
-      "image": "./images/news-69ac1685b2.jpg",
+      "title": "Alcaldía inaugura hoy las avenidas La Paz y Del Poeta",
+      "snippet": "Alcaldía inaugura hoy las avenidas La Paz y Del Poeta",
+      "url": "https://www.reduno.com.bo/noticias/tras-polemica-y-retrasos-alcaldia-inaugura-hoy-las-avenidas-la-paz-y-del-poeta-20262277440",
+      "image": "./images/news-1b84739689.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:25.822Z"
+      "date": "2026-02-27T12:29:25.553Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Rashee Rice Accused of Assault in Civil Lawsuit by Dacoda Jones",
-      "snippet": "Rashee Rice Accused of Assault in Civil Lawsuit by Dacoda Jones",
-      "url": "https://paginasiete.bo/rashee-rice-accused-of-assault-in-civil-lawsuit-by-dacoda-jones/",
-      "image": "./images/news-ac8832dac6.jpg",
+      "title": "Luka Doncic Listed Questionable Against Suns as Lakers Face Mounting Defensive Criticism",
+      "snippet": "Luka Doncic Listed Questionable Against Suns as Lakers Face Mounting Defensive Criticism",
+      "url": "https://paginasiete.bo/luka-doncic-listed-questionable-against-suns-as-lakers-face-mounting-defensive-criticism/",
+      "image": "./images/news-11af6410ef.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:27.112Z",
-      "audioUrl": "/audio/news-ac8832da.mp3"
+      "date": "2026-02-27T12:29:26.814Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Fiscalía admite demanda contra Vidovic, mano derecha de Lara, por usurpación de funciones",
-      "snippet": "Fiscalía admite demanda contra Vidovic, mano derecha de Lara, por usurpación de funciones",
-      "url": "https://eldeber.com.bo/pais/fiscalia-admite-demanda-vidovic-mano-derecha-lara-usurpacion-funciones_1772141701",
+      "title": "Rey de España realizará fugaz visita a Bolivia y se reunirá con empresarios",
+      "snippet": "Rey de España realizará fugaz visita a Bolivia y se reunirá con empresarios",
+      "url": "https://eldeber.com.bo/pais/rey-espana-realizara-fugaz-visita-bolivia-reunira-empresarios_1772160409",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.897Z"
+      "date": "2026-02-27T12:29:25.603Z"
+    },
+    {
+      "source": "Los Tiempos",
+      "sourceUrl": "https://www.lostiempos.com",
+      "title": "La flor frágil de la calma: Bolivia en su luna de miel",
+      "snippet": "La flor frágil de la calma: Bolivia en su luna de miel",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260227/columna/flor-fragil-calma-bolivia-su-luna-miel",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-27T12:29:25.976Z"
+    },
+    {
+      "source": "Opinión",
+      "sourceUrl": "https://www.opinion.com.bo",
+      "title": "Aurora se complica y cae frente a Always (1-2)",
+      "snippet": "Aurora se complica y cae frente a Always (1-2)",
+      "url": "https://www.opinion.com.bo/articulo/deportes/aurora-complica-cae-frente-always-1-2/20260227000017989305.html",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-27T12:29:25.517Z"
+    },
+    {
+      "source": "Red Uno",
+      "sourceUrl": "https://www.reduno.com.bo",
+      "title": "Desde hoy opera el ferrobús a la Chiquitanía",
+      "snippet": "Desde hoy opera el ferrobús a la Chiquitanía",
+      "url": "https://www.reduno.com.bo/noticias/desde-hoy-opera-el-ferrobus-a-la-chiquitania-estas-son-las-tarifas-y-horarios-202622772334",
+      "image": "./images/news-f47253033f.jpg",
+      "category": "País",
+      "date": "2026-02-27T12:29:25.553Z"
+    },
+    {
+      "source": "Página Siete",
+      "sourceUrl": "https://www.paginasiete.bo",
+      "title": "Rockets Guard Reed Sheppard Returns To Reserve Role Following Career-High Performance Against Sacramento Kings",
+      "snippet": "Rockets Guard Reed Sheppard Returns To Reserve Role Following Career-High Performance Against Sacramento Kings",
+      "url": "https://paginasiete.bo/rockets-guard-reed-sheppard-returns-to-reserve-role-following-career-high-performance-against-sacramento-kings/",
+      "image": "./images/news-7ada62d34f.jpg",
+      "category": "País",
+      "date": "2026-02-27T12:29:26.815Z"
+    },
+    {
+      "source": "El Deber",
+      "sourceUrl": "https://eldeber.com.bo",
+      "title": "Paz denuncia “boicot” por gasolina contaminada y promete sanciones; el Gobierno rechaza interpelación a Medinacelli",
+      "snippet": "Paz denuncia “boicot” por gasolina contaminada y promete sanciones; el Gobierno rechaza interpelación a Medinacelli",
+      "url": "https://eldeber.com.bo/pais/paz-denuncia-boicot-gasolina-contaminada-promete-sanciones-gobierno-rechaza-interpelacion-medinacelli_1772158459",
+      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
+      "category": "País",
+      "date": "2026-02-27T12:29:25.603Z"
     },
     {
       "source": "Los Tiempos",
@@ -201,59 +237,7 @@
       "url": "https://www.lostiempos.com/actualidad/opinion/20260226/columna/danzas-dinero",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.226Z",
-      "audioUrl": "/audio/news-bd5cbc2a.mp3"
-    },
-    {
-      "source": "Opinión",
-      "sourceUrl": "https://www.opinion.com.bo",
-      "title": "Oruro: Incendio de gran magnitud en un taller deja flotas afectadas",
-      "snippet": "Oruro: Incendio de gran magnitud en un taller deja flotas afectadas",
-      "url": "https://www.opinion.com.bo/articulo/pais/oruro-incendio-gran-magnitud-taller-deja-flotas-afectadas/20260226180108989253.html",
-      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
-      "category": "País",
-      "date": "2026-02-27T00:29:26.490Z"
-    },
-    {
-      "source": "Red Uno",
-      "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Rodrigo Paz: \"El Alto debe ser el eje comercial de la región\"",
-      "snippet": "Rodrigo Paz: \"El Alto debe ser el eje comercial de la región\"",
-      "url": "https://www.reduno.com.bo/economia/rodrigo-paz-el-alto-debe-ser-el-eje-comercial-de-la-region-2026226171443",
-      "image": "./images/news-a0663060c9.jpg",
-      "category": "País",
-      "date": "2026-02-27T00:29:25.822Z"
-    },
-    {
-      "source": "Página Siete",
-      "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Who is Mikaela Shiffrin? Husband, Net Worth, Age & More",
-      "snippet": "Who is Mikaela Shiffrin? Husband, Net Worth, Age & More",
-      "url": "https://paginasiete.bo/who-is-mikaela-shiffrin-husband-net-worth-age-more/",
-      "image": "./images/news-ff74383e99.jpg",
-      "category": "País",
-      "date": "2026-02-27T00:29:27.112Z"
-    },
-    {
-      "source": "El Deber",
-      "sourceUrl": "https://eldeber.com.bo",
-      "title": "Paz anuncia cruzada internacional con visitas a EEUU, Chile y Brasil",
-      "snippet": "Paz anuncia cruzada internacional con visitas a EEUU, Chile y Brasil",
-      "url": "https://eldeber.com.bo/pais/paz-anuncia-ofensiva-internacional-visitas-eeuu-chile-brasil-ademas-gira-europa_1772132342",
-      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
-      "category": "País",
-      "date": "2026-02-27T00:29:25.897Z"
-    },
-    {
-      "source": "Los Tiempos",
-      "sourceUrl": "https://www.lostiempos.com",
-      "title": "Medianoche en La Habana",
-      "snippet": "Medianoche en La Habana",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260226/columna/medianoche-habana",
-      "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
-      "category": "País",
-      "date": "2026-02-27T00:29:26.227Z",
-      "audioUrl": "/audio/news-cc79d489.mp3"
+      "date": "2026-02-27T12:29:25.976Z"
     },
     {
       "source": "Opinión",
@@ -263,48 +247,47 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/doble-via-sillar-fiscalia-policia-intervienen-oficinas-abc-llajta/20260226121557989243.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.491Z"
+      "date": "2026-02-27T12:29:25.517Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "El Alto: Conozca los acuerdos firmados entre el Gobierno y la CAF",
-      "snippet": "El Alto: Conozca los acuerdos firmados entre el Gobierno y la CAF",
-      "url": "https://www.reduno.com.bo/economia/el-alto-conozca-los-acuerdos-firmados-entre-el-gobierno-y-la-caf-202622618122",
-      "image": "./images/news-da785f415a.jpg",
+      "title": "Incendio en taller mecánico en Oruro deja 16 afectados por humo",
+      "snippet": "Incendio en taller mecánico en Oruro deja 16 afectados por humo",
+      "url": "https://www.reduno.com.bo/noticias/incendio-en-taller-mecanico-en-oruro-deja-16-personas-afectadas-por-inhalacion-de-humo-202622771538",
+      "image": "./images/news-dae1c35c92.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:25.822Z"
+      "date": "2026-02-27T12:29:25.553Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Hubble Space Telescope Captures Stunning New Image of the Egg Nebula",
-      "snippet": "Hubble Space Telescope Captures Stunning New Image of the Egg Nebula",
-      "url": "https://paginasiete.bo/hubble-space-telescope-captures-stunning-new-image-of-the-egg-nebula/",
-      "image": "./images/news-d084764763.jpg",
+      "title": "Golden State Warriors welcome Kristaps Porziņģis in debut after trade",
+      "snippet": "Golden State Warriors welcome Kristaps Porziņģis in debut after trade",
+      "url": "https://paginasiete.bo/golden-state-warriors-welcome-kristaps-porzingis-in-debut-after-trade/",
+      "image": "./images/news-8f2c9aa12d.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:27.113Z"
+      "date": "2026-02-27T12:29:26.815Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "La Paz irá a las subnacionales sin vocales en el TED tras nuevo fracaso en elección",
-      "snippet": "La Paz irá a las subnacionales sin vocales en el TED tras nuevo fracaso en elección",
-      "url": "https://eldeber.com.bo/yo-elijo/paz-ira-subnacionales-vocales-ted-nuevo-fracaso-eleccion_1772132747",
+      "title": "Paz nombra a su tercer vocal electoral por decreto; designó a Heby Ponce en Tarija",
+      "snippet": "Paz nombra a su tercer vocal electoral por decreto; designó a Heby Ponce en Tarija",
+      "url": "https://eldeber.com.bo/pais/paz-nombra-tercer-vocal-electoral-decreto-designo-heby-ponce-tarija_1772153826",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.897Z"
+      "date": "2026-02-27T12:29:25.603Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Perú, Argentina, Bolivia",
-      "snippet": "Perú, Argentina, Bolivia",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/peru-argentina-bolivia",
+      "title": "Ese asesino silencioso que amenaza nuestras vidas",
+      "snippet": "Ese asesino silencioso que amenaza nuestras vidas",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260226/columna/ese-asesino-silencioso-que-amenaza-nuestras-vidas",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.227Z",
-      "audioUrl": "/audio/news-86e272e9.mp3"
+      "date": "2026-02-27T12:29:25.976Z"
     },
     {
       "source": "Opinión",
@@ -314,48 +297,47 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/flores-promete-otra-cochabamba-seguridad-carreteras-control-misicuni/20260226000011989195.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.491Z"
+      "date": "2026-02-27T12:29:25.518Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Convocan a COED de salud ante incremento alarmante de chikungunya",
-      "snippet": "Convocan a COED de salud ante incremento alarmante de chikungunya",
-      "url": "https://www.reduno.com.bo/salud-belleza/tenemos-una-positividad-de-un-51-convocan-a-coed-de-salud-ante-incremento-alarmante-de-chikungunya-2026226165436",
-      "image": "./images/news-90dff445eb.jpg",
+      "title": "Trabajadores en salud cumplen paro de 48 horas en Cochabamba",
+      "snippet": "Trabajadores en salud cumplen paro de 48 horas en Cochabamba",
+      "url": "https://www.reduno.com.bo/noticias/trabajadores-en-salud-cumplen-paro-de-48-horas-en-cochabamba-202622774432",
+      "image": "./images/news-71e88abb66.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:25.823Z"
+      "date": "2026-02-27T12:29:25.553Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "TV Personality Jill Zarin Fired for Controversial Comments about Bad Bunny at the Super Bowl",
-      "snippet": "TV Personality Jill Zarin Fired for Controversial Comments about Bad Bunny at the Super Bowl",
-      "url": "https://paginasiete.bo/tv-personality-jill-zarin-fired-for-controversial-comments-about-bad-bunny-at-the-super-bowl/",
-      "image": "./images/news-4363ea3cf1.jpg",
+      "title": "SpaceX launches latest Starlink rocket from Florida",
+      "snippet": "SpaceX launches latest Starlink rocket from Florida",
+      "url": "https://paginasiete.bo/spacex-launches-latest-starlink-rocket-from-florida/",
+      "image": "./images/news-4042cf9c04.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:27.113Z"
+      "date": "2026-02-27T12:29:26.815Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Reportan un incendio de magnitud cerca de la nueva terminal de buses de Oruro",
-      "snippet": "Reportan un incendio de magnitud cerca de la nueva terminal de buses de Oruro",
-      "url": "https://eldeber.com.bo/pais/reportan-incendio-magnitud-cerca-nueva-terminal-buses-oruro_1772125777",
+      "title": "Incendio de flotas en Oruro causa 20 heridos; se investiga lesiones culposas",
+      "snippet": "Incendio de flotas en Oruro causa 20 heridos; se investiga lesiones culposas",
+      "url": "https://eldeber.com.bo/pais/incendio-flotas-oruro-causa-20-heridos-investiga-lesiones-culposas_1772146807",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.898Z"
+      "date": "2026-02-27T12:29:25.604Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "La carrera bioceánica y el desafío histórico de Bolivia",
-      "snippet": "La carrera bioceánica y el desafío histórico de Bolivia",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/carrera-bioceanica-desafio-historico-bolivia",
+      "title": "Medianoche en La Habana",
+      "snippet": "Medianoche en La Habana",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260226/columna/medianoche-habana",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.227Z",
-      "audioUrl": "/audio/news-d6e396de.mp3"
+      "date": "2026-02-27T12:29:25.976Z"
     },
     {
       "source": "Opinión",
@@ -365,48 +347,47 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/daza-ofrece-600-millones-obras-ve-ventaja-cercania-paz/20260225000056989130.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.491Z"
+      "date": "2026-02-27T12:29:25.518Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Dueños de buses afectados por incendio en taller piden apoyo",
-      "snippet": "Dueños de buses afectados por incendio en taller piden apoyo",
-      "url": "https://www.reduno.com.bo/noticias/no-tengo-como-pagar-al-banco-el-drama-tras-el-incendio-que-destruyo-flotas-en-oruro-202622615412",
-      "image": "./images/news-4e93e247ee.jpg",
+      "title": "Clima hoy en Bolivia: cielos poco nubosos y variación de temperaturas",
+      "snippet": "Clima hoy en Bolivia: cielos poco nubosos y variación de temperaturas",
+      "url": "https://www.reduno.com.bo/noticias/sol-o-lluvia-asi-estara-el-clima-este-viernes-27-de-febrero-en-bolivia-202622765526",
+      "image": "./images/news-6c151ec70b.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:25.823Z"
+      "date": "2026-02-27T12:29:25.553Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Francisco Lindor will undergo surgery for an injury to his left hand.",
-      "snippet": "Francisco Lindor will undergo surgery for an injury to his left hand.",
-      "url": "https://paginasiete.bo/francisco-lindor-will-undergo-surgery-for-an-injury-to-his-left-hand/",
-      "image": "./images/news-d315b1de26.jpg",
+      "title": "Rashee Rice Accused of Assault in Civil Lawsuit by Dacoda Jones",
+      "snippet": "Rashee Rice Accused of Assault in Civil Lawsuit by Dacoda Jones",
+      "url": "https://paginasiete.bo/rashee-rice-accused-of-assault-in-civil-lawsuit-by-dacoda-jones/",
+      "image": "./images/news-ac8832dac6.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:27.113Z"
+      "date": "2026-02-27T12:29:26.815Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Canciller confirma la visita del rey de España a Bolivia para el 12 de marzo",
-      "snippet": "Canciller confirma la visita del rey de España a Bolivia para el 12 de marzo",
-      "url": "https://eldeber.com.bo/pais/canciller-confirma-visita-rey-espana-bolivia-12-marzo_1772125580",
+      "title": "Alcaldesa de Cobija dice que está presa por juicios laborales iniciados en gestiones anteriores",
+      "snippet": "Alcaldesa de Cobija dice que está presa por juicios laborales iniciados en gestiones anteriores",
+      "url": "https://eldeber.com.bo/pais/alcaldesa-cobija-dice-esta-presa-juicios-laborales-iniciados-gestiones-anteriores_1772141330",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.898Z"
+      "date": "2026-02-27T12:29:25.604Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "El “momento Isildur”",
-      "snippet": "El “momento Isildur”",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/momento-isildur",
+      "title": "El Capitán sin estructura",
+      "snippet": "El Capitán sin estructura",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260226/columna/capitan-estructura",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.227Z",
-      "audioUrl": "/audio/news-61288372.mp3"
+      "date": "2026-02-27T12:29:25.976Z"
     },
     {
       "source": "Opinión",
@@ -416,87 +397,87 @@
       "url": "https://www.opinion.com.bo/articulo/cochabamba/javier-bellott-es-mas-facil-manejar-municipio-que-empresa/20260224000014989044.html",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.491Z"
+      "date": "2026-02-27T12:29:25.518Z"
     },
     {
       "source": "Red Uno",
       "sourceUrl": "https://www.reduno.com.bo",
-      "title": "Detenida en Palmasola: Llevaba un arma oculta en sus partes íntimas",
-      "snippet": "Detenida en Palmasola: Llevaba un arma oculta en sus partes íntimas",
-      "url": "https://www.reduno.com.bo/noticias/mujer-ocultaba-un-arma-en-sus-partes-intimas-e-intentaba-ingresar-a-palmasola-2026226181740",
-      "image": "./images/news-f294cc7a1d.jpg",
+      "title": "Delcy Rodríguez llama \"amigo\" a Trump y pide fin al bloqueo",
+      "snippet": "Delcy Rodríguez llama \"amigo\" a Trump y pide fin al bloqueo",
+      "url": "https://www.reduno.com.bo/internacional/delcy-rodriguez-llama-socio-y-amigo-a-trump-y-le-pide-cesar-el-bloqueo-contra-venezuela-202622763521",
+      "image": "./images/news-2f419bcb7c.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:25.823Z"
+      "date": "2026-02-27T12:29:25.553Z"
     },
     {
       "source": "Página Siete",
       "sourceUrl": "https://www.paginasiete.bo",
-      "title": "Estrella ucraniana descalificada de los Juegos Olímpicos de Invierno por usar un casco que honra a los caídos en la guerra",
-      "snippet": "Estrella ucraniana descalificada de los Juegos Olímpicos de Invierno por usar un casco que honra a los caídos en la guerra",
-      "url": "https://paginasiete.bo/estrella-ucraniana-descalificada-de-los-juegos-olimpicos-de-invierno-por-usar-un-casco-que-honra-a-los-caidos-en-la-guerra/",
-      "image": "./images/news-ddc919d272.jpg",
+      "title": "Who is Mikaela Shiffrin? Husband, Net Worth, Age & More",
+      "snippet": "Who is Mikaela Shiffrin? Husband, Net Worth, Age & More",
+      "url": "https://paginasiete.bo/who-is-mikaela-shiffrin-husband-net-worth-age-more/",
+      "image": "./images/news-ff74383e99.jpg",
       "category": "País",
-      "date": "2026-02-27T00:29:27.113Z"
+      "date": "2026-02-27T12:29:26.815Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Lo contratan como albañil y éste mata a un joven y maniata a dos mujeres",
-      "snippet": "Lo contratan como albañil y éste mata a un joven y maniata a dos mujeres",
-      "url": "https://eldeber.com.bo/pais/contratan-albanil-este-mata-joven-maniata-dos-mujeres_1772124430",
+      "title": "La abogada Aida Luz Tuchani es la primera diputada no vidente en Bolivia",
+      "snippet": "La abogada Aida Luz Tuchani es la primera diputada no vidente en Bolivia",
+      "url": "https://eldeber.com.bo/pais/abogada-aida-luz-tuchani-primera-diputada-no-vidente-bolivia_1772142695",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.898Z"
+      "date": "2026-02-27T12:29:25.604Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "La política y el último tic tac del TikTok",
-      "snippet": "La política y el último tic tac del TikTok",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/politica-ultimo-tic-tac-del-tiktok",
+      "title": "La carrera bioceánica y el desafío histórico de Bolivia",
+      "snippet": "La carrera bioceánica y el desafío histórico de Bolivia",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/carrera-bioceanica-desafio-historico-bolivia",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.227Z"
+      "date": "2026-02-27T12:29:25.976Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "CAF alista financiamiento inédito de $us 50 millones para educación y Paz anticipa una diplomacia pragmática",
-      "snippet": "CAF alista financiamiento inédito de $us 50 millones para educación y Paz anticipa una diplomacia pragmática",
-      "url": "https://eldeber.com.bo/pais/caf-alista-financiamiento-inedito-us-50-millones-educacion-paz-anticipa-diplomacia-pragmatica_1772123969",
+      "title": "Fiscalía admite demanda contra Vidovic, mano derecha de Lara, por usurpación de funciones",
+      "snippet": "Fiscalía admite demanda contra Vidovic, mano derecha de Lara, por usurpación de funciones",
+      "url": "https://eldeber.com.bo/pais/fiscalia-admite-demanda-vidovic-mano-derecha-lara-usurpacion-funciones_1772141701",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.899Z"
+      "date": "2026-02-27T12:29:25.604Z"
     },
     {
       "source": "Los Tiempos",
       "sourceUrl": "https://www.lostiempos.com",
-      "title": "Dólar a 20 Bs y el precio de las tecnologías",
-      "snippet": "Dólar a 20 Bs y el precio de las tecnologías",
-      "url": "https://www.lostiempos.com/actualidad/opinion/20260224/columna/dolar-20-bs-precio-tecnologias",
+      "title": "El “momento Isildur”",
+      "snippet": "El “momento Isildur”",
+      "url": "https://www.lostiempos.com/actualidad/opinion/20260225/columna/momento-isildur",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:26.227Z"
+      "date": "2026-02-27T12:29:25.976Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Bolivia y Argentina se unen para combatir al mosquito transmisor del chikunguña",
-      "snippet": "Bolivia y Argentina se unen para combatir al mosquito transmisor del chikunguña",
-      "url": "https://eldeber.com.bo/pais/bolivia-argentina-unen-combatir-mosquito-transmisor-chikunguna_1772119766",
+      "title": "Paz anuncia cruzada internacional con visitas a EEUU, Chile y Brasil",
+      "snippet": "Paz anuncia cruzada internacional con visitas a EEUU, Chile y Brasil",
+      "url": "https://eldeber.com.bo/pais/paz-anuncia-ofensiva-internacional-visitas-eeuu-chile-brasil-ademas-gira-europa_1772132342",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.899Z"
+      "date": "2026-02-27T12:29:25.605Z"
     },
     {
       "source": "El Deber",
       "sourceUrl": "https://eldeber.com.bo",
-      "title": "Aprehenden a la alcaldesa de Cobija Ana Lucía Reis",
-      "snippet": "Aprehenden a la alcaldesa de Cobija Ana Lucía Reis",
-      "url": "https://eldeber.com.bo/pais/aprehenden-alcaldesa-cobija-ana-lucia-reis_1772117403",
+      "title": "La Paz irá a las subnacionales sin vocales en el TED tras nuevo fracaso en elección",
+      "snippet": "La Paz irá a las subnacionales sin vocales en el TED tras nuevo fracaso en elección",
+      "url": "https://eldeber.com.bo/yo-elijo/paz-ira-subnacionales-vocales-ted-nuevo-fracaso-eleccion_1772132747",
       "image": "https://images.unsplash.com/photo-1529243856184-4f8bc556cf0d?w=800&q=80",
       "category": "País",
-      "date": "2026-02-27T00:29:25.899Z"
+      "date": "2026-02-27T12:29:25.605Z"
     }
   ]
 }
